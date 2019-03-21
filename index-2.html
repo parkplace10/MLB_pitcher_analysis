@@ -157,14 +157,76 @@
   textarea {
     resize: none;
   }
-    .secondbase {
+  .square {
+  <!border: 5px solid red;>
+  width: 350px;
+  height: 350px;
+}
+    .inningheader {
     background-color: #2d2d30;
+    position: absolute;
+    left: 150px;
     color: white;
     padding: 8px 30px;
     text-align: center;
     text-align: left;
-    left:20%;
+    left:-200px;
     bottom:50%;
+  }
+
+  .inninginput {
+    position: absolute;
+    left: 150px;
+    color: black(218, 218, 218);
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:-215px;
+    bottom: -50px;
+  }
+  .outsheader{
+    background-color: #2d2d30;
+    position: absolute;
+    left: 150px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:175px;
+    bottom:50%;
+  }
+
+  .outsinput {
+    position: absolute;
+    left: 150px;
+    color: black(218, 218, 218);
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:175px;
+    bottom: -60px;
+  }
+  .secondbaseinput{
+    background-color: #2d2d30;
+    position: ;
+    left: 150px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:50%;
+    bottom:50%;
+  }
+  .pitchcountinput {
+    background-color: #2d2d30;
+    position: absolute;
+    left: 150px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:0%;
+    bottom:-200px;
   }
   .diamond {
                     width: 0;
@@ -273,8 +335,10 @@
                 <br>
 
 
-                <section id="imageNav-area">
-                        <div class="imageNav-content">
+                
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="box">
                           <h2 class="imageNav-header">Player's Repertoire</h2>
                           <hr />
                           <div id="images">
@@ -283,27 +347,66 @@
                             <a href="visualizations/cloudiness.html"><img src="assets/images/Fig3.png" alt="Sharp" class="imageNav-photo"></a>
                             <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Length" class="imageNav-photo"></a>
                             <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Timing" class="imageNav-photo"></a>
-                          </div>
+                            </div>
                         </div>
-                      </section>
-                      <!-- End of the Visualizations imageNav Area -->
-                <div class="row">
-           
+                    </div>
+                    <div class="col-md-6">
+                            <div class="box">
+                              <h2 class="imageNav-header">Predict Type</h2>
+                              <hr />
+                              <div id="images">
+                                <a href="visualizations/temp.html"><img src="assets/images/Fig1.png" alt="Fast" class="imageNav-photo"></a>
+                                <a href="visualizations/humidity.html"><img src="assets/images/Fig2.png" alt="Curve" class="imageNav-photo"></a>
+                                <a href="visualizations/cloudiness.html"><img src="assets/images/Fig3.png" alt="Change Up" class="imageNav-photo"></a>
+                                <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Slider" class="imageNav-photo"></a>
+                                <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Knuckle" class="imageNav-photo"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-<!-- Container (The Band Section) -->
+
                     <br>
                     <br>
                     <br>
                     <br>
                     <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <div class="diamond"> 
-                    <div class="secondbase">
-                    2b
-                    </div>                
+                    <div class="row">
+                            <div class="col-md-6">
+                                <div class="diamond">
+                                    <div class="inningheader">
+                                    Inning
+                                    </div>
+                                    <div class="inninginput">
+                                    Input Text
+                                    </div>
+                                    <div class="outsheader">
+                                    Outs
+                                    </div>
+                                    <div class="outsinput">
+                                    Input Text
+                                    </div>
+                                    <div class="secondbaseinput">
+                                    2b
+                                    </div>
+                                    <div class="pitchcountinput">
+                                    PC
+                                    </div>
+                                    
+                                
+                                  <hr />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="square">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                    
+
+
+    
+    
     </ul>
 </div>
 
