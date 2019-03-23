@@ -32,7 +32,7 @@
     opacity: 0.7;
   }
   .box {
-  height: 200px;
+  height: 300px;
   padding: 20px;
   color: #fff;
   background: lightblue;
@@ -225,8 +225,63 @@
     padding: 8px 30px;
     text-align: center;
     text-align: left;
-    left:0%;
+    left:-20px;
     bottom:-200px;
+  }
+  .firstbaseinput {
+    background-color: #2d2d30;
+    position: absolute;
+    left: 150px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:180px;
+    bottom:-200px;
+  }
+  .thirdbaseinput {
+    background-color: #2d2d30;
+    position: absolute;
+    left: 150px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:-200px;
+    bottom:-200px;
+  }
+  .batterstance {
+    background-color: #2d2d30;
+    position: absolute;
+    left: 150px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:-55px;
+    bottom:-480px;
+  }
+  .ballcount {
+    background-color: #2d2d30;
+    position: absolute;
+    left: 150px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:-200px;
+    bottom:-480px;
+  }
+  .strikecount {
+    background-color: #2d2d30;
+    position: absolute;
+    left: 150px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-align: left;
+    left:100px;
+    bottom:-480px;
   }
   .diamond {
                     width: 0;
@@ -342,11 +397,21 @@
                           <h2 class="imageNav-header">Player's Repertoire</h2>
                           <hr />
                           <div id="images">
-                            <a href="visualizations/temp.html"><img src="assets/images/Fig1.png" alt="Pitch Type" class="imageNav-photo"></a>
-                            <a href="visualizations/humidity.html"><img src="assets/images/Fig2.png" alt="Avg Speed" class="imageNav-photo"></a>
-                            <a href="visualizations/cloudiness.html"><img src="assets/images/Fig3.png" alt="Sharp" class="imageNav-photo"></a>
-                            <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Length" class="imageNav-photo"></a>
-                            <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Timing" class="imageNav-photo"></a>
+                            <div class ="pitchtype">
+                            Pitch Type:
+                            </div>
+                            <div class="averagespeed">
+                            Avg Speed:
+                            </div>
+                            <div class="sharp">
+                            Sharp:
+                            </div>
+                            <div class="length">
+                            Length:
+                            </div>
+                            <div class="timing">
+                            Timing:
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -355,17 +420,31 @@
                               <h2 class="imageNav-header">Predict Type</h2>
                               <hr />
                               <div id="images">
-                                <a href="visualizations/temp.html"><img src="assets/images/Fig1.png" alt="Fast" class="imageNav-photo"></a>
-                                <a href="visualizations/humidity.html"><img src="assets/images/Fig2.png" alt="Curve" class="imageNav-photo"></a>
-                                <a href="visualizations/cloudiness.html"><img src="assets/images/Fig3.png" alt="Change Up" class="imageNav-photo"></a>
-                                <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Slider" class="imageNav-photo"></a>
-                                <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Knuckle" class="imageNav-photo"></a>
+                                <div class ="Fast">
+                                Fast:
+                                </div>
+                                <div class="Curve">
+                                Curve:
+                                </div>
+                                <div class="Slider">
+                                Slider:
+                                </div>
+                                <div class="Change-Up">
+                                Change-Up:
+                                </div>
+                                <div class="Knuckle">
+                                Knuckle:
+                                </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
 
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <br>
                     <br>
                     <br>
@@ -392,7 +471,21 @@
                                     <div class="pitchcountinput">
                                     PC
                                     </div>
-                                    
+                                    <div class="firstbaseinput">
+                                    1b
+                                    </div>
+                                    <div class="thirdbaseinput">
+                                    3b
+                                    </div> 
+                                    <div class="batterstance">
+                                    Batter Stance
+                                    </div>  
+                                    <div class="ballcount">
+                                    Ball Count 
+                                    </div>  
+                                    <div class="strikecount">
+                                    Strike Count
+                                    </div>                                   
                                 
                                   <hr />
                                 </div>
