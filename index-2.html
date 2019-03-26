@@ -33,6 +33,7 @@
   }
   .box {
   height: 600px;
+  width: 100%;
   padding: 20px;
   color: black;
   background: white;
@@ -158,9 +159,9 @@
     resize: none;
   }
   .square {
-  <!border: 5px solid red;>
-  width: 350px;
-  height: 350px;
+  height: 50px;
+  width: 50px;
+  background-color: #555;
 }
     .inningheader {
     background-color: #2d2d30;
@@ -311,8 +312,7 @@
   height: 700px;
   filter: grayscale(75%); /* make all photos black and white */ 
   margin: auto;
-  opacity: 0.5
- 
+  opacity: 0.9; 
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -330,6 +330,7 @@
   padding: 16px;
   background-color: white;
 }
+
 
 /* Add styles to the form container */
 .containerstats {
@@ -367,7 +368,45 @@ input[type=text]:focus, input[type=password]:focus {
 
 .btn:hover {
   opacity: 1;
-} 
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  width: 33.333%;
+  border: 6px solid #222;
+}
+
+td::after {
+  content: "";
+  display: block;
+  margin-top: 100%;
+}
+
+td {
+  border: 6px solid #222;
+}
+
+td:first-of-type {
+  border-left-color: solid black;
+  border-top-color: solid black;
+}
+
+td:nth-of-type(2) {
+  border-top-color: solid black;
+}
+
+td:nth-of-type(3) {
+  border-right-color: solid black;
+  border-top-color: solid black;
+}
+
+tr:nth-of-type(3) td {
+  border-bottom-color: solid black;
+}
                   
   </style>
 </head>
@@ -397,25 +436,23 @@ input[type=text]:focus, input[type=password]:focus {
       </nav>
       
                       
-        <div class="box">
-          <div id="images">
-              <div class="row">
-                    
-                        <div class="pitch1">
-                                <div class="container text-left">
-                                        <div class="row">
-                                            <div class="dropdown">
-                                                    <button class="btn btn-primary dropdown-toggle" 
-                                                        type="button" data-toggle="dropdown">Select a Pitcher
-                                                        <span class="caret"></span></button>
-                                                        <ul class="dropdown-menu">
-                                                        <li><a href="#">HTML</a></li>
-                                                        <li><a href="#">CSS</a></li>
-                                                        <li><a href="#">JavaScript</a></li>
-                                    
-                                            </div>
-                    
-                    <div col-md-4>
+<div class="box">
+  <div id="images">
+    <div class="row">
+      <div class="pitch1">
+          <div class="container text-left">
+            <div class="row">
+              <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" 
+                  type="button" data-toggle="dropdown">Select a Pitcher
+                    <span class="caret"></span></button>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">HTML</a></li>
+                        <li><a href="#">CSS</a></li>
+                        <li><a href="#">JavaScript</a></li>
+              </div> 
+            </div>
+                                     
                             <div class="form-group">
                                 <div class= "containergame">
                                 <label for="exampleFormControlSelect1">Game Scenario</label>
@@ -473,43 +510,61 @@ input[type=text]:focus, input[type=password]:focus {
                             </div>
                             </div>
                         </div>
-
-                <div class="col-md-4">
+                              
+                <div class="col-lg-6">
                                 <div class="playstats">
                                 <h2 class="imageNav-header">Player's Repertoire</h2>
                                 <hr />
-                                <div id="images">
-                                  <div class ="fastball">
+                                <div id="images"></div>
+                                  <div class ="fastball"></div>
                                   Fastball: 
-                                  <div class="slider">
+                                  <div class="slider"></div>
                                   Slider:
-                                  <div class="changeup">
+                                  <div class="changeup"></div>
                                   Change Up:
-                                  <div class="curve">
+                                  <div class="curve"></div>
                                   Curve:
-                                  </div>
+                                  
                                 <br>
                                 <br>
+                                <br>
+                                <br>
+                                <br>
+                      
                                 <div class="playstats">
                                 <h2 class="imageNav-header">Prediction Results</h2>
                                 <hr />
-                                <div id="images">
-                                  <div class ="fastball">
+                                <div id="images"></div>
+                                  <div class ="fastball"></div>
                                    Fastball Probability: 
-                                   <div class="slider">
+                                  <div class="slider"></div>
                                    Slider Probability:
-                                   <div class="changeup">
+                                  <div class="changeup"></div>
                                    Change Up Probability:
-                                   <div class="curve">
+                                  <div class="curve"></div>
                                    Curve Probability:
-                                   <div class="location">
+                                  <div class="location"></div>
                                    Location:
-                                   </div>
-                                   </div>
-
-                </div>
-
-
-                        
-                        
-                    <div class ="col"
+                                </div>
+                                </div>
+                                </div>
+                                </div>
+                <div class="col-lg-6">
+                                <table id="board">
+                                    <tr>
+                                      <td></td>
+                                      <td></td>
+                                      <td></td>
+                                    </tr>
+                                    <tr>
+                                      <td></td>
+                                      <td></td>
+                                      <td></td>
+                                    </tr>
+                                    <tr>
+                                      <td></td>
+                                      <td></td>
+                                      <td></td>
+                                    </tr>
+                                  </table>
+                                  </div>
