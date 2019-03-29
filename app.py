@@ -1,7 +1,7 @@
 import os
 import io
 import numpy as np
-import pandas as import pd
+import pandas as pd
 import pickle
 from flask import Flask, request, redirect, url_for, jsonify, render_template
 
@@ -16,6 +16,7 @@ def home_page():
 
         # https://stackoverflow.com/questions/10434599/how-to-get-data-received-in-flask-request
         # use 'get' if needed
+        
         pitcher = request.form['pitcher']
         inning = float(request.form['inning'])
         pscore = float(request.form['pscore'])
@@ -40,11 +41,20 @@ def home_page():
     else:
         # put the default data into our variables
         pitcher = 'Adam Wainwright'
+        inning = '1'
+        outs = '0'
+        balls = '0'
+        strikes = '0'
+        pitch_num = '1'
+        stance = 'R'
+        previous_pitch_type = 'Four-Seamer'
+        previous_pitch_location = 'middle center'
         predicted_pitch_type = 'Four-Seamer'
         predicted_pitch_location = 'middle center'
         
 
-    input_data = { 'pitcher': pitcher, 'inning': inning, 'outs':outs, 'balls':balls, 'strikes':strikes, 'pitch_num':pitch_num, 'stance':stance, 'previous_pitch_type':previous_pitch_type, 'previous_pitch_location': previous_pitch_location}
+    input_data = { 'pitcher': pitcher, 'inning': inning, 'outs':outs, 'balls':balls, 'strikes':strikes, 'pitch_num':pitch_num, 'stance':stance, 
+    'previous_pitch_type':previous_pitch_type, 'previous_pitch_location': previous_pitch_location}
     output_data = {'predicted pitch type': predicted_pitch_type, 'predicted pitch location': predicted_pitch_location}
 
     
