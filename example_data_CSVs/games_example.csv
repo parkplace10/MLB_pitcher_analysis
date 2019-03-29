@@ -1,0 +1,1000 @@
+﻿attendance,away_final_score,away_team,date,elapsed_time,g_id,home_final_score,home_team,start_time,umpire_1B,umpire_2B,umpire_3B,umpire_HP,venue_name,weather,wind,delay
+35055,3,sln,4/5/2015,184,201500001,0,chn,7:17 PM,Mark Wegner,Marty Foster,Mike Muchlinski,Mike Winters,Wrigley Field,"44 degrees, clear","7 mph, In from CF",0
+45909,1,ana,4/6/2015,153,201500002,4,sea,1:12 PM,Ron Kulpa,Brian Knight,Vic Carapazza,Larry Vanover,Safeco Field,"54 degrees, cloudy","1 mph, Varies",0
+36969,2,atl,4/6/2015,156,201500003,1,mia,4:22 PM,Laz Diaz,Chris Guccione,Cory Blaser,Jeff Nelson,Marlins Park,"80 degrees, partly cloudy","16 mph, In from CF",16
+31042,6,bal,4/6/2015,181,201500004,2,tba,3:12 PM,Ed Hickox,Paul Nauert,Mike Estabrook,Dana DeMuth,Tropicana Field,"72 degrees, dome","0 mph, None",0
+45549,8,bos,4/6/2015,181,201500005,0,phi,3:08 PM,Phil Cuzzi,Tony Randazzo,Will Little,Gerry Davis,Citizens Bank Park,"71 degrees, partly cloudy","11 mph, Out to RF",0
+40085,1,cha,4/6/2015,170,201500006,10,kca,3:14 PM,Hunter Wendelstedt,Bob Davidson,David Rackley,Jerry Layne,Kauffman Stadium,"59 degrees, drizzle","6 mph, R to L",0
+43753,0,cle,4/6/2015,150,201500007,2,hou,6:10 PM,Angel Hernandez,Scott Barry,Chris Conroy,Ted Barrett,Minute Maid Park,"79 degrees, partly cloudy","14 mph, Out to LF",0
+46032,10,col,4/6/2015,180,201500008,0,mil,1:20 PM,Dan Iassogna,CB Bucknor,Lance Barrett,Dale Scott,Miller Park,"70 degrees, roof closed","0 mph, None",0
+45030,0,min,4/6/2015,150,201500009,4,det,1:08 PM,Kerwin Danley,Lance Barksdale,D.J. Reyburn,Joe West,Comerica Park,"52 degrees, partly cloudy","5 mph, R to L",0
+42295,3,nyn,4/6/2015,155,201500010,1,was,4:09 PM,Tim Timmons,Chris Segal,Todd Tichenor,Tim Welke,Nationals Park,"76 degrees, sunny","14 mph, Out to CF",0
+43633,2,pit,4/6/2015,150,201500011,5,cin,4:10 PM,Sam Holbrook,Bill Welke,James Hoye,John Hirschbeck,Great American Ball Park,"68 degrees, overcast","15 mph, Out to LF",35
+53518,3,sdn,4/6/2015,184,201500012,6,lan,1:12 PM,Mark Carlson,Mike DiMuro,Tripp Gibson III,Brian Gorman,Dodger Stadium,"65 degrees, partly cloudy","1 mph, Varies",0
+49043,5,sfn,4/6/2015,198,201500013,4,ari,7:13 PM,Eric Cooper,Rob Drake,Quinn Wolcott,Gary Cederstrom,Chase Field,"81 degrees, clear","7 mph, L to R",0
+36067,0,tex,4/6/2015,165,201500014,8,oak,7:09 PM,Doug Eddings,Jim Wolf,Adam Hamari,Bill Miller,O.co Coliseum,"56 degrees, cloudy","17 mph, Out to RF",0
+48469,6,tor,4/6/2015,179,201500015,1,nya,1:13 PM,Jim Reynolds,Jerry Meals,Paul Schrieber,Fieldin Culbreth,Yankee Stadium,"54 degrees, partly cloudy","5 mph, R to L",0
+26545,2,ana,4/7/2015,133,201500016,0,sea,7:10 PM,Brian Knight,Vic Carapazza,Larry Vanover,Ron Kulpa,Safeco Field,"56 degrees, partly cloudy","3 mph, Out to RF",0
+17483,12,atl,4/7/2015,194,201500017,2,mia,7:11 PM,Chris Guccione,Cory Blaser,Jeff Nelson,Laz Diaz,Marlins Park,"75 degrees, roof closed","0 mph, None",0
+13906,6,bal,4/7/2015,202,201500018,5,tba,7:10 PM,Paul Nauert,Mike Estabrook,Dana DeMuth,Ed Hickox,Tropicana Field,"72 degrees, dome","0 mph, None",0
+30222,5,col,4/7/2015,168,201500019,2,mil,7:10 PM,CB Bucknor,Lance Barrett,Dale Scott,Dan Iassogna,Miller Park,"64 degrees, roof closed","0 mph, None",0
+40356,7,sdn,4/7/2015,211,201500020,3,lan,7:40 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Mark Carlson,Dodger Stadium,"57 degrees, rain","1 mph, Varies",30
+22626,6,sfn,4/7/2015,190,201500021,7,ari,6:40 PM,Rob Drake,Quinn Wolcott,Gary Cederstrom,Eric Cooper,Chase Field,"79 degrees, partly cloudy","13 mph, Out to RF",0
+15025,3,tex,4/7/2015,150,201500022,1,oak,7:08 PM,Jim Wolf,Adam Hamari,Bill Miller,Doug Eddings,O.co Coliseum,"54 degrees, partly cloudy","16 mph, Out to RF",0
+25495,5,ana,4/8/2015,168,201500023,3,sea,7:10 PM,Vic Carapazza,Larry Vanover,Ron Kulpa,Brian Knight,Safeco Field,"60 degrees, partly cloudy","1 mph, In from LF",0
+16127,2,atl,4/8/2015,165,201500024,0,mia,7:11 PM,Cory Blaser,Jeff Nelson,Laz Diaz,Chris Guccione,Marlins Park,"73 degrees, roof closed","0 mph, None",0
+13569,0,bal,4/8/2015,180,201500025,2,tba,7:10 PM,Mike Estabrook,Dana DeMuth,Toby Basner,Paul Nauert,Tropicana Field,"72 degrees, dome","0 mph, None",0
+26465,2,bos,4/8/2015,174,201500026,4,phi,7:08 PM,Tony Randazzo,Will Little,Gerry Davis,Phil Cuzzi,Citizens Bank Park,"40 degrees, cloudy","11 mph, R to L",0
+23385,5,cha,4/8/2015,191,201500027,7,kca,7:10 PM,Bob Davidson,David Rackley,Jerry Layne,Hunter Wendelstedt,Kauffman Stadium,"74 degrees, cloudy","14 mph, R to L",0
+23078,2,cle,4/8/2015,160,201500028,0,hou,7:10 PM,Scott Barry,Chris Conroy,Ted Barrett,Angel Hernandez,Minute Maid Park,"79 degrees, cloudy","11 mph, Out to LF",0
+28720,5,col,4/8/2015,195,201500029,4,mil,7:10 PM,Lance Barrett,Dale Scott,Dan Iassogna,CB Bucknor,Miller Park,"64 degrees, roof closed","0 mph, None",0
+28280,0,min,4/8/2015,186,201500030,11,det,1:08 PM,Lance Barksdale,D.J. Reyburn,Joe West,Kerwin Danley,Comerica Park,"39 degrees, cloudy","7 mph, In from LF",0
+25999,1,nyn,4/8/2015,141,201500031,2,was,8:01 PM,Tim Timmons,Todd Tichenor,Tim Welke,Mike Everitt,Nationals Park,"46 degrees, cloudy","6 mph, Out to CF",56
+30859,4,pit,4/8/2015,241,201500032,5,cin,9:44 PM,Bill Welke,James Hoye,John Hirschbeck,Sam Holbrook,Great American Ball Park,"64 degrees, cloudy","2 mph, L to R",154
+52204,4,sdn,4/8/2015,196,201500033,7,lan,7:09 PM,Tripp Gibson III,Brian Gorman,Mark Carlson,Mike DiMuro,Dodger Stadium,"65 degrees, clear","10 mph, L to R",0
+21642,5,sfn,4/8/2015,188,201500034,2,ari,6:40 PM,Quinn Wolcott,Gary Cederstrom,Eric Cooper,Rob Drake,Chase Field,"74 degrees, clear","7 mph, Out to RF",0
+26814,0,sln,4/8/2015,143,201500035,2,chn,1:22 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,Wrigley Field,"46 degrees, cloudy","6 mph, In from CF",0
+19479,0,tex,4/8/2015,175,201500036,10,oak,7:07 PM,Adam Hamari,Bill Miller,Doug Eddings,Jim Wolf,O.co Coliseum,"58 degrees, partly cloudy","10 mph, Out to RF",0
+31020,3,tor,4/8/2015,176,201500037,4,nya,7:10 PM,Jerry Meals,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Yankee Stadium,"44 degrees, cloudy","17 mph, L to R",0
+23418,6,bos,4/9/2015,188,201500038,2,phi,7:06 PM,Will Little,Gerry Davis,Phil Cuzzi,Tony Randazzo,Citizens Bank Park,"42 degrees, overcast","10 mph, R to L",0
+20236,1,cha,4/9/2015,157,201500039,4,kca,1:11 PM,David Rackley,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Kauffman Stadium,"72 degrees, partly cloudy","18 mph, L to R",0
+22593,5,cle,4/9/2015,188,201500040,1,hou,1:11 PM,Chris Conroy,Ted Barrett,Angel Hernandez,Scott Barry,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+26782,1,min,4/9/2015,163,201500041,7,det,4:44 PM,D.J. Reyburn,Joe West,Kerwin Danley,Lance Barksdale,Comerica Park,"59 degrees, drizzle","13 mph, R to L",216
+25327,6,nyn,4/9/2015,174,201500042,3,was,1:07 PM,Todd Tichenor,Tim Welke,Mike Everitt,Tim Timmons,Nationals Park,"47 degrees, cloudy","8 mph, Out to RF",0
+15616,2,pit,4/9/2015,152,201500043,3,cin,12:36 PM,James Hoye,John Hirschbeck,Sam Holbrook,Bill Welke,Great American Ball Park,"73 degrees, cloudy","13 mph, R to L",74
+45149,1,sfn,4/9/2015,245,201500044,0,sdn,3:41 PM,Brian Gorman,Mark Carlson,Mike DiMuro,Tripp Gibson III,Petco Park,"67 degrees, sunny","12 mph, L to R",0
+16045,10,tex,4/9/2015,152,201500045,1,oak,12:37 PM,Bill Miller,Doug Eddings,Jim Wolf,Adam Hamari,O.co Coliseum,"58 degrees, partly cloudy","7 mph, Out to RF",0
+32152,6,tor,4/9/2015,172,201500046,3,nya,7:08 PM,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Jerry Meals,Yankee Stadium,"42 degrees, overcast","7 mph, L to R",0
+41292,6,bos,4/10/2015,409,201500047,5,nya,7:08 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Yankee Stadium,"55 degrees, cloudy","11 mph, R to L",16
+49303,1,chn,4/10/2015,181,201500048,5,col,2:10 PM,Gary Cederstrom,Eric Cooper,Rob Drake,Quinn Wolcott,Coors Field,"61 degrees, partly cloudy","7 mph, R to L",0
+35789,8,det,4/10/2015,215,201500049,4,cle,4:10 PM,Dale Scott,Dan Iassogna,CB Bucknor,Lance Barrett,Progressive Field,"53 degrees, sunny","17 mph, L to R",0
+48885,5,hou,4/10/2015,165,201500050,1,tex,3:08 PM,Jeff Nelson,Laz Diaz,Chris Guccione,Cory Blaser,Globe Life Park in Arlington,"65 degrees, partly cloudy","6 mph, In from LF",0
+44489,4,kca,4/10/2015,196,201500051,2,ana,7:12 PM,Doug Eddings,Jim Wolf,Adam Hamari,Bill Miller,Angel Stadium of Anaheim,"67 degrees, partly cloudy","7 mph, Out to CF",0
+27404,3,lan,4/10/2015,181,201500052,4,ari,6:40 PM,Ted Barrett,Angel Hernandez,Scott Barry,Chris Conroy,Chase Field,"82 degrees, clear","6 mph, In from CF",0
+38533,6,min,4/10/2015,181,201500053,0,cha,3:10 PM,John Hirschbeck,Sam Holbrook,Bill Welke,James Hoye,U.S. Cellular Field,"66 degrees, sunny","21 mph, R to L",0
+46279,3,nyn,4/10/2015,181,201500054,5,atl,8:51 PM,Fieldin Culbreth,Marvin Hudson,Jim Reynolds,Paul Schrieber,Turner Field,"65 degrees, cloudy","6 mph, L to R",69
+27373,6,pit,4/10/2015,193,201500055,2,mil,7:11 PM,Dana DeMuth,Toby Basner,Paul Nauert,Mike Estabrook,Miller Park,"66 degrees, roof closed","0 mph, None",0
+30114,0,sea,4/10/2015,164,201500056,12,oak,7:08 PM,Mark Carlson,Mike DiMuro,Tripp Gibson III,Brian Gorman,O.co Coliseum,"60 degrees, clear","3 mph, Out to RF",0
+40015,0,sfn,4/10/2015,151,201500057,1,sdn,7:11 PM,Larry Vanover,Ron Kulpa,Brian Knight,Vic Carapazza,Petco Park,"64 degrees, cloudy","7 mph, Varies",0
+30808,4,sln,4/10/2015,146,201500058,5,cin,7:12 PM,Joe West,Kerwin Danley,Lance Barksdale,D.J. Reyburn,Great American Ball Park,"64 degrees, clear","11 mph, R to L",0
+17375,9,tba,4/10/2015,216,201500059,10,mia,7:10 PM,Gerry Davis,Phil Cuzzi,Tony Randazzo,Will Little,Marlins Park,"75 degrees, roof closed","0 mph, None",0
+45936,12,tor,4/10/2015,165,201500060,5,bal,3:11 PM,Tim Welke,Mike Everitt,Tim Timmons,Todd Tichenor,Oriole Park at Camden Yards,"51 degrees, rain","2 mph, R to L",0
+19047,1,was,4/10/2015,150,201500061,4,phi,7:07 PM,Jerry Layne,Hunter Wendelstedt,Bob Davidson,David Rackley,Citizens Bank Park,"57 degrees, cloudy","11 mph, Out to RF",0
+46678,8,bos,4/11/2015,193,201500062,4,nya,1:08 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Yankee Stadium,"55 degrees, partly cloudy","21 mph, L to R",0
+43812,9,chn,4/11/2015,199,201500063,5,col,6:12 PM,Eric Cooper,Rob Drake,Quinn Wolcott,Gary Cederstrom,Coors Field,"67 degrees, partly cloudy","2 mph, L to R",0
+23161,9,det,4/11/2015,256,201500064,6,cle,4:10 PM,Dan Iassogna,CB Bucknor,Lance Barrett,Dale Scott,Progressive Field,"53 degrees, sunny","4 mph, L to R",0
+36833,2,hou,4/11/2015,198,201500065,6,tex,7:08 PM,Laz Diaz,Chris Guccione,Cory Blaser,Jeff Nelson,Globe Life Park in Arlington,"71 degrees, partly cloudy","6 mph, L to R",0
+44154,6,kca,4/11/2015,161,201500066,4,ana,6:06 PM,Jim Wolf,Adam Hamari,Bill Miller,Doug Eddings,Angel Stadium of Anaheim,"68 degrees, clear","6 mph, Out to RF",0
+37636,0,lan,4/11/2015,156,201500067,6,ari,5:10 PM,Angel Hernandez,Scott Barry,Chris Conroy,Ted Barrett,Chase Field,"83 degrees, sunny","10 mph, Varies",0
+22317,4,min,4/11/2015,174,201500068,5,cha,1:09 PM,Sam Holbrook,Bill Welke,James Hoye,John Hirschbeck,U.S. Cellular Field,"72 degrees, sunny","7 mph, R to L",0
+36056,3,nyn,4/11/2015,145,201500069,5,atl,7:14 PM,Marvin Hudson,Jim Reynolds,Paul Schrieber,Fieldin Culbreth,Turner Field,"76 degrees, partly cloudy","8 mph, L to R",0
+41108,0,pit,4/11/2015,146,201500070,6,mil,6:10 PM,Toby Basner,Paul Nauert,Mike Estabrook,Dana DeMuth,Miller Park,"69 degrees, roof closed","0 mph, None",0
+24355,5,sea,4/11/2015,219,201500071,4,oak,1:07 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Mark Carlson,O.co Coliseum,"63 degrees, partly cloudy","3 mph, Out to RF",0
+42823,2,sfn,4/11/2015,194,201500072,10,sdn,5:41 PM,Ron Kulpa,Brian Knight,Vic Carapazza,Larry Vanover,Petco Park,"67 degrees, sunny","10 mph, R to L",0
+41525,4,sln,4/11/2015,156,201500073,1,cin,1:11 PM,Kerwin Danley,Lance Barksdale,D.J. Reyburn,Joe West,Great American Ball Park,"56 degrees, sunny","4 mph, L to R",0
+17830,2,tba,4/11/2015,152,201500074,0,mia,4:10 PM,Phil Cuzzi,Tony Randazzo,Will Little,Gerry Davis,Marlins Park,"75 degrees, roof closed","0 mph, None",0
+38897,1,tor,4/11/2015,154,201500075,7,bal,7:07 PM,Mike Everitt,Tim Timmons,Todd Tichenor,Tim Welke,Oriole Park at Camden Yards,"61 degrees, clear","14 mph, Out to LF",0
+23740,2,was,4/11/2015,205,201500076,3,phi,7:06 PM,Hunter Wendelstedt,Bob Davidson,David Rackley,Jerry Layne,Citizens Bank Park,"61 degrees, clear","10 mph, In from LF",0
+43019,4,bos,4/12/2015,204,201500077,14,nya,8:08 PM,Mark Wegner,Marty Foster,Mike Muchlinski,Mike Winters,Yankee Stadium,"54 degrees, clear","12 mph, Out to LF",0
+41363,6,chn,4/12/2015,185,201500078,5,col,2:11 PM,Rob Drake,Quinn Wolcott,Gary Cederstrom,Eric Cooper,Coors Field,"65 degrees, partly cloudy","13 mph, In from RF",0
+19555,8,det,4/12/2015,193,201500079,5,cle,1:10 PM,CB Bucknor,Lance Barrett,Dale Scott,Dan Iassogna,Progressive Field,"60 degrees, sunny","8 mph, In from CF",0
+35276,6,hou,4/12/2015,264,201500080,4,tex,2:06 PM,Chris Guccione,Cory Blaser,Jeff Nelson,Laz Diaz,Globe Life Park in Arlington,"73 degrees, cloudy","10 mph, R to L",0
+37060,9,kca,4/12/2015,176,201500081,2,ana,12:38 PM,Adam Hamari,Bill Miller,Doug Eddings,Jim Wolf,Angel Stadium of Anaheim,"73 degrees, sunny","4 mph, L to R",0
+29678,7,lan,4/12/2015,207,201500082,4,ari,1:10 PM,Scott Barry,Chris Conroy,Ted Barrett,Angel Hernandez,Chase Field,"77 degrees, partly cloudy","8 mph, Out to CF",0
+23057,2,min,4/12/2015,176,201500083,6,cha,1:09 PM,Bill Welke,James Hoye,John Hirschbeck,Sam Holbrook,U.S. Cellular Field,"71 degrees, partly cloudy","14 mph, R to L",0
+28192,4,nyn,4/12/2015,157,201500084,3,atl,1:36 PM,Jim Reynolds,Paul Schrieber,Fieldin Culbreth,Marvin Hudson,Turner Field,"63 degrees, cloudy","8 mph, R to L",0
+39017,10,pit,4/12/2015,180,201500085,2,mil,1:11 PM,Paul Nauert,Mike Estabrook,Dana DeMuth,Toby Basner,Miller Park,"70 degrees, roof closed","0 mph, None",0
+32282,8,sea,4/12/2015,191,201500086,7,oak,1:07 PM,Tripp Gibson III,Brian Gorman,Mark Carlson,Mike DiMuro,O.co Coliseum,"67 degrees, partly cloudy","7 mph, Out to RF",0
+40184,4,sfn,4/12/2015,181,201500087,6,sdn,1:11 PM,Brian Knight,Vic Carapazza,Larry Vanover,Ron Kulpa,Petco Park,"67 degrees, sunny","9 mph, L to R",0
+41446,7,sln,4/12/2015,243,201500088,5,cin,1:11 PM,Lance Barksdale,D.J. Reyburn,Joe West,Kerwin Danley,Great American Ball Park,"67 degrees, sunny","4 mph, R to L",0
+20199,8,tba,4/12/2015,196,201500089,5,mia,1:10 PM,Tony Randazzo,Will Little,Gerry Davis,Phil Cuzzi,Marlins Park,"74 degrees, roof closed","0 mph, None",0
+32522,10,tor,4/12/2015,197,201500090,7,bal,1:39 PM,Tim Timmons,Todd Tichenor,Tim Welke,Mike Everitt,Oriole Park at Camden Yards,"60 degrees, sunny","3 mph, L to R",0
+30094,4,was,4/12/2015,199,201500091,3,phi,1:38 PM,Bob Davidson,David Rackley,Jerry Layne,Hunter Wendelstedt,Citizens Bank Park,"62 degrees, sunny","3 mph, Out to CF",0
+18401,6,ana,4/13/2015,197,201500092,3,tex,7:09 PM,Lance Barrett,Dale Scott,Dan Iassogna,CB Bucknor,Globe Life Park in Arlington,"64 degrees, cloudy","15 mph, L to R",0
+19538,8,ari,4/13/2015,182,201500093,4,sdn,7:11 PM,Bill Miller,Adrian Johnson,Jim Wolf,Adam Hamari,Petco Park,"64 degrees, partly cloudy","10 mph, R to L",0
+26390,6,cin,4/13/2015,182,201500094,7,chn,7:05 PM,Paul Emmel,Andy Fletcher,Jordan Baker,Jerry Meals,Wrigley Field,"62 degrees, partly cloudy","15 mph, L to R",0
+42019,2,col,4/13/2015,178,201500095,0,sfn,1:41 PM,Brian Gorman,Mark Carlson,Mike DiMuro,Tripp Gibson III,AT&T Park,"63 degrees, partly cloudy","10 mph, Out to CF",0
+39933,4,det,4/13/2015,151,201500096,5,pit,1:38 PM,David Rackley,Jerry Layne,Hunter Wendelstedt,Bob Davidson,PNC Park,"76 degrees, partly cloudy","16 mph, Out to LF",0
+40123,12,kca,4/13/2015,170,201500097,3,min,3:16 PM,Mike Estabrook,Dana DeMuth,Joe West,Paul Nauert,Target Field,"61 degrees, partly cloudy","21 mph, Out to CF",0
+13417,2,mia,4/13/2015,182,201500098,3,atl,8:02 PM,Brian O'Nora,Alan Porter,Mark Ripperger,Jeff Kellogg,Turner Field,"67 degrees, overcast","3 mph, R to L",91
+47875,5,mil,4/13/2015,181,201500099,4,sln,3:20 PM,James Hoye,John Hirschbeck,John Tumpane,Bill Welke,Busch Stadium,"67 degrees, cloudy","12 mph, In from LF",0
+21633,6,nya,4/13/2015,189,201500100,5,bal,7:11 PM,Gary Cederstrom,Sean Barber,Eric Cooper,Lance Barksdale,Oriole Park at Camden Yards,"68 degrees, clear","9 mph, In from LF",0
+19279,8,oak,4/13/2015,171,201500101,1,hou,7:11 PM,Todd Tichenor,Tim Welke,Mike Everitt,Tim Timmons,Minute Maid Park,"82 degrees, partly cloudy","8 mph, R to L",0
+43947,0,phi,4/13/2015,173,201500102,2,nyn,1:14 PM,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Tom Hallion,Citi Field,"63 degrees, sunny","9 mph, Out to LF",0
+42202,5,sea,4/13/2015,184,201500103,6,lan,7:09 PM,Greg Gibson,Marvin Hudson,Chad Fairchild,Jim Joyce,Dodger Stadium,"67 degrees, clear","3 mph, Out to RF",0
+48414,2,tba,4/13/2015,150,201500104,1,tor,7:29 PM,Cory Blaser,Jeff Nelson,Laz Diaz,Chris Guccione,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+37203,4,was,4/13/2015,181,201500105,9,bos,3:13 PM,Jim Reynolds,Paul Schrieber,Clint Fagan,Manny Gonzalez,Fenway Park,"69 degrees, partly cloudy","16 mph, Out to LF",0
+21805,2,ana,4/14/2015,177,201500106,8,tex,7:07 PM,Dan Iassogna,CB Bucknor,Toby Basner,Lance Barrett,Globe Life Park in Arlington,"60 degrees, cloudy","3 mph, L to R",0
+20102,1,ari,4/14/2015,151,201500107,5,sdn,7:10 PM,Adrian Johnson,Jim Wolf,Adam Hamari,Bill Miller,Petco Park,"66 degrees, clear","8 mph, L to R",0
+10642,4,cha,4/14/2015,181,201500108,1,cle,7:11 PM,Vic Carapazza,Larry Vanover,Ron Kulpa,Brian Knight,Progressive Field,"48 degrees, cloudy","6 mph, In from CF",0
+27525,3,cin,4/14/2015,165,201500109,2,chn,7:04 PM,Andy Fletcher,Jordan Baker,Jerry Meals,Paul Emmel,Wrigley Field,"51 degrees, partly cloudy","2 mph, In from CF",0
+41051,4,col,4/14/2015,189,201500110,1,sfn,7:16 PM,Mark Carlson,Mike DiMuro,Tripp Gibson III,Brian Gorman,AT&T Park,"58 degrees, clear","22 mph, Out to CF",0
+31755,2,det,4/14/2015,170,201500111,0,pit,7:08 PM,Jerry Layne,Hunter Wendelstedt,Bob Davidson,David Rackley,PNC Park,"63 degrees, cloudy","7 mph, In from RF",0
+15765,8,mia,4/14/2015,180,201500112,2,atl,7:10 PM,Alan Porter,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Turner Field,"79 degrees, partly cloudy","7 mph, L to R",0
+19283,3,nya,4/14/2015,149,201500113,4,bal,7:07 PM,Sean Barber,Eric Cooper,Lance Barksdale,Gary Cederstrom,Oriole Park at Camden Yards,"56 degrees, overcast","4 mph, In from CF",0
+18935,4,oak,4/14/2015,178,201500114,0,hou,7:10 PM,Tim Welke,Mike Everitt,Tim Timmons,Todd Tichenor,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+39489,5,phi,4/14/2015,192,201500115,6,nyn,7:11 PM,Dan Bellino,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Citi Field,"65 degrees, cloudy","8 mph, In from RF",0
+43115,5,sea,4/14/2015,220,201500116,6,lan,7:10 PM,Marvin Hudson,Chad Fairchild,Jim Joyce,Greg Gibson,Dodger Stadium,"67 degrees, clear","0 mph, None",0
+17264,3,tba,4/14/2015,186,201500117,2,tor,7:07 PM,Jeff Nelson,Laz Diaz,Chris Guccione,Cory Blaser,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+35258,7,was,4/14/2015,203,201500118,8,bos,6:10 PM,Paul Schrieber,Clint Fagan,Manny Gonzalez,Jim Reynolds,Fenway Park,"63 degrees, cloudy","11 mph, L to R",0
+25757,10,ana,4/15/2015,193,201500119,2,tex,1:07 PM,CB Bucknor,Toby Basner,Lance Barrett,Dan Iassogna,Globe Life Park in Arlington,"70 degrees, sunny","3 mph, In from RF",0
+23104,2,ari,4/15/2015,161,201500120,3,sdn,6:12 PM,Jim Wolf,Adam Hamari,Bill Miller,Adrian Johnson,Petco Park,"70 degrees, clear","8 mph, Out to RF",0
+11042,2,cha,4/15/2015,178,201500121,4,cle,12:11 PM,Larry Vanover,Ron Kulpa,Brian Knight,Vic Carapazza,Progressive Field,"52 degrees, partly cloudy","11 mph, In from CF",0
+29205,0,cin,4/15/2015,159,201500122,5,chn,7:05 PM,Jordan Baker,Jerry Meals,Paul Emmel,Andy Fletcher,Wrigley Field,"49 degrees, partly cloudy","18 mph, In from RF",0
+41188,4,col,4/15/2015,171,201500123,2,sfn,7:14 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Mark Carlson,AT&T Park,"64 degrees, clear","16 mph, Out to CF",0
+19509,1,det,4/15/2015,172,201500124,0,pit,7:06 PM,Hunter Wendelstedt,Bob Davidson,David Rackley,Jerry Layne,PNC Park,"64 degrees, cloudy","9 mph, In from LF",0
+21362,1,kca,4/15/2015,145,201500125,3,min,7:10 PM,Dana DeMuth,Joe West,Paul Nauert,Mike Estabrook,Target Field,"67 degrees, partly cloudy","16 mph, R to L",0
+18342,6,mia,4/15/2015,145,201500126,2,atl,12:10 PM,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Alan Porter,Turner Field,"68 degrees, cloudy","2 mph, R to L",0
+40826,2,mil,4/15/2015,170,201500127,4,sln,7:15 PM,John Hirschbeck,John Tumpane,Bill Welke,James Hoye,Busch Stadium,"64 degrees, cloudy","11 mph, In from RF",0
+23409,5,nya,4/15/2015,194,201500128,7,bal,7:08 PM,Eric Cooper,Lance Barksdale,Gary Cederstrom,Sean Barber,Oriole Park at Camden Yards,"66 degrees, overcast","1 mph, Out to CF",0
+19777,1,oak,4/15/2015,162,201500129,6,hou,7:12 PM,Mike Everitt,Tim Timmons,Todd Tichenor,Tim Welke,Minute Maid Park,"78 degrees, clear","5 mph, In from LF",0
+21052,1,phi,4/15/2015,156,201500130,6,nyn,7:10 PM,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Dan Bellino,Citi Field,"66 degrees, partly cloudy","14 mph, In from LF",0
+51287,2,sea,4/15/2015,173,201500131,5,lan,7:15 PM,Chad Fairchild,Jim Joyce,Greg Gibson,Marvin Hudson,Dodger Stadium,"72 degrees, clear","5 mph, Out to RF",0
+15086,7,tba,4/15/2015,182,201500132,12,tor,7:06 PM,Laz Diaz,Chris Guccione,Cory Blaser,Jeff Nelson,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+33493,10,was,4/15/2015,188,201500133,5,bos,1:37 PM,Clint Fagan,Manny Gonzalez,Jim Reynolds,Paul Schrieber,Fenway Park,"66 degrees, partly cloudy","10 mph, In from LF",0
+41545,7,ari,4/16/2015,260,201500134,6,sfn,7:15 PM,Chris Segal,Lance Barrett,Dan Iassogna,CB Bucknor,AT&T Park,"62 degrees, clear","12 mph, Out to RF",0
+17449,5,kca,4/16/2015,181,201500135,8,min,12:11 PM,Joe West,Paul Nauert,Mike Estabrook,Dana DeMuth,Target Field,"63 degrees, partly cloudy","8 mph, R to L",0
+20556,5,mia,4/16/2015,181,201500136,7,nyn,7:12 PM,Lance Barksdale,Gary Cederstrom,Sean Barber,Eric Cooper,Citi Field,"59 degrees, clear","11 mph, Out to LF",0
+40079,0,mil,4/16/2015,174,201500137,4,sln,12:45 PM,John Tumpane,Bill Welke,James Hoye,John Hirschbeck,Busch Stadium,"72 degrees, partly cloudy","1 mph, In from CF",0
+24768,2,phi,4/16/2015,136,201500138,5,was,7:05 PM,Ron Kulpa,Brian Knight,Vic Carapazza,Larry Vanover,Nationals Park,"70 degrees, cloudy","5 mph, Out to LF",0
+14433,4,tba,4/16/2015,180,201500139,2,tor,7:06 PM,Chris Guccione,Cory Blaser,Jeff Nelson,Laz Diaz,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+22660,6,ana,4/17/2015,177,201500140,3,hou,7:11 PM,Paul Nauert,Mike Estabrook,Dana DeMuth,Toby Basner,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+41550,9,ari,4/17/2015,180,201500141,0,sfn,7:15 PM,Lance Barrett,Dan Iassogna,CB Bucknor,Chris Segal,AT&T Park,"54 degrees, clear","11 mph, Out to CF",0
+21397,8,atl,4/17/2015,189,201500142,7,tor,7:07 PM,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Joe West,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+34341,2,bal,4/17/2015,193,201500143,3,bos,7:11 PM,Jerry Meals,Paul Emmel,Andy Fletcher,Jordan Baker,Fenway Park,"64 degrees, cloudy","14 mph, Out to RF",0
+33084,1,cha,4/17/2015,155,201500144,2,det,1:08 PM,Jeff Kellogg,Brian O'Nora,Alan Porter,Mark Ripperger,Comerica Park,"64 degrees, sunny","2 mph, L to R",0
+46462,1,cin,4/17/2015,141,201500145,6,sln,7:16 PM,Manny Gonzalez,Jim Reynolds,Paul Schrieber,Clint Fagan,Busch Stadium,"77 degrees, clear","3 mph, R to L",0
+21307,2,cle,4/17/2015,218,201500146,3,min,7:12 PM,Tripp Gibson III,Brian Gorman,Mark Carlson,Mike DiMuro,Target Field,"74 degrees, partly cloudy","7 mph, Out to CF",0
+48950,3,col,4/17/2015,198,201500147,7,lan,7:11 PM,Tim Timmons,Todd Tichenor,Tim Welke,Mike Everitt,Dodger Stadium,"73 degrees, clear","7 mph, Out to RF",0
+38753,1,mia,4/17/2015,158,201500148,4,nyn,7:10 PM,Gary Cederstrom,Sean Barber,Eric Cooper,Lance Barksdale,Citi Field,"68 degrees, partly cloudy","9 mph, Out to RF",0
+25664,3,mil,4/17/2015,177,201500149,6,pit,7:07 PM,Cory Blaser,Jeff Nelson,Laz Diaz,Chris Guccione,PNC Park,"77 degrees, partly cloudy","7 mph, Out to LF",0
+15752,5,nya,4/17/2015,192,201500150,4,tba,7:11 PM,Bob Davidson,David Rackley,Jerry Layne,Hunter Wendelstedt,Tropicana Field,"72 degrees, dome","0 mph, None",0
+39228,4,oak,4/17/2015,153,201500151,6,kca,7:10 PM,Jim Joyce,Greg Gibson,Marvin Hudson,Chad Fairchild,Kauffman Stadium,"74 degrees, cloudy","5 mph, R to L",0
+31608,2,phi,4/17/2015,158,201500152,7,was,7:05 PM,Brian Knight,Vic Carapazza,Larry Vanover,Ron Kulpa,Nationals Park,"71 degrees, cloudy","4 mph, Out to RF",0
+32138,5,sdn,4/17/2015,177,201500153,4,chn,1:20 PM,Bill Welke,James Hoye,John Hirschbeck,Sam Holbrook,Wrigley Field,"55 degrees, partly cloudy","9 mph, R to L",0
+36606,3,tex,4/17/2015,180,201500154,1,sea,7:10 PM,Adam Hamari,Bill Miller,Adrian Johnson,Jim Wolf,Safeco Field,"59 degrees, clear","6 mph, In from LF",0
+28209,0,ana,4/18/2015,158,201500155,4,hou,6:11 PM,Mike Estabrook,Dana DeMuth,Toby Basner,Paul Nauert,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+41756,1,ari,4/18/2015,158,201500156,4,sfn,6:07 PM,Dan Iassogna,CB Bucknor,Chris Segal,Lance Barrett,AT&T Park,"62 degrees, clear","12 mph, Out to CF",0
+34743,5,atl,4/18/2015,161,201500157,6,tor,1:09 PM,Tom Hallion,Alfonso Marquez,Joe West,Bruce Dreckman,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+37655,4,bal,4/18/2015,204,201500158,1,bos,4:06 PM,Paul Emmel,Andy Fletcher,Jordan Baker,Jerry Meals,Fenway Park,"47 degrees, sunny","10 mph, In from RF",0
+39877,12,cha,4/18/2015,181,201500159,3,det,1:08 PM,Brian O'Nora,Alan Porter,Mark Ripperger,Jeff Kellogg,Comerica Park,"70 degrees, sunny","15 mph, L to R",0
+45906,2,cin,4/18/2015,162,201500160,5,sln,1:15 PM,Jim Reynolds,Paul Schrieber,Clint Fagan,Manny Gonzalez,Busch Stadium,"75 degrees, cloudy","7 mph, R to L",0
+23949,4,cle,4/18/2015,153,201500161,2,min,1:11 PM,Brian Gorman,Mark Carlson,Mike DiMuro,Tripp Gibson III,Target Field,"67 degrees, partly cloudy","11 mph, In from RF",0
+45912,3,col,4/18/2015,175,201500162,6,lan,6:11 PM,Todd Tichenor,Tim Welke,Mike Everitt,Tim Timmons,Dodger Stadium,"72 degrees, clear","6 mph, Out to CF",0
+41844,4,mia,4/18/2015,171,201500163,5,nyn,7:10 PM,Sean Barber,Eric Cooper,Lance Barksdale,Gary Cederstrom,Citi Field,"73 degrees, partly cloudy","10 mph, Out to LF",0
+33961,2,mil,4/18/2015,150,201500164,6,pit,7:07 PM,Jeff Nelson,Laz Diaz,Chris Guccione,Cory Blaser,PNC Park,"73 degrees, partly cloudy","7 mph, In from LF",0
+20824,9,nya,4/18/2015,187,201500165,0,tba,7:10 PM,David Rackley,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Tropicana Field,"72 degrees, dome","0 mph, None",0
+33151,5,oak,4/18/2015,154,201500166,0,kca,6:11 PM,Greg Gibson,Marvin Hudson,Chad Fairchild,Jim Joyce,Kauffman Stadium,"65 degrees, partly cloudy","6 mph, R to L",0
+35330,5,phi,4/18/2015,176,201500167,3,was,1:06 PM,Vic Carapazza,Larry Vanover,Ron Kulpa,Brian Knight,Nationals Park,"77 degrees, sunny","3 mph, Out to RF",12
+33958,6,sdn,4/18/2015,229,201500168,7,chn,1:20 PM,James Hoye,John Hirschbeck,Sam Holbrook,Bill Welke,Wrigley Field,"43 degrees, partly cloudy","19 mph, In from LF",0
+43017,1,tex,4/18/2015,180,201500169,3,sea,6:11 PM,Bill Miller,Adrian Johnson,Jim Wolf,Adam Hamari,Safeco Field,"62 degrees, clear","5 mph, In from LF",0
+24254,3,ana,4/19/2015,200,201500170,4,hou,1:12 PM,Dana DeMuth,Toby Basner,Paul Nauert,Mike Estabrook,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+41528,5,ari,4/19/2015,165,201500171,1,sfn,1:05 PM,CB Bucknor,Chris Segal,Lance Barrett,Dan Iassogna,AT&T Park,"61 degrees, cloudy","10 mph, Out to RF",0
+44794,5,atl,4/19/2015,161,201500172,2,tor,1:08 PM,Alfonso Marquez,Joe West,Bruce Dreckman,Tom Hallion,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+37761,8,bal,4/19/2015,194,201500173,3,bos,1:38 PM,Andy Fletcher,John Tumpane,Jerry Meals,Paul Emmel,Fenway Park,"49 degrees, sunny","13 mph, In from RF",0
+30357,1,cha,4/19/2015,165,201500174,9,det,1:09 PM,Alan Porter,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Comerica Park,"54 degrees, partly cloudy","17 mph, L to R",0
+40742,1,cin,4/19/2015,122,201500175,2,sln,7:08 PM,Paul Schrieber,Clint Fagan,Manny Gonzalez,Jim Reynolds,Busch Stadium,"62 degrees, overcast","6 mph, L to R",0
+17923,2,cle,4/19/2015,165,201500176,7,min,1:12 PM,Mark Carlson,Mike DiMuro,Tripp Gibson III,Brian Gorman,Target Field,"58 degrees, overcast","6 mph, R to L",0
+44666,0,col,4/19/2015,175,201500177,7,lan,1:09 PM,Tim Welke,Mike Everitt,Tim Timmons,Todd Tichenor,Dodger Stadium,"76 degrees, sunny","5 mph, L to R",0
+41234,6,mia,4/19/2015,169,201500178,7,nyn,1:12 PM,Eric Cooper,Lance Barksdale,Gary Cederstrom,Sean Barber,Citi Field,"58 degrees, partly cloudy","10 mph, In from RF",0
+28129,2,mil,4/19/2015,159,201500179,5,pit,1:37 PM,Laz Diaz,Chris Guccione,Cory Blaser,Jeff Nelson,PNC Park,"70 degrees, partly cloudy","14 mph, L to R",0
+21791,5,nya,4/19/2015,213,201500180,3,tba,1:10 PM,Jerry Layne,Hunter Wendelstedt,Bob Davidson,David Rackley,Tropicana Field,"72 degrees, dome","0 mph, None",0
+36755,2,oak,4/19/2015,188,201500181,4,kca,1:13 PM,Marvin Hudson,Chad Fairchild,Jim Joyce,Greg Gibson,Kauffman Stadium,"65 degrees, cloudy","11 mph, L to R",0
+36631,1,phi,4/19/2015,160,201500182,4,was,1:37 PM,Larry Vanover,Ron Kulpa,Tom Woodring,Vic Carapazza,Nationals Park,"68 degrees, cloudy","8 mph, In from RF",0
+29113,5,sdn,4/19/2015,171,201500183,2,chn,1:21 PM,John Hirschbeck,Sam Holbrook,Bill Welke,James Hoye,Wrigley Field,"53 degrees, partly cloudy","15 mph, R to L",0
+31601,10,tex,4/19/2015,225,201500184,11,sea,1:11 PM,Adrian Johnson,Jim Wolf,Adam Hamari,Bill Miller,Safeco Field,"64 degrees, sunny","5 mph, L to R",0
+36829,1,bal,4/20/2015,141,201500185,7,bos,11:04 AM,Pat Hoberg,Jerry Meals,Tom Woodring,Andy Fletcher,Fenway Park,"44 degrees, cloudy","17 mph, In from RF",102
+11777,5,chn,4/20/2015,193,201500186,2,pit,7:33 PM,Joe West,Gabe Morales,Kerwin Danley,D.J. Reyburn,PNC Park,"60 degrees, cloudy","18 mph, Out to CF",28
+26660,6,cin,4/20/2015,143,201500187,1,mil,6:21 PM,Ted Barrett,Sean Barber,Angel Hernandez,Scott Barry,Miller Park,"63 degrees, roof closed","0 mph, None",0
+13055,3,cle,4/20/2015,173,201500188,4,cha,7:10 PM,Eric Cooper,Dan Bellino,Lance Barksdale,Quinn Wolcott,U.S. Cellular Field,"46 degrees, overcast","24 mph, Out to LF",0
+15129,7,hou,4/20/2015,206,201500189,5,sea,7:10 PM,CB Bucknor,Lance Barrett,Dan Iassogna,Dale Scott,Safeco Field,"70 degrees, clear","2 mph, Out to RF",0
+20393,1,min,4/20/2015,163,201500190,7,kca,7:09 PM,Chris Guccione,Cory Blaser,Jeff Nelson,Laz Diaz,Kauffman Stadium,"58 degrees, partly cloudy","13 mph, L to R",0
+27540,1,nya,4/20/2015,140,201500191,2,det,7:09 PM,Will Little,Gerry Davis,Phil Cuzzi,Tony Randazzo,Comerica Park,"52 degrees, overcast","22 mph, R to L",0
+35228,6,oak,4/20/2015,177,201500192,3,ana,7:08 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,Angel Stadium of Anaheim,"70 degrees, clear","8 mph, Out to RF",0
+22586,14,sdn,4/20/2015,189,201500193,3,col,6:43 PM,Chad Fairchild,Jim Joyce,Greg Gibson,Marvin Hudson,Coors Field,"52 degrees, partly cloudy","2 mph, Out to CF",0
+21033,1,atl,4/21/2015,161,201500194,7,nyn,7:10 PM,Chris Segal,Vic Carapazza,Andy Fletcher,Jerry Meals,Citi Field,"63 degrees, clear","17 mph, Out to RF",0
+14184,6,bal,4/21/2015,173,201500195,13,tor,7:07 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Mark Carlson,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+14307,1,bos,4/21/2015,168,201500196,0,tba,7:09 PM,Bill Welke,James Hoye,John Tumpane,John Hirschbeck,Tropicana Field,"72 degrees, dome","0 mph, None",0
+13680,9,chn,4/21/2015,198,201500197,8,pit,7:07 PM,Gabe Morales,Kerwin Danley,D.J. Reyburn,Joe West,PNC Park,"55 degrees, cloudy","21 mph, Out to CF",0
+27293,16,cin,4/21/2015,202,201500198,10,mil,7:11 PM,Sean Barber,Angel Hernandez,Scott Barry,Ted Barrett,Miller Park,"62 degrees, roof closed","0 mph, None",0
+14032,6,cle,4/21/2015,187,201500199,2,cha,7:10 PM,Dan Bellino,Lance Barksdale,Quinn Wolcott,Eric Cooper,U.S. Cellular Field,"46 degrees, partly cloudy","21 mph, Out to CF",0
+13949,6,hou,4/21/2015,180,201500200,3,sea,7:11 PM,Lance Barrett,Dan Iassogna,Dale Scott,CB Bucknor,Safeco Field,"50 degrees, roof closed","0 mph, None",0
+41386,2,lan,4/21/2015,189,201500201,6,sfn,7:15 PM,Clint Fagan,Manny Gonzalez,Jim Reynolds,Fieldin Culbreth,AT&T Park,"55 degrees, overcast","15 mph, Out to CF",0
+21993,3,mia,4/21/2015,149,201500202,7,phi,7:06 PM,Toby Basner,Paul Nauert,Chris Conroy,Dana DeMuth,Citizens Bank Park,"64 degrees, clear","14 mph, L to R",0
+20990,5,min,4/21/2015,175,201500203,6,kca,7:10 PM,Cory Blaser,Jeff Nelson,Laz Diaz,Chris Guccione,Kauffman Stadium,"68 degrees, clear","8 mph, L to R",0
+27031,5,nya,4/21/2015,204,201500204,2,det,7:08 PM,Gerry Davis,Phil Cuzzi,Tony Randazzo,Will Little,Comerica Park,"50 degrees, partly cloudy","24 mph, R to L",0
+32137,1,oak,4/21/2015,195,201500205,14,ana,7:09 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Angel Stadium of Anaheim,"66 degrees, partly cloudy","8 mph, Out to RF",0
+22600,7,sdn,4/21/2015,186,201500206,6,col,6:43 PM,Jim Joyce,Greg Gibson,Marvin Hudson,Chad Fairchild,Coors Field,"60 degrees, cloudy","11 mph, Out to LF",0
+27021,1,sln,4/21/2015,223,201500207,2,was,7:07 PM,Jim Wolf,Adam Hamari,Doug Eddings,Adrian Johnson,Nationals Park,"65 degrees, partly cloudy","8 mph, In from LF",0
+18345,7,tex,4/21/2015,184,201500208,1,ari,6:40 PM,Mike Everitt,Tim Timmons,Ryan Blakney,Tim Welke,Chase Field,"86 degrees, partly cloudy","8 mph, Out to RF",0
+20971,2,atl,4/22/2015,154,201500209,3,nyn,7:41 PM,Jordan Baker,Andy Fletcher,Jerry Meals,Chris Segal,Citi Field,"55 degrees, overcast","15 mph, Out to LF",31
+15606,2,bal,4/22/2015,156,201500210,4,tor,7:06 PM,Tripp Gibson III,Brian Gorman,Mark Carlson,Mike DiMuro,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+12733,5,bos,4/22/2015,190,201500211,7,tba,7:10 PM,James Hoye,John Tumpane,John Hirschbeck,Bill Welke,Tropicana Field,"72 degrees, dome","0 mph, None",0
+15101,3,chn,4/22/2015,184,201500212,4,pit,7:07 PM,Kerwin Danley,D.J. Reyburn,Joe West,Gabe Morales,PNC Park,"42 degrees, cloudy","13 mph, Out to CF",0
+30452,2,cin,4/22/2015,148,201500213,1,mil,7:10 PM,Angel Hernandez,Scott Barry,Ted Barrett,Sean Barber,Miller Park,"64 degrees, roof closed","0 mph, None",0
+14429,0,cle,4/22/2015,176,201500214,6,cha,1:11 PM,Lance Barksdale,Quinn Wolcott,Eric Cooper,Dan Bellino,U.S. Cellular Field,"43 degrees, cloudy","18 mph, Out to RF",0
+14756,2,hou,4/22/2015,154,201500215,3,sea,7:10 PM,Dan Iassogna,Dale Scott,CB Bucknor,Lance Barrett,Safeco Field,"56 degrees, clear","1 mph, L to R",0
+42259,2,lan,4/22/2015,196,201500216,3,sfn,7:15 PM,Manny Gonzalez,Jim Reynolds,Fieldin Culbreth,Clint Fagan,AT&T Park,"59 degrees, partly cloudy","12 mph, Out to CF",0
+23417,6,mia,4/22/2015,175,201500217,1,phi,7:06 PM,Paul Nauert,Chris Conroy,Dana DeMuth,Toby Basner,Citizens Bank Park,"55 degrees, cloudy","7 mph, Out to CF",0
+24721,3,min,4/22/2015,167,201500218,0,kca,7:11 PM,Jeff Nelson,Laz Diaz,Chris Guccione,Cory Blaser,Kauffman Stadium,"56 degrees, partly cloudy","3 mph, Out to RF",0
+27389,13,nya,4/22/2015,215,201500219,4,det,7:08 PM,Phil Cuzzi,Tony Randazzo,Will Little,Gerry Davis,Comerica Park,"38 degrees, overcast","15 mph, R to L",0
+30034,9,oak,4/22/2015,178,201500220,2,ana,7:07 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Angel Stadium of Anaheim,"64 degrees, cloudy","2 mph, L to R",0
+22705,4,sdn,4/22/2015,159,201500221,5,col,6:41 PM,Greg Gibson,Marvin Hudson,Chad Fairchild,Jim Joyce,Coors Field,"56 degrees, cloudy","11 mph, R to L",0
+25771,7,sln,4/22/2015,171,201500222,5,was,7:07 PM,Adam Hamari,Doug Eddings,Adrian Johnson,Jim Wolf,Nationals Park,"55 degrees, partly cloudy","5 mph, L to R",0
+17886,5,tex,4/22/2015,179,201500223,8,ari,6:40 PM,Tim Timmons,Ryan Blakney,Tim Welke,Mike Everitt,Chase Field,"85 degrees, clear","6 mph, In from CF",0
+23980,3,atl,4/23/2015,198,201500224,6,nyn,1:10 PM,Andy Fletcher,Jerry Meals,Chris Segal,Jordan Baker,Citi Field,"49 degrees, cloudy","17 mph, Out to RF",0
+18581,6,bal,4/23/2015,156,201500225,7,tor,7:07 PM,Brian Gorman,Mark Carlson,Mike DiMuro,Tripp Gibson III,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+13834,1,bos,4/23/2015,180,201500226,2,tba,7:10 PM,John Tumpane,John Hirschbeck,Bill Welke,James Hoye,Tropicana Field,"72 degrees, dome","0 mph, None",0
+22224,4,chn,4/23/2015,186,201500227,5,pit,12:37 PM,D.J. Reyburn,Joe West,Gabe Morales,Kerwin Danley,PNC Park,"43 degrees, cloudy","17 mph, Out to CF",0
+27795,2,cin,4/23/2015,148,201500228,4,mil,12:40 PM,Scott Barry,Ted Barrett,Sean Barber,Angel Hernandez,Miller Park,"66 degrees, roof closed","0 mph, None",0
+14218,3,kca,4/23/2015,247,201500229,2,cha,7:10 PM,Tim Timmons,Tim Welke,Mike Everitt,Sam Holbrook,U.S. Cellular Field,"50 degrees, clear","11 mph, In from LF",0
+41240,2,lan,4/23/2015,203,201500230,3,sfn,12:45 PM,Jim Reynolds,Fieldin Culbreth,Clint Fagan,Manny Gonzalez,AT&T Park,"60 degrees, sunny","9 mph, Out to LF",0
+17097,9,mia,4/23/2015,172,201500231,1,phi,1:06 PM,David Rackley,Dana DeMuth,Toby Basner,Chris Conroy,Citizens Bank Park,"49 degrees, cloudy","18 mph, In from LF",0
+27754,2,nya,4/23/2015,182,201500232,1,det,1:08 PM,Tony Randazzo,Will Little,Gerry Davis,Phil Cuzzi,Comerica Park,"33 degrees, cloudy","12 mph, Out to CF",0
+24304,0,oak,4/23/2015,140,201500233,2,ana,4:07 PM,Mark Wegner,Marty Foster,Ryan Blakney,Mike Winters,Angel Stadium of Anaheim,"67 degrees, cloudy","12 mph, Out to CF",0
+31676,1,sdn,4/23/2015,173,201500234,2,col,1:12 PM,Marvin Hudson,Chad Fairchild,Jim Joyce,Greg Gibson,Coors Field,"67 degrees, overcast","9 mph, R to L",0
+26990,4,sln,4/23/2015,151,201500235,1,was,4:05 PM,Doug Eddings,Adrian Johnson,Jim Wolf,Adam Hamari,Nationals Park,"55 degrees, overcast","14 mph, L to R",0
+21164,0,atl,4/24/2015,154,201500236,1,phi,7:07 PM,Mark Carlson,Mike DiMuro,Tripp Gibson III,Brian Gorman,Citizens Bank Park,"55 degrees, partly cloudy","15 mph, Out to RF",0
+37359,7,bos,4/24/2015,209,201500237,5,bal,7:08 PM,Will Little,Toby Basner,Chris Conroy,Dana DeMuth,Oriole Park at Camden Yards,"57 degrees, clear","7 mph, L to R",0
+39891,7,chn,4/24/2015,228,201500238,3,cin,7:10 PM,Laz Diaz,Chris Guccione,Cory Blaser,Jeff Nelson,Great American Ball Park,"62 degrees, partly cloudy","5 mph, In from CF",0
+28192,13,cle,4/24/2015,172,201500239,1,det,7:08 PM,Chad Fairchild,Jim Joyce,Greg Gibson,Marvin Hudson,Comerica Park,"52 degrees, clear","4 mph, L to R",0
+18205,5,hou,4/24/2015,216,201500240,4,oak,7:08 PM,Lance Barksdale,Quinn Wolcott,Eric Cooper,Gary Cederstrom,O.co Coliseum,"57 degrees, partly cloudy","13 mph, Out to RF",0
+20350,2,kca,4/24/2015,199,201500241,3,cha,7:10 PM,Tim Welke,Mike Everitt,Sam Holbrook,Tim Timmons,U.S. Cellular Field,"44 degrees, overcast","13 mph, L to R",0
+43055,3,lan,4/24/2015,184,201500242,0,sdn,7:12 PM,Marty Foster,Ryan Blakney,Mike Winters,Mark Wegner,Petco Park,"62 degrees, cloudy","9 mph, L to R",0
+25215,0,min,4/24/2015,123,201500243,2,sea,7:10 PM,Ted Barrett,Sean Barber,Angel Hernandez,Scott Barry,Safeco Field,"54 degrees, partly cloudy","1 mph, Varies",0
+45310,1,nyn,4/24/2015,153,201500244,6,nya,7:11 PM,Adrian Johnson,Jim Wolf,Adam Hamari,Doug Eddings,Yankee Stadium,"46 degrees, partly cloudy","11 mph, L to R",0
+24427,4,pit,4/24/2015,161,201500245,1,ari,6:40 PM,Gerry Davis,Tom Woodring,Phil Cuzzi,Tony Randazzo,Chase Field,"77 degrees, clear","5 mph, Varies",0
+31453,4,sfn,4/24/2015,171,201500246,6,col,6:41 PM,John Hirschbeck,Bill Welke,James Hoye,John Tumpane,Coors Field,"58 degrees, overcast","6 mph, Out to RF",0
+26286,3,sln,4/24/2015,162,201500247,0,mil,7:10 PM,Dale Scott,CB Bucknor,Lance Barrett,Dan Iassogna,Miller Park,"65 degrees, roof closed","0 mph, None",0
+41054,2,tex,4/24/2015,167,201500248,3,ana,7:07 PM,Fieldin Culbreth,Clint Fagan,Manny Gonzalez,Jim Reynolds,Angel Stadium of Anaheim,"62 degrees, cloudy","7 mph, Out to CF",0
+11897,3,tor,4/24/2015,149,201500249,12,tba,7:10 PM,Jerry Meals,Chris Segal,Jordan Baker,Andy Fletcher,Tropicana Field,"72 degrees, dome","0 mph, None",0
+16259,2,was,4/24/2015,152,201500250,3,mia,7:12 PM,Joe West,Gabe Morales,Kerwin Danley,D.J. Reyburn,Marlins Park,"75 degrees, roof closed","0 mph, None",0
+24748,5,atl,4/25/2015,147,201500251,2,phi,7:06 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Mark Carlson,Citizens Bank Park,"57 degrees, cloudy","11 mph, Out to RF",0
+36757,4,bos,4/25/2015,177,201500252,5,bal,7:08 PM,Toby Basner,Chris Conroy,Dana DeMuth,Will Little,Oriole Park at Camden Yards,"51 degrees, overcast","5 mph, Out to RF",0
+35473,1,cle,4/25/2015,178,201500253,4,det,1:09 PM,Jim Joyce,Greg Gibson,Marvin Hudson,Chad Fairchild,Comerica Park,"44 degrees, cloudy","12 mph, In from LF",0
+24342,9,hou,4/25/2015,175,201500254,3,oak,1:07 PM,Quinn Wolcott,Eric Cooper,Gary Cederstrom,Lance Barksdale,O.co Coliseum,"58 degrees, cloudy","11 mph, Out to RF",0
+44454,11,lan,4/25/2015,216,201500255,8,sdn,5:41 PM,Ryan Blakney,Mike Winters,Mark Wegner,Marty Foster,Petco Park,"65 degrees, overcast","15 mph, Out to RF",0
+33566,8,min,4/25/2015,206,201500256,5,sea,6:10 PM,Sean Barber,Angel Hernandez,Scott Barry,Ted Barrett,Safeco Field,"54 degrees, cloudy","3 mph, Out to RF",0
+47909,8,nyn,4/25/2015,165,201500257,2,nya,4:07 PM,Jim Wolf,Adam Hamari,Doug Eddings,Adrian Johnson,Yankee Stadium,"57 degrees, sunny","12 mph, Varies",0
+38859,2,pit,4/25/2015,172,201500258,1,ari,5:10 PM,Tom Woodring,Phil Cuzzi,Tony Randazzo,Gerry Davis,Chase Field,"77 degrees, cloudy","15 mph, Varies",0
+36474,5,sfn,4/25/2015,232,201500259,4,col,6:13 PM,Bill Welke,James Hoye,John Tumpane,John Hirschbeck,Coors Field,"59 degrees, partly cloudy","3 mph, In from LF",0
+35919,5,sln,4/25/2015,181,201500260,3,mil,6:12 PM,CB Bucknor,Lance Barrett,Dan Iassogna,Dale Scott,Miller Park,"65 degrees, roof closed","0 mph, None",0
+38016,1,tex,4/25/2015,190,201500261,4,ana,6:12 PM,Manny Gonzalez,Jim Reynolds,Mark Ripperger,Clint Fagan,Angel Stadium of Anaheim,"63 degrees, cloudy","5 mph, L to R",0
+19772,2,tor,4/25/2015,151,201500262,4,tba,6:10 PM,Chris Segal,Jordan Baker,Andy Fletcher,Jerry Meals,Tropicana Field,"72 degrees, dome","0 mph, None",0
+18129,0,was,4/25/2015,155,201500263,8,mia,4:11 PM,Gabe Morales,Kerwin Danley,D.J. Reyburn,Joe West,Marlins Park,"72 degrees, roof closed","0 mph, None",0
+28702,4,atl,4/26/2015,158,201500264,5,phi,1:37 PM,Tripp Gibson III,Brian Gorman,Mark Carlson,Mike DiMuro,Citizens Bank Park,"61 degrees, partly cloudy","5 mph, In from RF",0
+43802,7,bos,4/26/2015,193,201500265,18,bal,1:36 PM,Chris Conroy,Dana DeMuth,Will Little,Toby Basner,Oriole Park at Camden Yards,"61 degrees, sunny","3 mph, In from LF",0
+38954,5,chn,4/26/2015,166,201500266,2,cin,1:11 PM,Chris Guccione,Cory Blaser,Jeff Nelson,Laz Diaz,Great American Ball Park,"56 degrees, sunny","12 mph, Out to RF",0
+30698,6,cle,4/26/2015,181,201500267,8,det,1:08 PM,Greg Gibson,Marvin Hudson,Chad Fairchild,Jim Joyce,Comerica Park,"53 degrees, sunny","16 mph, Out to RF",0
+22080,7,hou,4/26/2015,191,201500268,6,oak,1:07 PM,Eric Cooper,Gary Cederstrom,Lance Barksdale,Quinn Wolcott,O.co Coliseum,"65 degrees, partly cloudy","6 mph, Out to RF",0
+23317,3,kca,4/26/2015,168,201500269,5,cha,2:06 PM,Tim Welke,Sam Holbrook,Tim Timmons,Mike Everitt,U.S. Cellular Field,"54 degrees, sunny","15 mph, Out to RF",0
+43256,1,lan,4/26/2015,150,201500270,3,sdn,1:11 PM,Mike Winters,Mark Wegner,Marty Foster,Ryan Blakney,Petco Park,"66 degrees, partly cloudy","11 mph, L to R",0
+35242,4,min,4/26/2015,220,201500271,2,sea,1:09 PM,Angel Hernandez,Scott Barry,Ted Barrett,Sean Barber,Safeco Field,"56 degrees, overcast","0 mph, None",0
+47510,4,nyn,4/26/2015,165,201500272,6,nya,8:08 PM,Adam Hamari,Doug Eddings,Adrian Johnson,Jim Wolf,Yankee Stadium,"56 degrees, cloudy","5 mph, R to L",0
+32353,8,pit,4/26/2015,198,201500273,0,ari,1:10 PM,Phil Cuzzi,Tony Randazzo,Gerry Davis,Tom Woodring,Chase Field,"72 degrees, partly cloudy","5 mph, Varies",0
+32758,3,sln,4/26/2015,183,201500274,6,mil,1:10 PM,Lance Barrett,Dan Iassogna,Dale Scott,CB Bucknor,Miller Park,"69 degrees, roof closed","0 mph, None",0
+35053,5,tex,4/26/2015,253,201500275,4,ana,12:37 PM,Jim Reynolds,Mark Ripperger,Clint Fagan,Manny Gonzalez,Angel Stadium of Anaheim,"70 degrees, sunny","3 mph, Out to RF",0
+21107,1,tor,4/26/2015,143,201500276,5,tba,1:10 PM,Jordan Baker,Andy Fletcher,Jerry Meals,Chris Segal,Tropicana Field,"72 degrees, dome","0 mph, None",0
+21433,2,was,4/26/2015,160,201500277,6,mia,1:11 PM,Kerwin Danley,D.J. Reyburn,Joe West,Gabe Morales,Marlins Park,"76 degrees, roof closed","0 mph, None",0
+17444,5,col,4/27/2015,209,201500278,4,ari,6:40 PM,Mark Wegner,Marty Foster,Mike Muchlinski,Mike Winters,Chase Field,"85 degrees, clear","5 mph, Out to RF",0
+18054,5,det,4/27/2015,197,201500279,4,min,7:12 PM,Dan Bellino,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Target Field,"69 degrees, clear","6 mph, In from LF",0
+19532,9,hou,4/27/2015,208,201500280,4,sdn,7:10 PM,Jim Reynolds,Clint Fagan,Manny Gonzalez,Paul Schrieber,Petco Park,"73 degrees, clear","8 mph, L to R",0
+9668,6,kca,4/27/2015,202,201500281,2,cle,6:10 PM,Andy Fletcher,Jerry Meals,Paul Emmel,Jordan Baker,Progressive Field,"44 degrees, cloudy","13 mph, L to R",0
+17167,6,mil,4/27/2015,182,201500282,9,cin,7:11 PM,Rob Drake,Tim Timmons,Todd Tichenor,Tim Welke,Great American Ball Park,"59 degrees, cloudy","13 mph, L to R",0
+18547,3,nyn,4/27/2015,118,201500283,1,mia,7:11 PM,Ron Kulpa,Brian Knight,Vic Carapazza,Larry Vanover,Marlins Park,"78 degrees, roof closed","0 mph, None",0
+40052,4,phi,4/27/2015,152,201500284,1,sln,7:16 PM,Cory Blaser,Jeff Nelson,Laz Diaz,Chris Guccione,Busch Stadium,"62 degrees, partly cloudy","16 mph, In from CF",0
+29159,0,pit,4/27/2015,140,201500285,4,chn,7:05 PM,Dan Iassogna,Dale Scott,CB Bucknor,Lance Barrett,Wrigley Field,"43 degrees, partly cloudy","10 mph, L to R",0
+19748,3,sea,4/27/2015,167,201500286,1,tex,8:00 PM,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Alan Porter,Globe Life Park in Arlington,"62 degrees, cloudy","10 mph, L to R",55
+46704,3,sfn,4/27/2015,178,201500287,8,lan,7:10 PM,Gary Cederstrom,Sean Barber,Quinn Wolcott,Eric Cooper,Dodger Stadium,"75 degrees, clear","6 mph, Out to RF",0
+34590,1,tba,4/27/2015,179,201500288,4,nya,7:08 PM,Marvin Hudson,Chad Fairchild,Jim Joyce,Greg Gibson,Yankee Stadium,"58 degrees, cloudy","5 mph, Out to RF",0
+34739,5,tor,4/27/2015,168,201500289,6,bos,6:43 PM,Doug Eddings,Adrian Johnson,Bill Miller,Adam Hamari,Fenway Park,"49 degrees, cloudy","15 mph, L to R",33
+16658,4,was,4/27/2015,188,201500290,8,atl,7:10 PM,James Hoye,John Tumpane,John Hirschbeck,Bill Welke,Turner Field,"64 degrees, overcast","11 mph, L to R",0
+17674,2,ana,4/28/2015,126,201500291,6,oak,7:08 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,O.co Coliseum,"59 degrees, partly cloudy","5 mph, Out to RF",0
+18792,5,col,4/28/2015,190,201500292,12,ari,6:40 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,Chase Field,"89 degrees, clear","5 mph, Varies",0
+18169,2,det,4/28/2015,160,201500293,3,min,7:11 PM,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Dan Bellino,Target Field,"64 degrees, partly cloudy","9 mph, Out to RF",0
+22796,14,hou,4/28/2015,197,201500294,3,sdn,7:11 PM,Clint Fagan,Manny Gonzalez,Paul Schrieber,Jim Reynolds,Petco Park,"70 degrees, clear","13 mph, L to R",0
+10698,11,kca,4/28/2015,193,201500295,5,cle,6:12 PM,Jerry Meals,Paul Emmel,Jordan Baker,Andy Fletcher,Progressive Field,"54 degrees, clear","5 mph, L to R",0
+19238,2,mil,4/28/2015,131,201500296,4,cin,7:10 PM,Tim Timmons,Todd Tichenor,Tim Welke,Rob Drake,Great American Ball Park,"66 degrees, clear","6 mph, Varies",0
+17255,3,nyn,4/28/2015,166,201500297,4,mia,7:11 PM,Brian Knight,Vic Carapazza,Larry Vanover,Ron Kulpa,Marlins Park,"74 degrees, roof closed","0 mph, none",0
+40143,5,phi,4/28/2015,178,201500298,11,sln,7:16 PM,Jeff Nelson,Laz Diaz,Chris Guccione,Cory Blaser,Busch Stadium,"69 degrees, clear","13 mph, L to R",0
+29915,2,pit,4/28/2015,171,201500299,6,chn,7:05 PM,Dale Scott,CB Bucknor,Lance Barrett,Dan Iassogna,Wrigley Field,"44 degrees, partly cloudy","6 mph, In from CF",0
+23714,2,sea,4/28/2015,163,201500300,1,tex,7:07 PM,Jeff Kellogg,Brian O'Nora,Alan Porter,Mark Ripperger,Globe Life Park in Arlington,"56 degrees, cloudy","9 mph, L to R",0
+50161,2,sfn,4/28/2015,170,201500301,1,lan,7:10 PM,Sean Barber,Quinn Wolcott,Eric Cooper,Gary Cederstrom,Dodger Stadium,"86 degrees, clear","7 mph, Varies",0
+36934,2,tba,4/28/2015,178,201500302,4,nya,7:09 PM,Chad Fairchild,Jim Joyce,Greg Gibson,Marvin Hudson,Yankee Stadium,"66 degrees, partly cloudy","7 mph, Out to RF",0
+33920,11,tor,4/28/2015,241,201500303,8,bos,6:11 PM,Adrian Johnson,Bill Miller,Adam Hamari,Doug Eddings,Fenway Park,"64 degrees, partly cloudy","18 mph, In from LF",0
+14833,13,was,4/28/2015,206,201500304,12,atl,7:11 PM,John Tumpane,John Hirschbeck,Bill Welke,James Hoye,Turner Field,"70 degrees, partly cloudy","7 mph, R to L",0
+16212,6,ana,4/29/2015,181,201500305,3,oak,7:07 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,O.co Coliseum,"61 degrees, clear","6 mph, Out to RF",0
+0,2,cha,4/29/2015,123,201500306,8,bal,2:06 PM,Hunter Wendelstedt,Bob Davidson,David Rackley,Jerry Layne,Oriole Park at Camden Yards,"73 degrees, sunny","4 mph, Out to LF",0
+19633,1,col,4/29/2015,154,201500307,9,ari,6:39 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Chase Field,"92 degrees, clear","5 mph, Varies",0
+19447,10,det,4/29/2015,213,201500308,7,min,12:11 PM,Tom Hallion,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Target Field,"59 degrees, sunny","11 mph, In from LF",0
+21824,7,hou,4/29/2015,154,201500309,2,sdn,12:41 PM,Manny Gonzalez,Paul Schrieber,Jim Reynolds,Clint Fagan,Petco Park,"80 degrees, sunny","5 mph, Varies",0
+10284,5,kca,4/29/2015,161,201500310,7,cle,6:11 PM,Paul Emmel,Jordan Baker,Andy Fletcher,Jerry Meals,Progressive Field,"55 degrees, clear","4 mph, L to R",0
+23012,8,mil,4/29/2015,178,201500311,3,cin,12:36 PM,Todd Tichenor,Tim Welke,Rob Drake,Tim Timmons,Great American Ball Park,"66 degrees, sunny","5 mph, Varies",0
+17076,3,nyn,4/29/2015,174,201500312,7,mia,7:11 PM,Vic Carapazza,Larry Vanover,Ron Kulpa,Brian Knight,Marlins Park,"72 degrees, roof closed","0 mph, None",0
+40399,2,phi,4/29/2015,158,201500313,5,sln,7:14 PM,Laz Diaz,Chris Guccione,Cory Blaser,Jeff Nelson,Busch Stadium,"71 degrees, partly cloudy","9 mph, In from LF",0
+30634,8,pit,4/29/2015,184,201500314,1,chn,7:05 PM,CB Bucknor,Lance Barrett,Dan Iassogna,Dale Scott,Wrigley Field,"39 degrees, partly cloudy","12 mph, In from LF",0
+26037,5,sea,4/29/2015,185,201500315,2,tex,7:07 PM,Brian O'Nora,Alan Porter,Mark Ripperger,Jeff Kellogg,Globe Life Park in Arlington,"74 degrees, clear","6 mph, Out to RF",0
+53285,3,sfn,4/29/2015,174,201500316,7,lan,7:10 PM,Quinn Wolcott,Eric Cooper,Gary Cederstrom,Sean Barber,Dodger Stadium,"83 degrees, partly cloudy","6 mph, Out to RF",0
+30055,3,tba,4/29/2015,238,201500317,2,nya,1:09 PM,Jim Joyce,Greg Gibson,Marvin Hudson,Chad Fairchild,Yankee Stadium,"70 degrees, sunny","14 mph, In from LF",0
+34220,1,tor,4/29/2015,163,201500318,4,bos,6:10 PM,Bill Miller,Adam Hamari,Doug Eddings,Adrian Johnson,Fenway Park,"51 degrees, cloudy","7 mph, L to R",0
+12595,13,was,4/29/2015,167,201500319,4,atl,7:10 PM,John Hirschbeck,Bill Welke,James Hoye,John Tumpane,Turner Field,"63 degrees, cloudy","3 mph, L to R",0
+19534,6,ana,4/30/2015,203,201500320,5,oak,12:37 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,O.co Coliseum,"77 degrees, sunny","7 mph, In from LF",0
+20736,2,cha,4/30/2015,160,201500321,12,min,7:12 PM,Greg Gibson,Marvin Hudson,Chad Fairchild,Jim Joyce,Target Field,"67 degrees, clear","9 mph, In from CF",0
+15744,5,cin,4/30/2015,142,201500322,1,atl,7:10 PM,David Rackley,Jerry Layne,Sean Barber,Bob Davidson,Turner Field,"71 degrees, clear","15 mph, L to R",0
+28405,1,det,4/30/2015,182,201500323,8,kca,7:10 PM,Lance Barrett,Dan Iassogna,Dale Scott,CB Bucknor,Kauffman Stadium,"73 degrees, clear","7 mph, L to R",0
+40715,3,phi,4/30/2015,175,201500324,9,sln,12:46 PM,Chris Guccione,Cory Blaser,Jeff Nelson,Laz Diaz,Busch Stadium,"69 degrees, sunny","16 mph, In from LF",0
+19108,2,sea,4/30/2015,181,201500325,3,hou,7:11 PM,Larry Vanover,Ron Kulpa,Brian Knight,Vic Carapazza,Minute Maid Park,"80 degrees, clear","5 mph, In from LF",0
+9798,5,tor,4/30/2015,166,201500326,1,cle,7:10 PM,Bill Welke,James Hoye,John Tumpane,John Hirschbeck,Progressive Field,"46 degrees, overcast","7 mph, In from CF",0
+21689,8,was,4/30/2015,174,201500327,2,nyn,7:11 PM,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Tom Hallion,Citi Field,"57 degrees, partly cloudy","13 mph, R to L",0
+41507,2,ana,5/1/2015,184,201500328,3,sfn,7:16 PM,Adam Hamari,Doug Eddings,Adrian Johnson,Bill Miller,AT&T Park,"59 degrees, clear","11 mph, Out to CF",0
+50164,0,ari,5/1/2015,167,201500329,8,lan,7:11 PM,Gabe Morales,Mark Ripperger,Jeff Kellogg,Alan Porter,Dodger Stadium,"73 degrees, clear","7 mph, Out to RF",0
+22794,0,cha,5/1/2015,152,201500330,1,min,7:11 PM,Marvin Hudson,Chad Fairchild,Jim Joyce,Greg Gibson,Target Field,"66 degrees, partly cloudy","9 mph, In from RF",0
+30153,3,cin,5/1/2015,156,201500331,4,atl,7:35 PM,Jerry Layne,Sean Barber,Bob Davidson,David Rackley,Turner Field,"66 degrees, clear","11 mph, L to R",0
+30186,3,col,5/1/2015,206,201500332,14,sdn,7:13 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,Petco Park,"70 degrees, clear","15 mph, L to R",0
+38186,1,det,5/1/2015,167,201500333,4,kca,7:10 PM,Dan Iassogna,Dale Scott,CB Bucknor,Lance Barrett,Kauffman Stadium,"72 degrees, partly cloudy","7 mph, R to L",0
+31128,0,mil,5/1/2015,159,201500334,1,chn,1:22 PM,Ryan Blakney,Eric Cooper,Gary Cederstrom,Quinn Wolcott,Wrigley Field,"48 degrees, sunny","7 mph, R to L",0
+35444,3,nya,5/1/2015,194,201500335,2,bos,7:10 PM,Cory Blaser,Jeff Nelson,Laz Diaz,Chris Guccione,Fenway Park,"44 degrees, cloudy","6 mph, R to L",0
+29700,7,oak,5/1/2015,191,201500336,5,tex,7:07 PM,Jordan Baker,Andy Fletcher,Jerry Meals,Paul Emmel,Globe Life Park in Arlington,"78 degrees, clear","8 mph, In from LF",0
+18511,3,phi,5/1/2015,177,201500337,4,mia,7:12 PM,Manny Gonzalez,Paul Schrieber,Clint Fagan,Brian O'Nora,Marlins Park,"81 degrees, partly cloudy","9 mph, L to R",0
+40912,1,pit,5/1/2015,211,201500338,2,sln,7:15 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Busch Stadium,"70 degrees, clear","2 mph, R to L",0
+21834,3,sea,5/1/2015,170,201500339,4,hou,7:11 PM,Ron Kulpa,Brian Knight,Vic Carapazza,Larry Vanover,Minute Maid Park,"81 degrees, partly cloudy","1 mph, Varies",0
+9945,2,tba,5/1/2015,139,201500340,0,bal,7:08 PM,Tim Welke,Rob Drake,Tim Timmons,Todd Tichenor,Tropicana Field,"72 degrees, dome","0 mph, None",0
+15088,4,tor,5/1/2015,157,201500341,9,cle,7:10 PM,James Hoye,John Tumpane,John Hirschbeck,Bill Welke,Progressive Field,"55 degrees, clear","7 mph, L to R",0
+33178,0,was,5/1/2015,149,201500342,4,nyn,7:11 PM,Dan Bellino,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Citi Field,"53 degrees, cloudy","10 mph, Out to LF",0
+41287,4,ana,5/2/2015,156,201500343,5,sfn,1:06 PM,Doug Eddings,Adrian Johnson,Bill Miller,Adam Hamari,AT&T Park,"64 degrees, sunny","9 mph, Out to CF",0
+43617,4,ari,5/2/2015,194,201500344,6,lan,6:10 PM,Mark Ripperger,Jeff Kellogg,Alan Porter,Gabe Morales,Dodger Stadium,"73 degrees, clear","6 mph, Out to CF",0
+30551,3,cha,5/2/2015,185,201500345,5,min,1:11 PM,Chad Fairchild,Jim Joyce,Greg Gibson,Marvin Hudson,Target Field,"74 degrees, sunny","8 mph, R to L",0
+29515,8,cin,5/2/2015,154,201500346,4,atl,7:10 PM,Sean Barber,Bob Davidson,David Rackley,Jerry Layne,Turner Field,"74 degrees, partly cloudy","4 mph, L to R",0
+28058,2,col,5/2/2015,177,201500347,4,sdn,5:42 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,Petco Park,"68 degrees, partly cloudy","7 mph, L to R",0
+38692,2,det,5/2/2015,175,201500348,1,kca,6:09 PM,Dale Scott,CB Bucknor,Lance Barrett,Dan Iassogna,Kauffman Stadium,"74 degrees, cloudy","12 mph, R to L",0
+34878,6,mil,5/2/2015,185,201500349,1,chn,1:20 PM,Eric Cooper,Mark Carlson,Tom Woodring,Ryan Blakney,Wrigley Field,"73 degrees, sunny","5 mph, Out to CF",0
+36611,4,nya,5/2/2015,164,201500350,2,bos,1:35 PM,Jeff Nelson,Laz Diaz,Chris Guccione,Cory Blaser,Fenway Park,"46 degrees, partly cloudy","3 mph, In from CF",0
+32207,7,oak,5/2/2015,225,201500351,8,tex,7:08 PM,Andy Fletcher,Jerry Meals,Paul Emmel,Jordan Baker,Globe Life Park in Arlington,"80 degrees, clear","8 mph, Out to LF",0
+33348,0,phi,5/2/2015,158,201500352,7,mia,4:11 PM,Paul Schrieber,Clint Fagan,Brian O'Nora,Manny Gonzalez,Marlins Park,"71 degrees, roof closed","0 mph, None",0
+45095,1,pit,5/2/2015,207,201500353,2,sln,1:15 PM,Mark Wegner,Marty Foster,Mike Muchlinski,Mike Winters,Busch Stadium,"75 degrees, sunny","7 mph, R to L",0
+24435,4,sea,5/2/2015,158,201500354,11,hou,6:10 PM,Brian Knight,Vic Carapazza,Larry Vanover,Ron Kulpa,Minute Maid Park,"79 degrees, partly cloudy","13 mph, R to L",0
+12789,0,tba,5/2/2015,153,201500355,4,bal,7:06 PM,Rob Drake,Tim Timmons,Todd Tichenor,Tim Welke,Tropicana Field,"72 degrees, dome","0 mph, None",0
+18008,11,tor,5/2/2015,203,201500356,4,cle,4:10 PM,John Tumpane,John Hirschbeck,Bill Welke,James Hoye,Progressive Field,"61 degrees, sunny","3 mph, In from CF",0
+39730,1,was,5/2/2015,151,201500357,0,nyn,7:12 PM,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Dan Bellino,Citi Field,"53 degrees, clear","11 mph, Out to LF",0
+41516,0,ana,5/3/2015,136,201500358,5,sfn,1:06 PM,Adrian Johnson,Bill Miller,Adam Hamari,Doug Eddings,AT&T Park,"59 degrees, partly cloudy","12 mph, Out to CF",0
+48136,0,ari,5/3/2015,242,201500359,1,lan,1:10 PM,Jeff Kellogg,Alan Porter,Gabe Morales,Mark Ripperger,Dodger Stadium,"72 degrees, sunny","8 mph, Out to RF",0
+22423,3,cha,5/3/2015,200,201500360,13,min,1:11 PM,Jim Joyce,Greg Gibson,Marvin Hudson,Chad Fairchild,Target Field,"76 degrees, partly cloudy","4 mph, In from RF",0
+30073,0,cin,5/3/2015,151,201500361,5,atl,1:38 PM,Bob Davidson,David Rackley,Jerry Layne,Sean Barber,Turner Field,"74 degrees, partly cloudy","9 mph, R to L",0
+34197,6,col,5/3/2015,192,201500362,8,sdn,1:12 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,Petco Park,"67 degrees, partly cloudy","11 mph, L to R",0
+38326,6,det,5/3/2015,158,201500363,4,kca,1:11 PM,CB Bucknor,Lance Barrett,Dan Iassogna,Dale Scott,Kauffman Stadium,"77 degrees, partly cloudy","13 mph, R to L",0
+33398,5,mil,5/3/2015,181,201500364,3,chn,1:20 PM,Mark Carlson,Tom Woodring,Ryan Blakney,Eric Cooper,Wrigley Field,"78 degrees, partly cloudy","16 mph, Varies",0
+33198,8,nya,5/3/2015,232,201500365,5,bos,8:08 PM,Laz Diaz,Chris Guccione,Cory Blaser,Jeff Nelson,Fenway Park,"58 degrees, cloudy","14 mph, Out to LF",0
+36006,7,oak,5/3/2015,201,201500366,1,tex,2:07 PM,Jerry Meals,Paul Emmel,Jordan Baker,Andy Fletcher,Globe Life Park in Arlington,"77 degrees, sunny","11 mph, R to L",0
+20461,6,phi,5/3/2015,165,201500367,2,mia,1:10 PM,Clint Fagan,Brian O'Nora,Manny Gonzalez,Paul Schrieber,Marlins Park,"72 degrees, roof closed","0 mph, None",0
+44382,2,pit,5/3/2015,268,201500368,3,sln,1:16 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,Busch Stadium,"82 degrees, sunny","8 mph, Out to CF",0
+25283,6,sea,5/3/2015,170,201500369,7,hou,1:11 PM,Vic Carapazza,Larry Vanover,Ron Kulpa,Brian Knight,Minute Maid Park,"82 degrees, partly cloudy","9 mph, Out to LF",0
+16652,2,tba,5/3/2015,164,201500370,4,bal,1:37 PM,Tim Timmons,Todd Tichenor,Tim Welke,Rob Drake,Tropicana Field,"72 degrees, dome","0 mph, None",0
+16128,7,tor,5/3/2015,186,201500371,10,cle,1:11 PM,John Hirschbeck,Bill Welke,James Hoye,John Tumpane,Progressive Field,"72 degrees, sunny","6 mph, L to R",0
+41048,1,was,5/3/2015,175,201500372,0,nyn,1:10 PM,Tom Hallion,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Citi Field,"73 degrees, sunny","4 mph, Out to LF",0
+41981,9,chn,5/4/2015,219,201500373,10,sln,7:10 PM,Bill Welke,D.J. Reyburn,John Tumpane,John Hirschbeck,Busch Stadium,"84 degrees, clear","6 mph, Out to LF",0
+23374,3,lan,5/4/2015,171,201500374,4,mil,6:20 PM,Paul Emmel,Jordan Baker,Andy Fletcher,Jerry Meals,Miller Park,"71 degrees, roof closed","0 mph, None",0
+24731,4,mia,5/4/2015,162,201500375,6,was,7:05 PM,Dan Iassogna,Ryan Blakney,Eric Cooper,Lance Barksdale,Nationals Park,"82 degrees, clear","8 mph, Out to RF",0
+19217,1,nya,5/4/2015,138,201500376,3,tor,7:09 PM,Ed Hickox,Toby Basner,Dana DeMuth,Mike Estabrook,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+20605,7,oak,5/4/2015,190,201500377,8,min,7:10 PM,Todd Tichenor,Clint Fagan,Mike Everitt,Tim Timmons,Target Field,"71 degrees, partly cloudy","7 mph, In from LF",0
+17293,5,phi,5/4/2015,188,201500378,2,atl,7:09 PM,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Tom Hallion,Turner Field,"78 degrees, partly cloudy","7 mph, R to L",0
+41278,0,sdn,5/4/2015,152,201500379,2,sfn,7:15 PM,Rob Drake,Gabe Morales,Joe West,Kerwin Danley,AT&T Park,"55 degrees, cloudy","14 mph, Out to CF",0
+25024,3,sea,5/4/2015,156,201500380,2,ana,7:09 PM,Greg Gibson,Marvin Hudson,Chad Fairchild,Jim Joyce,Angel Stadium of Anaheim,"64 degrees, clear","8 mph, Out to CF",0
+34541,5,tba,5/4/2015,190,201500381,1,bos,7:11 PM,Brian Gorman,Mark Carlson,Mike DiMuro,Tripp Gibson III,Fenway Park,"78 degrees, partly cloudy","23 mph, Out to LF",0
+17597,2,tex,5/4/2015,156,201500382,1,hou,7:11 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Minute Maid Park,"77 degrees, partly cloudy","14 mph, Out to LF",0
+20534,2,bal,5/5/2015,139,201500383,3,nyn,7:10 PM,Brian O'Nora,Alan Porter,Mark Ripperger,Jeff Kellogg,Citi Field,"70 degrees, cloudy","15 mph, Out to LF",0
+41613,4,chn,5/5/2015,193,201500384,7,sln,7:15 PM,D.J. Reyburn,John Tumpane,John Hirschbeck,Bill Welke,Busch Stadium,"82 degrees, partly cloudy","5 mph, Out to LF",0
+16822,7,cin,5/5/2015,170,201500385,1,pit,7:07 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,PNC Park,"73 degrees, partly cloudy","7 mph, In from RF",0
+29099,3,cle,5/5/2015,146,201500386,5,kca,7:10 PM,Will Little,Gerry Davis,Tony Randazzo,Phil Cuzzi,Kauffman Stadium,"73 degrees, cloudy","8 mph, R to L",0
+16351,2,det,5/5/2015,157,201500387,5,cha,7:11 PM,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,U.S. Cellular Field,"53 degrees, overcast","11 mph, L to R",0
+23356,8,lan,5/5/2015,192,201500388,2,mil,7:11 PM,Jordan Baker,Andy Fletcher,Jerry Meals,Paul Emmel,Miller Park,"68 degrees, roof closed","0 mph, None",0
+25332,2,mia,5/5/2015,187,201500389,1,was,7:33 PM,Ryan Blakney,Eric Cooper,Lance Barksdale,Dan Iassogna,Nationals Park,"70 degrees, cloudy","14 mph, Out to RF",28
+21519,6,nya,5/5/2015,174,201500390,3,tor,7:07 PM,Toby Basner,Dana DeMuth,Mike Estabrook,Ed Hickox,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+18135,2,oak,5/5/2015,163,201500391,1,min,7:11 PM,Clint Fagan,Mike Everitt,Tim Timmons,Todd Tichenor,Target Field,"67 degrees, cloudy","16 mph, R to L",0
+14451,0,phi,5/5/2015,143,201500392,9,atl,7:10 PM,Dan Bellino,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Turner Field,"78 degrees, partly cloudy","12 mph, R to L",0
+41358,0,sdn,5/5/2015,145,201500393,6,sfn,7:15 PM,Gabe Morales,Joe West,Kerwin Danley,Rob Drake,AT&T Park,"57 degrees, partly cloudy","16 mph, Out to CF",0
+33394,4,sea,5/5/2015,157,201500394,5,ana,7:08 PM,Marvin Hudson,Chad Fairchild,Jim Joyce,Greg Gibson,Angel Stadium of Anaheim,"64 degrees, partly cloudy","8 mph, R to L",0
+33688,0,tba,5/5/2015,146,201500395,2,bos,7:12 PM,Mark Carlson,Mike DiMuro,Tripp Gibson III,Brian Gorman,Fenway Park,"57 degrees, cloudy","13 mph, In from RF",0
+20951,7,tex,5/5/2015,161,201500396,1,hou,7:10 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+0,13,ari,5/6/2015,209,201500397,7,col,1:10 PM,Sean Barber,Jim Wolf,Doug Eddings,Adrian Johnson,Coors Field,"61 degrees, cloudy","10 mph, Out to LF",0
+22621,5,ari,5/6/2015,151,201500398,1,col,5:15 PM,Jim Wolf,Doug Eddings,Sean Barber,Bill Miller,Coors Field,"63 degrees, cloudy","3 mph, L to R",0
+21667,1,bal,5/6/2015,172,201500399,5,nyn,7:10 PM,Alan Porter,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Citi Field,"63 degrees, partly cloudy","10 mph, In from RF",0
+42207,6,chn,5/6/2015,176,201500400,5,sln,7:15 PM,John Tumpane,John Hirschbeck,Bill Welke,D.J. Reyburn,Busch Stadium,"83 degrees, clear","12 mph, Out to LF",0
+16527,3,cin,5/6/2015,155,201500401,0,pit,7:08 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,PNC Park,"81 degrees, partly cloudy","8 mph, Out to CF",0
+23316,10,cle,5/6/2015,184,201500402,3,kca,7:10 PM,Gerry Davis,Tony Randazzo,Phil Cuzzi,Will Little,Kauffman Stadium,"74 degrees, clear","11 mph, R to L",0
+18268,6,det,5/6/2015,221,201500403,7,cha,7:10 PM,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,U.S. Cellular Field,"61 degrees, clear","8 mph, L to R",0
+22708,3,lan,5/6/2015,167,201500404,6,mil,7:10 PM,Andy Fletcher,Jerry Meals,Paul Emmel,Jordan Baker,Miller Park,"68 degrees, roof closed","0 mph, None",0
+31417,5,mia,5/6/2015,160,201500405,7,was,1:05 PM,Eric Cooper,Lance Barksdale,Dan Iassogna,Ryan Blakney,Nationals Park,"77 degrees, partly cloudy","8 mph, In from RF",0
+21312,1,nya,5/6/2015,150,201500406,5,tor,7:07 PM,Dana DeMuth,Mike Estabrook,Ed Hickox,Toby Basner,Rogers Centre,"61 degrees, partly cloudy","8 mph, R to L",0
+18866,0,oak,5/6/2015,176,201500407,13,min,7:10 PM,Mike Everitt,Tim Timmons,Todd Tichenor,Clint Fagan,Target Field,"72 degrees, overcast","20 mph, Out to RF",0
+17772,5,phi,5/6/2015,187,201500408,7,atl,7:11 PM,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Dan Bellino,Turner Field,"80 degrees, clear","3 mph, R to L",0
+41060,9,sdn,5/6/2015,179,201500409,1,sfn,12:45 PM,Joe West,Kerwin Danley,Rob Drake,Gabe Morales,AT&T Park,"61 degrees, partly cloudy","11 mph, R to L",0
+25160,3,sea,5/6/2015,155,201500410,4,ana,7:07 PM,Chad Fairchild,Jim Joyce,Greg Gibson,Marvin Hudson,Angel Stadium of Anaheim,"63 degrees, partly cloudy","6 mph, Out to RF",0
+35060,5,tba,5/6/2015,202,201500411,3,bos,7:10 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Mark Carlson,Fenway Park,"69 degrees, clear","12 mph, Out to LF",0
+22230,11,tex,5/6/2015,152,201500412,3,hou,7:11 PM,Mark Wegner,Marty Foster,Mike Muchlinski,Mike Winters,Minute Maid Park,"80 degrees, cloudy","5 mph, Out to LF",0
+39816,3,bal,5/7/2015,171,201500413,4,nya,7:08 PM,Tripp Gibson III,Brian Gorman,Mark Carlson,Mike DiMuro,Yankee Stadium,"70 degrees, clear","12 mph, R to L",0
+44472,1,chn,5/7/2015,173,201500414,5,sln,12:45 PM,John Hirschbeck,Bill Welke,D.J. Reyburn,John Tumpane,Busch Stadium,"84 degrees, partly cloudy","13 mph, Out to LF",0
+27302,2,cin,5/7/2015,176,201500415,7,pit,7:09 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,PNC Park,"83 degrees, clear","3 mph, R to L",0
+38271,4,cle,5/7/2015,193,201500416,7,kca,3:27 PM,Tony Randazzo,Phil Cuzzi,Will Little,Gerry Davis,Kauffman Stadium,"70 degrees, overcast","11 mph, R to L",137
+20081,4,det,5/7/2015,173,201500417,1,cha,1:10 PM,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,U.S. Cellular Field,"83 degrees, partly cloudy","15 mph, R to L",0
+25097,3,hou,5/7/2015,177,201500418,2,ana,7:08 PM,Kerwin Danley,Rob Drake,Gabe Morales,Joe West,Angel Stadium of Anaheim,"61 degrees, partly cloudy","7 mph, Out to RF",0
+28505,14,lan,5/7/2015,196,201500419,4,mil,12:40 PM,Jerry Meals,Paul Emmel,Jordan Baker,Andy Fletcher,Miller Park,"78 degrees, partly cloudy","14 mph, R to L",0
+41367,7,mia,5/7/2015,151,201500420,2,sfn,7:16 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,AT&T Park,"62 degrees, overcast","10 mph, Out to CF",0
+22379,5,oak,5/7/2015,177,201500421,6,min,12:11 PM,Tim Timmons,Todd Tichenor,Clint Fagan,Mike Everitt,Target Field,"71 degrees, cloudy","16 mph, R to L",0
+16929,0,sdn,5/7/2015,172,201500422,11,ari,6:40 PM,Jim Joyce,Greg Gibson,Marvin Hudson,Chad Fairchild,Chase Field,"84 degrees, partly cloudy","12 mph, Varies",0
+8701,5,tex,5/7/2015,167,201500423,4,tba,7:10 PM,Paul Nauert,Ed Hickox,Mike Estabrook,Dana DeMuth,Tropicana Field,"72 degrees, dome","0 mph, None",0
+31288,2,atl,5/8/2015,141,201500424,9,was,7:05 PM,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Nationals Park,"77 degrees, clear","2 mph, Out to LF",0
+38731,4,bal,5/8/2015,185,201500425,5,nya,7:08 PM,Brian Gorman,Mark Carlson,Mike DiMuro,Tripp Gibson III,Yankee Stadium,"73 degrees, clear","13 mph, R to L",0
+30430,0,bos,5/8/2015,161,201500426,7,tor,7:06 PM,Gary Cederstrom,Lance Barksdale,Adam Hamari,Sam Holbrook,Rogers Centre,"63 degrees, partly cloudy","11 mph, R to L",0
+38283,7,chn,5/8/2015,183,201500427,6,mil,7:11 PM,Tom Hallion,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Miller Park,"78 degrees, roof closed","0 mph, None",0
+40006,0,hou,5/8/2015,129,201500428,2,ana,7:08 PM,Rob Drake,Gabe Morales,Joe West,Kerwin Danley,Angel Stadium of Anaheim,"61 degrees, cloudy","6 mph, Out to CF",0
+39434,5,kca,5/8/2015,198,201500429,6,det,7:09 PM,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Alan Porter,Comerica Park,"84 degrees, partly cloudy","13 mph, In from CF",0
+32974,2,lan,5/8/2015,101,201500430,1,col,7:45 PM,Todd Tichenor,Clint Fagan,Mike Everitt,Tim Timmons,Coors Field,"51 degrees, drizzle","3 mph, In from LF",164
+41413,0,mia,5/8/2015,167,201500431,6,sfn,7:15 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,AT&T Park,"55 degrees, clear","11 mph, Out to CF",0
+19102,9,min,5/8/2015,167,201500432,3,cle,7:10 PM,Doug Eddings,Adrian Johnson,Bill Miller,Jim Wolf,Progressive Field,"82 degrees, partly cloudy","9 mph, In from RF",0
+32734,1,nyn,5/8/2015,147,201500433,3,phi,7:07 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,Citizens Bank Park,"80 degrees, partly cloudy","10 mph, Out to CF",0
+25187,3,oak,5/8/2015,214,201500434,4,sea,7:17 PM,Phil Cuzzi,Will Little,Gerry Davis,Tony Randazzo,Safeco Field,"73 degrees, clear","2 mph, In from LF",0
+28677,6,sdn,5/8/2015,206,201500435,5,ari,6:40 PM,Greg Gibson,Marvin Hudson,Chad Fairchild,Jim Joyce,Chase Field,"70 degrees, partly cloudy","12 mph, Varies",0
+33507,8,sln,5/8/2015,178,201500436,5,pit,7:07 PM,Paul Emmel,Jordan Baker,Andy Fletcher,Jerry Meals,PNC Park,"87 degrees, partly cloudy","7 mph, In from CF",0
+11704,2,tex,5/8/2015,175,201500437,8,tba,7:10 PM,Ed Hickox,Mike Estabrook,Dana DeMuth,Paul Nauert,Tropicana Field,"72 degrees, dome","0 mph, None",0
+39193,6,atl,5/9/2015,192,201500438,8,was,4:07 PM,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Nationals Park,"82 degrees, partly cloudy","6 mph, R to L",0
+41280,6,bal,5/9/2015,175,201500439,2,nya,1:07 PM,Mark Carlson,Mike DiMuro,Tripp Gibson III,Brian Gorman,Yankee Stadium,"59 degrees, cloudy","11 mph, In from CF",0
+42917,1,bos,5/9/2015,192,201500440,7,tor,1:09 PM,Lance Barksdale,Adam Hamari,Sam Holbrook,Gary Cederstrom,Rogers Centre,"68 degrees, partly cloudy","7 mph, R to L",0
+39600,4,chn,5/9/2015,183,201500441,12,mil,6:10 PM,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Tom Hallion,Miller Park,"69 degrees, roof closed","0 mph, None",0
+0,10,cin,5/9/2015,213,201500442,4,cha,3:10 PM,Pat Hoberg,D.J. Reyburn,John Tumpane,John Hirschbeck,U.S. Cellular Field,"59 degrees, cloudy","9 mph, Out to RF",0
+27980,2,cin,5/9/2015,173,201500443,8,cha,7:20 PM,D.J. Reyburn,John Tumpane,Pat Hoberg,Bill Welke,U.S. Cellular Field,"47 degrees, cloudy","12 mph, Out to RF",0
+40210,6,hou,5/9/2015,162,201500444,5,ana,6:07 PM,Gabe Morales,Joe West,Kerwin Danley,Rob Drake,Angel Stadium of Anaheim,"64 degrees, partly cloudy","6 mph, R to L",0
+41456,6,kca,5/9/2015,160,201500445,2,det,1:08 PM,Jeff Kellogg,Brian O'Nora,Alan Porter,Mark Ripperger,Comerica Park,"75 degrees, sunny","10 mph, Out to LF",0
+42285,6,mia,5/9/2015,204,201500446,2,sfn,6:05 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,AT&T Park,"57 degrees, partly cloudy","15 mph, Out to CF",0
+16199,7,min,5/9/2015,182,201500447,4,cle,4:10 PM,Adrian Johnson,Bill Miller,Jim Wolf,Doug Eddings,Progressive Field,"88 degrees, partly cloudy","9 mph, Out to RF",0
+29373,3,nyn,5/9/2015,164,201500448,2,phi,7:06 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,Citizens Bank Park,"77 degrees, cloudy","10 mph, L to R",0
+37441,2,oak,5/9/2015,216,201500449,7,sea,6:10 PM,Will Little,Gerry Davis,Tony Randazzo,Phil Cuzzi,Safeco Field,"79 degrees, partly cloudy","3 mph, L to R",0
+27340,6,sdn,5/9/2015,257,201500450,4,ari,5:10 PM,Marvin Hudson,Chad Fairchild,Jim Joyce,Greg Gibson,Chase Field,"75 degrees, partly cloudy","6 mph, Varies",0
+38068,5,sln,5/9/2015,154,201500451,7,pit,7:07 PM,Jordan Baker,Andy Fletcher,Jerry Meals,Paul Emmel,PNC Park,"86 degrees, clear","9 mph, Out to CF",0
+20943,2,tex,5/9/2015,198,201500452,7,tba,6:10 PM,Mike Estabrook,Dana DeMuth,Paul Nauert,Ed Hickox,Tropicana Field,"72 degrees, dome","0 mph, None",0
+31938,4,atl,5/10/2015,171,201500453,5,was,1:36 PM,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Nationals Park,"80 degrees, cloudy","4 mph, Out to CF",0
+39059,2,bal,5/10/2015,183,201500454,6,nya,1:08 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Mark Carlson,Yankee Stadium,"78 degrees, cloudy","10 mph, R to L",0
+42419,6,bos,5/10/2015,158,201500455,3,tor,1:08 PM,Adam Hamari,Sam Holbrook,Sean Barber,Lance Barksdale,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+41467,2,chn,5/10/2015,206,201500456,3,mil,1:12 PM,Dan Bellino,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Miller Park,"67 degrees, roof closed","0 mph, None",0
+20123,3,cin,5/10/2015,190,201500457,4,cha,1:10 PM,John Tumpane,John Hirschbeck,Bill Welke,D.J. Reyburn,U.S. Cellular Field,"54 degrees, overcast","10 mph, L to R",0
+30929,1,hou,5/10/2015,160,201500458,3,ana,12:39 PM,Joe West,Kerwin Danley,Rob Drake,Gabe Morales,Angel Stadium of Anaheim,"73 degrees, sunny","2 mph, Out to CF",0
+29852,2,kca,5/10/2015,203,201500459,1,det,8:09 PM,Brian O'Nora,Alan Porter,Mark Ripperger,Jeff Kellogg,Comerica Park,"73 degrees, cloudy","8 mph, Out to LF",103
+30710,9,lan,5/10/2015,216,201500460,5,col,2:11 PM,Clint Fagan,Mike Everitt,Tim Timmons,Todd Tichenor,Coors Field,"41 degrees, cloudy","7 mph, Out to LF",0
+41889,2,mia,5/10/2015,182,201500461,3,sfn,1:05 PM,Mark Wegner,Marty Foster,Mike Muchlinski,Mike Winters,AT&T Park,"56 degrees, overcast","13 mph, R to L",0
+13769,2,min,5/10/2015,157,201500462,8,cle,1:11 PM,Bill Miller,Jim Wolf,Doug Eddings,Adrian Johnson,Progressive Field,"83 degrees, partly cloudy","15 mph, Out to RF",0
+27935,7,nyn,5/10/2015,177,201500463,4,phi,1:38 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,Citizens Bank Park,"78 degrees, cloudy","8 mph, Out to RF",0
+42831,3,oak,5/10/2015,156,201500464,4,sea,1:10 PM,Gerry Davis,Tony Randazzo,Phil Cuzzi,Will Little,Safeco Field,"65 degrees, partly cloudy","4 mph, Out to LF",0
+24881,1,sdn,5/10/2015,167,201500465,2,ari,1:10 PM,Chad Fairchild,Jim Joyce,Greg Gibson,Marvin Hudson,Chase Field,"80 degrees, sunny","5 mph, In from LF",0
+34036,3,sln,5/10/2015,158,201500466,4,pit,1:39 PM,Andy Fletcher,Jerry Meals,Paul Emmel,Jordan Baker,PNC Park,"84 degrees, sunny","6 mph, In from RF",0
+14521,2,tex,5/10/2015,186,201500467,1,tba,1:11 PM,Dana DeMuth,Paul Nauert,Ed Hickox,Mike Estabrook,Tropicana Field,"72 degrees, dome","0 mph, None",0
+19881,2,atl,5/11/2015,174,201500468,1,cin,8:50 PM,Sam Holbrook,Cory Blaser,Jeff Nelson,Laz Diaz,Great American Ball Park,"70 degrees, overcast","3 mph, Varies",100
+19743,5,bos,5/11/2015,237,201500469,4,oak,7:07 PM,Larry Vanover,Ron Kulpa,Brian Knight,Vic Carapazza,O.co Coliseum,"56 degrees, cloudy","24 mph, Out to RF",0
+29886,7,cha,5/11/2015,189,201500470,10,mil,6:20 PM,Clint Fagan,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Miller Park,"69 degrees, roof closed","0 mph, None",0
+21206,2,kca,5/11/2015,173,201500471,8,tex,7:07 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,Globe Life Park in Arlington,"71 degrees, partly cloudy","10 mph, L to R",0
+44941,3,mia,5/11/2015,182,201500472,5,lan,7:11 PM,Bob Davidson,David Rackley,Jerry Layne,Hunter Wendelstedt,Dodger Stadium,"72 degrees, partly cloudy","6 mph, Out to RF",0
+10619,11,nya,5/11/2015,168,201500473,5,tba,7:12 PM,Adam Hamari,Dan Iassogna,Lance Barksdale,Eric Cooper,Tropicana Field,"72 degrees, dome","0 mph, None",0
+32980,3,nyn,5/11/2015,176,201500474,4,chn,7:08 PM,Jerry Meals,Paul Emmel,Jordan Baker,Andy Fletcher,Wrigley Field,"65 degrees, partly cloudy","17 mph, L to R",0
+21358,4,pit,5/11/2015,175,201500475,3,phi,7:06 PM,Lance Barrett,Toby Basner,Dale Scott,CB Bucknor,Citizens Bank Park,"77 degrees, partly cloudy","9 mph, Out to CF",0
+20468,2,tor,5/11/2015,163,201500476,5,bal,7:08 PM,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Dan Bellino,Oriole Park at Camden Yards,"78 degrees, cloudy","5 mph, In from LF",0
+16406,11,was,5/11/2015,162,201500477,1,ari,6:40 PM,Kerwin Danley,Rob Drake,D.J. Reyburn,Joe West,Chase Field,"94 degrees, clear","5 mph, Out to RF",0
+23780,3,atl,5/12/2015,166,201500478,4,cin,7:11 PM,Cory Blaser,Jeff Nelson,Laz Diaz,Sam Holbrook,Great American Ball Park,"69 degrees, partly cloudy","12 mph, Out to LF",0
+24605,2,bos,5/12/2015,152,201500479,9,oak,7:07 PM,Ron Kulpa,Brian Knight,Vic Carapazza,Larry Vanover,O.co Coliseum,"54 degrees, cloudy","22 mph, Out to RF",0
+26935,4,cha,5/12/2015,165,201500480,2,mil,7:10 PM,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Clint Fagan,Miller Park,"66 degrees, roof closed","0 mph, None",0
+28150,2,col,5/12/2015,164,201500481,5,ana,7:08 PM,Phil Cuzzi,Tony Randazzo,Brian Gorman,Gerry Davis,Angel Stadium of Anaheim,"64 degrees, clear","7 mph, Out to RF",0
+23659,7,kca,5/12/2015,214,201500482,6,tex,7:07 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,Globe Life Park in Arlington,"71 degrees, cloudy","9 mph, In from CF",0
+49628,1,mia,5/12/2015,183,201500483,11,lan,7:10 PM,David Rackley,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Dodger Stadium,"65 degrees, clear","5 mph, Out to RF",0
+26177,1,min,5/12/2015,176,201500484,2,det,7:08 PM,Chris Guccione,James Hoye,Bill Welke,John Tumpane,Comerica Park,"53 degrees, cloudy","18 mph, Out to LF",0
+10417,2,nya,5/12/2015,153,201500485,4,tba,7:10 PM,Dan Iassogna,Lance Barksdale,Eric Cooper,Adam Hamari,Tropicana Field,"72 degrees, dome","0 mph, None",0
+31542,1,nyn,5/12/2015,175,201500486,6,chn,7:07 PM,Paul Emmel,Jordan Baker,Andy Fletcher,Jerry Meals,Wrigley Field,"54 degrees, cloudy","15 mph, L to R",0
+20393,7,pit,5/12/2015,169,201500487,2,phi,7:07 PM,Toby Basner,Dale Scott,CB Bucknor,Lance Barrett,Citizens Bank Park,"84 degrees, cloudy","16 mph, L to R",0
+16148,4,sdn,5/12/2015,197,201500488,11,sea,7:10 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,Safeco Field,"60 degrees, roof closed","0 mph, None",0
+20468,8,sfn,5/12/2015,159,201500489,1,hou,7:12 PM,Jim Joyce,Greg Gibson,Marvin Hudson,Chad Fairchild,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+12615,8,sln,5/12/2015,211,201500490,3,cle,6:10 PM,Mike Everitt,Tim Timmons,Todd Tichenor,Tim Welke,Progressive Field,"57 degrees, overcast","20 mph, L to R",0
+17319,10,tor,5/12/2015,157,201500491,2,bal,7:08 PM,Tom Hallion,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Oriole Park at Camden Yards,"86 degrees, partly cloudy","4 mph, Out to RF",0
+19053,6,was,5/12/2015,179,201500492,14,ari,6:40 PM,Rob Drake,Gabe Morales,Joe West,Kerwin Danley,Chase Field,"89 degrees, cloudy","12 mph, Varies",0
+17747,1,atl,5/13/2015,126,201500493,5,cin,7:09 PM,Jeff Nelson,Laz Diaz,Sam Holbrook,Cory Blaser,Great American Ball Park,"68 degrees, clear","7 mph, Out to RF",0
+22389,2,bos,5/13/2015,153,201500494,0,oak,12:38 PM,Brian Knight,Vic Carapazza,Larry Vanover,Ron Kulpa,O.co Coliseum,"58 degrees, cloudy","12 mph, Out to RF",0
+29679,4,cha,5/13/2015,187,201500495,2,mil,7:10 PM,Jeff Kellogg,Brian O'Nora,Clint Fagan,Mark Ripperger,Miller Park,"68 degrees, roof closed","0 mph, None",0
+30129,1,col,5/13/2015,198,201500496,2,ana,7:08 PM,Tony Randazzo,Brian Gorman,Gerry Davis,Phil Cuzzi,Angel Stadium of Anaheim,"65 degrees, partly cloudy","6 mph, Out to RF",0
+26258,2,kca,5/13/2015,135,201500497,5,tex,7:08 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,Globe Life Park in Arlington,"67 degrees, cloudy","9 mph, R to L",0
+38316,5,mia,5/13/2015,204,201500498,4,lan,4:50 PM,Jerry Layne,Hunter Wendelstedt,Bob Davidson,David Rackley,Dodger Stadium,"66 degrees, partly cloudy","7 mph, L to R",0
+27163,6,min,5/13/2015,187,201500499,2,det,7:08 PM,James Hoye,Bill Welke,John Tumpane,Chris Guccione,Comerica Park,"55 degrees, cloudy","5 mph, L to R",0
+11924,2,nya,5/13/2015,161,201500500,3,tba,7:10 PM,Lance Barksdale,Eric Cooper,Adam Hamari,Dan Iassogna,Tropicana Field,"72 degrees, dome","0 mph, None",0
+33709,1,nyn,5/13/2015,157,201500501,2,chn,7:11 PM,Jordan Baker,Andy Fletcher,Jerry Meals,Paul Emmel,Wrigley Field,"43 degrees, partly cloudy","11 mph, In from LF",0
+29576,2,pit,5/13/2015,157,201500502,3,phi,7:06 PM,Dale Scott,CB Bucknor,Lance Barrett,Toby Basner,Citizens Bank Park,"67 degrees, cloudy","14 mph, In from CF",0
+14547,4,sdn,5/13/2015,179,201500503,2,sea,7:10 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Safeco Field,"56 degrees, roof closed","1 mph, None",0
+20725,3,sfn,5/13/2015,190,201500504,4,hou,7:11 PM,Greg Gibson,Marvin Hudson,Chad Fairchild,Jim Joyce,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+12313,0,sln,5/13/2015,167,201500505,2,cle,6:10 PM,Tim Timmons,Todd Tichenor,Tim Welke,Mike Everitt,Progressive Field,"49 degrees, cloudy","8 mph, L to R",0
+24654,1,tor,5/13/2015,159,201500506,6,bal,7:07 PM,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Tom Hallion,Oriole Park at Camden Yards,"66 degrees, partly cloudy","5 mph, In from RF",0
+19026,9,was,5/13/2015,218,201500507,6,ari,12:40 PM,Joe West,Tom Woodring,Gabe Morales,Rob Drake,Chase Field,"85 degrees, sunny","5 mph, Out to RF",0
+20172,2,bos,5/14/2015,173,201500508,1,sea,7:09 PM,Hunter Wendelstedt,Bob Davidson,Ryan Blakney,Jerry Layne,Safeco Field,"63 degrees, clear","1 mph, Out to CF",0
+42650,5,col,5/14/2015,191,201500509,4,lan,7:09 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Dodger Stadium,"59 degrees, overcast","4 mph, R to L",85
+33818,6,kca,5/14/2015,191,201500510,3,tex,1:08 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,Globe Life Park in Arlington,"76 degrees, cloudy","11 mph, R to L",0
+31785,1,min,5/14/2015,183,201500511,13,det,1:08 PM,Bill Welke,John Tumpane,Chris Guccione,James Hoye,Comerica Park,"56 degrees, partly cloudy","7 mph, In from CF",0
+11977,1,nya,5/14/2015,165,201500512,6,tba,7:10 PM,Eric Cooper,Adam Hamari,Dan Iassogna,Lance Barksdale,Tropicana Field,"72 degrees, dome","0 mph, None",0
+31496,5,nyn,5/14/2015,169,201500513,6,chn,1:20 PM,Andy Fletcher,Jerry Meals,Paul Emmel,Jordan Baker,Wrigley Field,"57 degrees, cloudy","11 mph, In from RF",0
+29205,2,pit,5/14/2015,160,201500514,4,phi,1:08 PM,CB Bucknor,Lance Barrett,Toby Basner,Dale Scott,Citizens Bank Park,"67 degrees, partly cloudy","4 mph, R to L",0
+21792,3,sfn,5/14/2015,178,201500515,4,cin,7:11 PM,Dan Bellino,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Great American Ball Park,"69 degrees, overcast","7 mph, R to L",0
+15865,2,sln,5/14/2015,192,201500516,1,cle,12:10 PM,Todd Tichenor,Tim Welke,Mike Everitt,Tim Timmons,Progressive Field,"56 degrees, partly cloudy","9 mph, In from CF",0
+15777,4,tor,5/14/2015,168,201500517,6,hou,7:10 PM,Brian O'Nora,Clint Fagan,Mark Ripperger,Jeff Kellogg,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+22710,3,was,5/14/2015,164,201500518,8,sdn,7:12 PM,Pat Hoberg,Gerry Davis,Phil Cuzzi,Tony Randazzo,Petco Park,"60 degrees, drizzle","4 mph, Varies",116
+35470,3,ana,5/15/2015,143,201500519,1,bal,7:06 PM,Adam Hamari,Dan Iassogna,Lance Barksdale,Eric Cooper,Oriole Park at Camden Yards,"70 degrees, partly cloudy","2 mph, L to R",0
+21383,3,ari,5/15/2015,185,201500520,4,phi,7:06 PM,Tim Welke,Mike Everitt,Sean Barber,Todd Tichenor,Citizens Bank Park,"73 degrees, partly cloudy","12 mph, Out to LF",0
+18334,5,atl,5/15/2015,190,201500521,3,mia,7:12 PM,Lance Barrett,Toby Basner,Dale Scott,CB Bucknor,Marlins Park,"75 degrees, roof closed","0 mph, None",0
+39477,1,bos,5/15/2015,152,201500522,2,sea,7:10 PM,Bob Davidson,Ryan Blakney,Jerry Layne,Hunter Wendelstedt,Safeco Field,"64 degrees, partly cloudy","6 mph, Out to LF",0
+21464,7,cha,5/15/2015,214,201500523,6,oak,7:07 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,O.co Coliseum,"55 degrees, cloudy","17 mph, Out to RF",0
+29524,8,cle,5/15/2015,197,201500524,3,tex,7:08 PM,Gabe Morales,David Rackley,Rob Drake,Joe West,Globe Life Park in Arlington,"77 degrees, partly cloudy","13 mph, In from CF",0
+46662,4,col,5/15/2015,214,201500525,6,lan,7:10 PM,Mark Wegner,Marty Foster,Mike Muchlinski,Mike Winters,Dodger Stadium,"65 degrees, partly cloudy","7 mph, R to L",0
+45601,10,det,5/15/2015,206,201500526,4,sln,7:15 PM,Vic Carapazza,Larry Vanover,Ron Kulpa,Brian Knight,Busch Stadium,"74 degrees, cloudy","8 mph, Out to RF",0
+27554,7,mil,5/15/2015,138,201500527,0,nyn,7:10 PM,Jeff Nelson,Laz Diaz,Cory Blaser,Manny Gonzalez,Citi Field,"64 degrees, cloudy","21 mph, Out to LF",0
+34584,1,nya,5/15/2015,192,201500528,12,kca,7:11 PM,John Tumpane,Chris Guccione,James Hoye,Bill Welke,Kauffman Stadium,"77 degrees, partly cloudy","6 mph, R to L",0
+33617,10,pit,5/15/2015,301,201500529,11,chn,1:20 PM,Chris Segal,Chad Fairchild,Jim Joyce,Greg Gibson,Wrigley Field,"73 degrees, overcast","10 mph, L to R",0
+39867,10,sfn,5/15/2015,173,201500530,2,cin,7:11 PM,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Dan Bellino,Great American Ball Park,"80 degrees, cloudy","11 mph, R to L",0
+24018,2,tba,5/15/2015,149,201500531,3,min,7:11 PM,Jerry Meals,Paul Emmel,Jordan Baker,Andy Fletcher,Target Field,"64 degrees, cloudy","1 mph, L to R",0
+21653,4,tor,5/15/2015,149,201500532,8,hou,7:10 PM,Clint Fagan,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+26166,10,was,5/15/2015,163,201500533,0,sdn,7:12 PM,Gerry Davis,Phil Cuzzi,Tony Randazzo,Pat Hoberg,Petco Park,"64 degrees, clear","17 mph, L to R",0
+29102,6,ana,5/16/2015,148,201500534,1,bal,8:02 PM,Dan Iassogna,Lance Barksdale,Eric Cooper,Adam Hamari,Oriole Park at Camden Yards,"69 degrees, overcast","1 mph, Out to LF",57
+33649,5,ari,5/16/2015,194,201500535,7,phi,7:05 PM,Mike Everitt,Sean Barber,Todd Tichenor,Tim Welke,Citizens Bank Park,"83 degrees, cloudy","9 mph, Out to CF",77
+18166,5,atl,5/16/2015,179,201500536,3,mia,1:08 PM,Toby Basner,Dale Scott,CB Bucknor,Lance Barrett,Marlins Park,"75 degrees, roof closed","0 mph, None",0
+45055,4,bos,5/16/2015,168,201500537,2,sea,6:11 PM,Ryan Blakney,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Safeco Field,"62 degrees, overcast","0 mph, Varies",0
+28445,4,cha,5/16/2015,186,201500538,3,oak,6:08 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,O.co Coliseum,"58 degrees, cloudy","16 mph, Out to RF",0
+31045,10,cle,5/16/2015,217,201500539,8,tex,7:09 PM,David Rackley,Rob Drake,Joe West,Gabe Morales,Globe Life Park in Arlington,"84 degrees, cloudy","15 mph, R to L",0
+48378,7,col,5/16/2015,174,201500540,1,lan,6:10 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,Dodger Stadium,"66 degrees, partly cloudy","6 mph, Out to RF",0
+45313,4,det,5/16/2015,234,201500541,3,sln,1:15 PM,Larry Vanover,Ron Kulpa,Brian Knight,Vic Carapazza,Busch Stadium,"75 degrees, cloudy","8 mph, Out to LF",80
+30208,1,mil,5/16/2015,176,201500542,14,nyn,7:10 PM,Laz Diaz,Cory Blaser,Manny Gonzalez,Jeff Nelson,Citi Field,"71 degrees, cloudy","8 mph, Out to LF",0
+31871,5,nya,5/16/2015,172,201500543,1,kca,6:10 PM,Chris Guccione,James Hoye,Bill Welke,John Tumpane,Kauffman Stadium,"78 degrees, partly cloudy","10 mph, R to L",0
+38883,1,pit,5/16/2015,185,201500544,4,chn,3:05 PM,Chad Fairchild,Jim Joyce,Marcus Pattillo,Chris Segal,Wrigley Field,"79 degrees, overcast","9 mph, Out to RF",0
+40889,11,sfn,5/16/2015,173,201500545,2,cin,7:10 PM,Tom Hallion,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Great American Ball Park,"73 degrees, overcast","6 mph, Varies",0
+27128,4,tba,5/16/2015,183,201500546,6,min,1:11 PM,Paul Emmel,Jordan Baker,Andy Fletcher,Jerry Meals,Target Field,"69 degrees, overcast","12 mph, R to L",0
+27102,5,tor,5/16/2015,188,201500547,6,hou,6:11 PM,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Clint Fagan,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+45282,4,was,5/16/2015,173,201500548,1,sdn,5:43 PM,Phil Cuzzi,Tony Randazzo,Pat Hoberg,Gerry Davis,Petco Park,"65 degrees, partly cloudy","8 mph, L to R",0
+41733,0,ana,5/17/2015,140,201500549,3,bal,1:36 PM,Lance Barksdale,Eric Cooper,Adam Hamari,Dan Iassogna,Oriole Park at Camden Yards,"81 degrees, cloudy","6 mph, Out to RF",0
+22123,0,ari,5/17/2015,172,201500550,6,phi,1:37 PM,Sean Barber,Todd Tichenor,Tim Welke,Mike Everitt,Citizens Bank Park,"82 degrees, cloudy","9 mph, Out to RF",0
+23075,6,atl,5/17/2015,135,201500551,0,mia,1:10 PM,Dale Scott,CB Bucknor,Lance Barrett,Toby Basner,Marlins Park,"74 degrees, roof closed","0 mph, None",0
+39936,0,bos,5/17/2015,151,201500552,5,sea,1:11 PM,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Ryan Blakney,Safeco Field,"60 degrees, overcast","5 mph, L to R",0
+33195,7,cha,5/17/2015,176,201500553,3,oak,1:07 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,O.co Coliseum,"55 degrees, cloudy","13 mph, Out to RF",0
+32189,1,cle,5/17/2015,169,201500554,5,tex,2:09 PM,Rob Drake,Joe West,Gabe Morales,David Rackley,Globe Life Park in Arlington,"76 degrees, partly cloudy","10 mph, R to L",0
+44990,0,col,5/17/2015,160,201500555,1,lan,1:10 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Dodger Stadium,"66 degrees, cloudy","5 mph, L to R",0
+43654,1,det,5/17/2015,177,201500556,2,sln,7:07 PM,Ron Kulpa,Brian Knight,Vic Carapazza,Larry Vanover,Busch Stadium,"80 degrees, partly cloudy","12 mph, Out to LF",0
+32422,1,mil,5/17/2015,169,201500557,5,nyn,1:11 PM,Cory Blaser,Manny Gonzalez,Jeff Nelson,Laz Diaz,Citi Field,"79 degrees, partly cloudy","1 mph, Varies",0
+31251,0,nya,5/17/2015,183,201500558,6,kca,1:12 PM,James Hoye,Bill Welke,John Tumpane,Chris Guccione,Kauffman Stadium,"74 degrees, partly cloudy","19 mph, R to L",0
+36289,3,pit,5/17/2015,187,201500559,0,chn,1:21 PM,Jim Joyce,Marcus Pattillo,Chris Segal,Chad Fairchild,Wrigley Field,"77 degrees, cloudy","23 mph, Out to LF",0
+39209,9,sfn,5/17/2015,205,201500560,8,cin,1:12 PM,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Tom Hallion,Great American Ball Park,"79 degrees, cloudy","9 mph, R to L",24
+23708,11,tba,5/17/2015,197,201500561,3,min,1:11 PM,Jordan Baker,Andy Fletcher,Jerry Meals,Paul Emmel,Target Field,"73 degrees, overcast","17 mph, R to L",0
+25307,2,tor,5/17/2015,142,201500562,4,hou,1:12 PM,Jeff Kellogg,Brian O'Nora,Clint Fagan,Mark Ripperger,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+37032,10,was,5/17/2015,184,201500563,5,sdn,1:13 PM,Tony Randazzo,Pat Hoberg,Gerry Davis,Phil Cuzzi,Petco Park,"66 degrees, partly cloudy","6 mph, L to R",0
+29306,6,ana,5/18/2015,208,201500564,10,tor,1:08 PM,Sean Barber,Paul Schrieber,Jim Reynolds,Manny Gonzalez,Rogers Centre,"72 degrees, partly cloudy","7 mph, R to L",0
+17526,3,ari,5/18/2015,191,201500565,2,mia,7:12 PM,Dan Bellino,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Marlins Park,"74 degrees, roof closed","0 mph, None",0
+17712,1,cle,5/18/2015,154,201500566,2,cha,7:10 PM,Brian Knight,Dale Scott,Larry Vanover,Ron Kulpa,U.S. Cellular Field,"67 degrees, clear","19 mph, Out to LF",0
+26016,3,mil,5/18/2015,193,201500567,2,det,7:08 PM,Tripp Gibson III,Brian Gorman,Mark Carlson,Mike DiMuro,Comerica Park,"80 degrees, cloudy","13 mph, R to L",0
+21724,2,oak,5/18/2015,195,201500568,1,hou,7:12 PM,Andy Fletcher,Jerry Meals,Paul Emmel,Jordan Baker,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+24061,4,phi,5/18/2015,194,201500569,3,col,6:42 PM,Hunter Wendelstedt,Bob Davidson,Ryan Blakney,Jerry Layne,Coors Field,"49 degrees, cloudy","4 mph, In from LF",0
+23338,1,sln,5/18/2015,254,201500570,2,nyn,7:11 PM,Jim Wolf,Doug Eddings,Adrian Johnson,Bill Miller,Citi Field,"62 degrees, cloudy","12 mph, In from RF",0
+15062,3,ana,5/19/2015,152,201500571,2,tor,7:07 PM,Paul Schrieber,Jim Reynolds,Manny Gonzalez,Sean Barber,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+16034,4,ari,5/19/2015,166,201500572,2,mia,7:11 PM,Bruce Dreckman,Tom Hallion,Alfonso Marquez,Dan Bellino,Marlins Park,"82 degrees, clear","15 mph, In from LF",0
+25917,3,chn,5/19/2015,167,201500573,4,sdn,7:11 PM,Paul Nauert,Ed Hickox,Mike Estabrook,Dana DeMuth,Petco Park,"64 degrees, clear","7 mph, L to R",0
+29769,0,cin,5/19/2015,132,201500574,3,kca,7:10 PM,Joe West,Gabe Morales,David Rackley,Rob Drake,Kauffman Stadium,"57 degrees, overcast","12 mph, In from LF",0
+15681,3,cle,5/19/2015,177,201500575,1,cha,7:11 PM,Dale Scott,Larry Vanover,Ron Kulpa,Brian Knight,U.S. Cellular Field,"50 degrees, clear","11 mph, Out to RF",0
+41392,0,lan,5/19/2015,179,201500576,2,sfn,7:15 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,AT&T Park,"57 degrees, cloudy","13 mph, Out to CF",0
+26994,8,mil,5/19/2015,154,201500577,1,det,7:08 PM,Brian Gorman,Mark Carlson,Mike DiMuro,Tripp Gibson III,Comerica Park,"53 degrees, cloudy","13 mph, In from CF",0
+22357,8,min,5/19/2015,173,201500578,5,pit,7:07 PM,Jeff Kellogg,Brian O'Nora,Clint Fagan,Alan Porter,PNC Park,"72 degrees, partly cloudy","14 mph, Out to LF",0
+37355,6,nya,5/19/2015,200,201500579,8,was,7:06 PM,Marvin Hudson,Chris Segal,Chad Fairchild,Jim Joyce,Nationals Park,"89 degrees, clear","6 mph, L to R",0
+17575,4,oak,5/19/2015,201,201500580,6,hou,7:10 PM,Jerry Meals,Paul Emmel,Jordan Baker,Andy Fletcher,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+21249,5,phi,5/19/2015,174,201500581,6,col,6:57 PM,Bob Davidson,Ryan Blakney,Jerry Layne,Hunter Wendelstedt,Coors Field,"46 degrees, overcast","4 mph, Out to LF",17
+19494,4,sea,5/19/2015,162,201500582,9,bal,7:08 PM,John Hirschbeck,John Tumpane,Sam Holbrook,James Hoye,Oriole Park at Camden Yards,"80 degrees, partly cloudy","6 mph, Out to RF",0
+21157,10,sln,5/19/2015,163,201500583,2,nyn,7:11 PM,Doug Eddings,Adrian Johnson,Bill Miller,Jim Wolf,Citi Field,"72 degrees, partly cloudy","13 mph, Out to LF",0
+20120,5,tba,5/19/2015,163,201500584,3,atl,7:10 PM,Pat Hoberg,Will Little,Gerry Davis,Tony Randazzo,Turner Field,"80 degrees, cloudy","9 mph, L to R",0
+36580,3,tex,5/19/2015,170,201500585,4,bos,7:11 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Fenway Park,"64 degrees, cloudy","9 mph, Out to CF",0
+16402,4,ana,5/20/2015,156,201500586,3,tor,7:07 PM,Jim Reynolds,Manny Gonzalez,Sean Barber,Paul Schrieber,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+17158,6,ari,5/20/2015,156,201500587,1,mia,7:11 PM,Tom Hallion,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Marlins Park,"82 degrees, partly cloudy","13 mph, In from CF",0
+25028,3,chn,5/20/2015,177,201500588,2,sdn,7:11 PM,Ed Hickox,Mike Estabrook,Dana DeMuth,Paul Nauert,Petco Park,"64 degrees, partly cloudy","6 mph, Varies",0
+30450,1,cin,5/20/2015,164,201500589,7,kca,7:10 PM,Gabe Morales,David Rackley,Rob Drake,Joe West,Kauffman Stadium,"52 degrees, cloudy","9 mph, L to R",0
+15146,4,cle,5/20/2015,176,201500590,3,cha,7:41 PM,Larry Vanover,Ron Kulpa,Brian Knight,Dale Scott,U.S. Cellular Field,"51 degrees, drizzle","8 mph, Out to RF",31
+41920,0,lan,5/20/2015,156,201500591,4,sfn,7:15 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,AT&T Park,"58 degrees, cloudy","7 mph, Out to CF",0
+27716,2,mil,5/20/2015,185,201500592,5,det,7:08 PM,Mark Carlson,Mike DiMuro,Tripp Gibson III,Brian Gorman,Comerica Park,"56 degrees, partly cloudy","8 mph, In from RF",0
+21718,4,min,5/20/2015,236,201500593,3,pit,7:07 PM,Brian O'Nora,Clint Fagan,Alan Porter,Jeff Kellogg,PNC Park,"54 degrees, partly cloudy","2 mph, Out to RF",0
+37648,2,nya,5/20/2015,163,201500594,3,was,7:05 PM,Chris Segal,Chad Fairchild,Jim Joyce,Marvin Hudson,Nationals Park,"72 degrees, clear","10 mph, L to R",0
+21066,1,oak,5/20/2015,182,201500595,6,hou,1:11 PM,Paul Emmel,Jordan Baker,Andy Fletcher,Jerry Meals,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+21714,4,phi,5/20/2015,170,201500596,2,col,6:42 PM,Ryan Blakney,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Coors Field,"40 degrees, rain","7 mph, R to L",0
+21710,4,sea,5/20/2015,158,201500597,2,bal,7:07 PM,John Tumpane,Sam Holbrook,James Hoye,John Hirschbeck,Oriole Park at Camden Yards,"66 degrees, clear","4 mph, In from RF",0
+23726,9,sln,5/20/2015,163,201500598,0,nyn,7:10 PM,Adrian Johnson,Bill Miller,Jim Wolf,Doug Eddings,Citi Field,"60 degrees, partly cloudy","23 mph, L to R",0
+24549,1,tba,5/20/2015,154,201500599,2,atl,7:10 PM,Will Little,Gerry Davis,Tony Randazzo,Pat Hoberg,Turner Field,"84 degrees, partly cloudy","8 mph, L to R",0
+35726,2,tex,5/20/2015,193,201500600,1,bos,7:10 PM,Mark Wegner,Marty Foster,Mike Muchlinski,Mike Winters,Fenway Park,"59 degrees, cloudy","14 mph, L to R",0
+19014,4,ana,5/21/2015,142,201500601,8,tor,7:09 PM,Manny Gonzalez,Sean Barber,Paul Schrieber,Jim Reynolds,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+20692,7,ari,5/21/2015,182,201500602,6,mia,12:12 PM,Alfonso Marquez,Dan Bellino,Bruce Dreckman,Tom Hallion,Marlins Park,"76 degrees, roof closed","0 mph, None",0
+30021,3,chn,5/21/2015,128,201500603,0,sdn,6:12 PM,Mike Estabrook,Dana DeMuth,Paul Nauert,Ed Hickox,Petco Park,"64 degrees, cloudy","12 mph, Out to RF",0
+18321,5,cle,5/21/2015,184,201500604,2,cha,7:11 PM,Ron Kulpa,Brian Knight,Dale Scott,Larry Vanover,U.S. Cellular Field,"69 degrees, clear","9 mph, L to R",0
+33193,5,hou,5/21/2015,220,201500605,6,det,1:09 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Mark Carlson,Comerica Park,"59 degrees, cloudy","9 mph, Out to LF",0
+41840,0,lan,5/21/2015,174,201500606,4,sfn,12:45 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,AT&T Park,"62 degrees, cloudy","10 mph, Out to RF",0
+18239,1,mil,5/21/2015,169,201500607,10,atl,7:12 PM,Chad Fairchild,Jim Joyce,Marvin Hudson,Chris Segal,Turner Field,"74 degrees, partly cloudy","17 mph, L to R",0
+10605,0,oak,5/21/2015,178,201500608,3,tba,7:12 PM,David Rackley,Rob Drake,Joe West,Gabe Morales,Tropicana Field,"72 degrees, dome","0 mph, None",0
+25418,3,phi,5/21/2015,195,201500609,7,col,1:11 PM,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Ryan Blakney,Coors Field,"53 degrees, cloudy","3 mph, R to L",0
+33085,4,sea,5/21/2015,210,201500610,5,bal,12:47 PM,Sam Holbrook,James Hoye,John Hirschbeck,John Tumpane,Oriole Park at Camden Yards,"51 degrees, rain","2 mph, In from RF",137
+32783,0,sln,5/21/2015,146,201500611,5,nyn,1:10 PM,Bill Miller,Jim Wolf,Doug Eddings,Adrian Johnson,Citi Field,"63 degrees, cloudy","3 mph, Out to LF",0
+34945,3,tex,5/21/2015,169,201500612,1,bos,7:12 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,Fenway Park,"64 degrees, overcast","10 mph, Out to LF",0
+36150,12,ana,5/22/2015,215,201500613,5,bos,7:12 PM,James Hoye,John Hirschbeck,John Tumpane,Sam Holbrook,Fenway Park,"69 degrees, partly cloudy","17 mph, Out to RF",0
+19977,8,bal,5/22/2015,202,201500614,5,mia,7:13 PM,Jordan Baker,Pat Hoberg,Andy Fletcher,Paul Emmel,Marlins Park,"74 degrees, roof closed","0 mph, None",0
+34498,4,chn,5/22/2015,267,201500615,5,ari,6:40 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,Chase Field,"78 degrees, partly cloudy","10 mph, Varies",0
+23617,3,cin,5/22/2015,176,201500616,7,cle,7:12 PM,Sean Barber,Paul Schrieber,Jim Reynolds,Manny Gonzalez,Progressive Field,"57 degrees, clear","9 mph, In from RF",0
+37276,2,hou,5/22/2015,167,201500617,6,det,7:08 PM,Hunter Wendelstedt,Bob Davidson,Ryan Blakney,Jerry Layne,Comerica Park,"65 degrees, clear","9 mph, R to L",0
+25774,11,mil,5/22/2015,172,201500618,0,atl,7:35 PM,Jim Joyce,Marvin Hudson,Chris Segal,Chad Fairchild,Turner Field,"77 degrees, partly cloudy","3 mph, In from RF",0
+21067,2,min,5/22/2015,141,201500619,3,cha,7:10 PM,Doug Eddings,Adam Hamari,Adrian Johnson,Bill Miller,U.S. Cellular Field,"56 degrees, partly cloudy","12 mph, In from LF",0
+33337,1,nyn,5/22/2015,144,201500620,4,pit,7:06 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,PNC Park,"64 degrees, clear","15 mph, Out to CF",0
+12329,2,oak,5/22/2015,185,201500621,5,tba,7:10 PM,Rob Drake,Joe West,Gabe Morales,David Rackley,Tropicana Field,"72 degrees, dome","0 mph, None",0
+35893,1,phi,5/22/2015,155,201500622,2,was,7:06 PM,Dan Bellino,Ben May,Bruce Dreckman,Alfonso Marquez,Nationals Park,"73 degrees, partly cloudy","5 mph, In from RF",0
+48514,1,sdn,5/22/2015,159,201500623,2,lan,7:10 PM,Clint Fagan,Alan Porter,Jeff Kellogg,Brian O'Nora,Dodger Stadium,"64 degrees, partly cloudy","9 mph, Out to RF",0
+21195,4,sea,5/22/2015,150,201500624,3,tor,7:08 PM,Gerry Davis,Tony Randazzo,Will Little,Jim Wolf,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+31226,11,sfn,5/22/2015,213,201500625,8,col,6:11 PM,Dana DeMuth,Paul Nauert,Ed Hickox,Mike Estabrook,Coors Field,"54 degrees, overcast","9 mph, In from RF",104
+37379,0,sln,5/22/2015,173,201500626,5,kca,7:11 PM,Tripp Gibson III,Mark Carlson,Brian Gorman,Mike DiMuro,Kauffman Stadium,"64 degrees, cloudy","6 mph, R to L",0
+40008,10,tex,5/22/2015,199,201500627,9,nya,7:07 PM,Brian Knight,Toby Basner,Larry Vanover,Ron Kulpa,Yankee Stadium,"70 degrees, partly cloudy","14 mph, Out to CF",0
+37735,3,ana,5/23/2015,189,201500628,8,bos,7:16 PM,John Hirschbeck,John Tumpane,Sam Holbrook,James Hoye,Fenway Park,"63 degrees, clear","12 mph, In from LF",0
+21356,0,bal,5/23/2015,231,201500629,1,mia,7:15 PM,Pat Hoberg,Andy Fletcher,Paul Emmel,Jordan Baker,Marlins Park,"75 degrees, roof closed","0 mph, None",0
+30502,9,chn,5/23/2015,194,201500630,6,ari,7:10 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,Chase Field,"84 degrees, clear","8 mph, Varies",0
+27315,1,cin,5/23/2015,153,201500631,2,cle,4:11 PM,Paul Schrieber,Jim Reynolds,Manny Gonzalez,Sean Barber,Progressive Field,"64 degrees, sunny","8 mph, In from CF",0
+40153,3,hou,5/23/2015,164,201500632,2,det,4:08 PM,Bob Davidson,Ryan Blakney,Jerry Layne,Hunter Wendelstedt,Comerica Park,"71 degrees, sunny","8 mph, R to L",0
+33223,2,mil,5/23/2015,228,201500633,3,atl,4:15 PM,Marvin Hudson,Chris Segal,Chad Fairchild,Jim Joyce,Turner Field,"81 degrees, sunny","8 mph, R to L",0
+38714,4,min,5/23/2015,132,201500634,3,cha,3:40 PM,Adam Hamari,Adrian Johnson,Bill Miller,Doug Eddings,U.S. Cellular Field,"75 degrees, sunny","10 mph, Out to RF",30
+39385,2,nyn,5/23/2015,161,201500635,8,pit,4:08 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,PNC Park,"73 degrees, sunny","6 mph, R to L",0
+15207,5,oak,5/23/2015,175,201500636,0,tba,4:10 PM,Joe West,Gabe Morales,David Rackley,Rob Drake,Tropicana Field,"72 degrees, dome","0 mph, None",0
+41722,8,phi,5/23/2015,153,201500637,1,was,4:07 PM,Ben May,Bruce Dreckman,Alfonso Marquez,Dan Bellino,Nationals Park,"69 degrees, sunny","6 mph, Out to RF",0
+53479,0,sdn,5/23/2015,131,201500638,2,lan,7:09 PM,Alan Porter,Jeff Kellogg,Brian O'Nora,Clint Fagan,Dodger Stadium,"64 degrees, partly cloudy","5 mph, Out to RF",0
+33086,3,sea,5/23/2015,145,201500639,2,tor,1:07 PM,Tony Randazzo,Will Little,Jim Wolf,Gerry Davis,Rogers Centre,"54 degrees, sunny","13 mph, Out to CF",0
+32956,10,sfn,5/23/2015,184,201500640,8,col,4:25 PM,Marcus Pattillo,Ed Hickox,Mike Estabrook,Dana DeMuth,Coors Field,"49 degrees, overcast","6 mph, Out to CF",135
+30180,3,sfn,5/23/2015,165,201500641,5,col,9:07 PM,Ed Hickox,Mike Estabrook,Marcus Pattillo,Paul Nauert,Coors Field,"45 degrees, overcast","6 mph, In from CF",58
+38676,2,sln,5/23/2015,100,201500642,3,kca,6:15 PM,Mark Carlson,Brian Gorman,Mike DiMuro,Tripp Gibson III,Kauffman Stadium,"68 degrees, overcast","13 mph, R to L",70
+42067,15,tex,5/23/2015,183,201500643,4,nya,1:08 PM,Toby Basner,Larry Vanover,Ron Kulpa,Brian Knight,Yankee Stadium,"60 degrees, sunny","7 mph, Out to RF",0
+37742,1,ana,5/24/2015,157,201500644,6,bos,1:36 PM,John Tumpane,Sam Holbrook,James Hoye,John Hirschbeck,Fenway Park,"80 degrees, sunny","22 mph, L to R",0
+23834,2,bal,5/24/2015,180,201500645,5,mia,1:11 PM,Andy Fletcher,Paul Emmel,Jordan Baker,Pat Hoberg,Marlins Park,"74 degrees, roof closed","0 mph, None",0
+39660,3,chn,5/24/2015,151,201500646,4,ari,1:10 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,Chase Field,"77 degrees, roof closed","4 mph, In from CF",0
+23882,2,cin,5/24/2015,187,201500647,5,cle,1:11 PM,Jim Reynolds,Manny Gonzalez,Sean Barber,Paul Schrieber,Progressive Field,"79 degrees, sunny","8 mph, Out to RF",0
+36449,10,hou,5/24/2015,202,201500648,8,det,1:08 PM,Ryan Blakney,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Comerica Park,"75 degrees, partly cloudy","11 mph, R to L",0
+30612,1,mil,5/24/2015,167,201500649,2,atl,1:35 PM,Chris Segal,Jim Joyce,Tom Woodring,Marvin Hudson,Turner Field,"79 degrees, partly cloudy","7 mph, R to L",0
+30180,8,min,5/24/2015,157,201500650,1,cha,1:11 PM,Adrian Johnson,Bill Miller,Doug Eddings,Adam Hamari,U.S. Cellular Field,"72 degrees, cloudy","14 mph, L to R",0
+37784,1,nyn,5/24/2015,166,201500651,9,pit,1:37 PM,Marty Foster,Mike Muchlinski,Seth Buckminster,Mike Winters,PNC Park,"77 degrees, sunny","6 mph, In from CF",0
+15692,7,oak,5/24/2015,173,201500652,2,tba,1:10 PM,Gabe Morales,David Rackley,Rob Drake,Joe West,Tropicana Field,"72 degrees, dome","0 mph, None",0
+41044,1,phi,5/24/2015,165,201500653,4,was,1:37 PM,Bruce Dreckman,Alfonso Marquez,Dan Bellino,Ben May,Nationals Park,"76 degrees, sunny","8 mph, Out to CF",0
+50182,11,sdn,5/24/2015,167,201500654,3,lan,1:09 PM,Jeff Kellogg,Brian O'Nora,Clint Fagan,Alan Porter,Dodger Stadium,"69 degrees, cloudy","6 mph, Out to CF",0
+37929,2,sea,5/24/2015,170,201500655,8,tor,1:07 PM,Will Little,Jim Wolf,Gerry Davis,Tony Randazzo,Rogers Centre,"68 degrees, partly cloudy","5 mph, Out to RF",0
+34404,2,sfn,5/24/2015,169,201500656,11,col,4:20 PM,Mike Estabrook,Dana DeMuth,Paul Nauert,Ed Hickox,Coors Field,"55 degrees, partly cloudy","6 mph, Out to LF",130
+36342,6,sln,5/24/2015,160,201500657,1,kca,1:12 PM,Brian Gorman,Mike DiMuro,Tripp Gibson III,Mark Carlson,Kauffman Stadium,"69 degrees, cloudy","4 mph, L to R",0
+45681,5,tex,5/24/2015,205,201500658,2,nya,8:08 PM,Larry Vanover,Ron Kulpa,Brian Knight,Toby Basner,Yankee Stadium,"69 degrees, partly cloudy","13 mph, R to L",0
+42853,2,ari,5/25/2015,204,201500659,3,sln,3:15 PM,Chris Segal,Eric Cooper,Chris Guccione,Lance Barksdale,Busch Stadium,"85 degrees, partly cloudy","11 mph, R to L",0
+44680,3,atl,5/25/2015,169,201500660,6,lan,5:11 PM,Dana DeMuth,Paul Nauert,Ed Hickox,Mike Estabrook,Dodger Stadium,"68 degrees, partly cloudy","5 mph, Out to RF",0
+29472,2,bos,5/25/2015,172,201500661,7,min,1:13 PM,Lance Barrett,Dale Scott,Dan Iassogna,CB Bucknor,Target Field,"63 degrees, cloudy","14 mph, R to L",0
+15168,0,cha,5/25/2015,130,201500662,6,tor,7:08 PM,Paul Emmel,Jordan Baker,Jerry Meals,Andy Fletcher,Rogers Centre,"66 degrees, cloudy","8 mph, Out to RF",0
+20516,5,col,5/25/2015,179,201500663,4,cin,1:13 PM,Todd Tichenor,Tim Welke,Mike Everitt,Tim Timmons,Great American Ball Park,"72 degrees, partly cloudy","13 mph, R to L",0
+25380,0,det,5/25/2015,160,201500664,4,oak,1:09 PM,Jeff Kellogg,Brian O'Nora,Alan Porter,Mark Ripperger,O.co Coliseum,"59 degrees, overcast","13 mph, Out to RF",0
+28909,3,hou,5/25/2015,140,201500665,4,bal,1:37 PM,Alfonso Marquez,Dan Bellino,Ben May,Bruce Dreckman,Oriole Park at Camden Yards,"80 degrees, sunny","5 mph, Out to LF",0
+36031,1,kca,5/25/2015,192,201500666,14,nya,1:09 PM,Marty Foster,Mike Muchlinski,Mike Winters,Mark Wegner,Yankee Stadium,"82 degrees, sunny","13 mph, R to L",0
+20046,2,mia,5/25/2015,140,201500667,4,pit,7:08 PM,David Rackley,Rob Drake,Joe West,Gabe Morales,PNC Park,"81 degrees, cloudy","13 mph, Out to CF",0
+30946,3,phi,5/25/2015,187,201500668,6,nyn,1:10 PM,Ron Kulpa,Vic Carapazza,Toby Basner,Larry Vanover,Citi Field,"81 degrees, partly cloudy","15 mph, Out to LF",0
+38055,3,sdn,5/25/2015,191,201500669,4,ana,6:08 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,Angel Stadium of Anaheim,"70 degrees, partly cloudy","10 mph, R to L",0
+10401,4,sea,5/25/2015,171,201500670,1,tba,7:10 PM,Brian Gorman,Tripp Gibson III,Mark Carlson,Jerry Layne,Tropicana Field,"72 degrees, dome","0 mph, None",0
+41969,8,sfn,5/25/2015,195,201500671,4,mil,1:11 PM,Phil Cuzzi,Gerry Davis,Adam Hamari,Will Little,Miller Park,"71 degrees, roof closed","0 mph, None",0
+13614,10,tex,5/25/2015,212,201500672,8,cle,4:10 PM,John Tumpane,Jeff Nelson,Laz Diaz,Cory Blaser,Progressive Field,"81 degrees, cloudy","15 mph, Out to RF",0
+38463,2,was,5/25/2015,159,201500673,1,chn,1:21 PM,Mike DiMuro,Hunter Wendelstedt,Bob Davidson,Ryan Blakney,Wrigley Field,"72 degrees, overcast","13 mph, Out to CF",0
+41107,4,ari,5/26/2015,171,201500674,6,sln,7:15 PM,Eric Cooper,Chris Guccione,Lance Barksdale,Chris Segal,Busch Stadium,"78 degrees, partly cloudy","10 mph, Out to LF",0
+40667,0,atl,5/26/2015,158,201500675,8,lan,7:10 PM,Paul Nauert,Ed Hickox,Mike Estabrook,Dana DeMuth,Dodger Stadium,"65 degrees, partly cloudy","7 mph, Out to RF",0
+23268,1,bos,5/26/2015,156,201500676,2,min,8:31 PM,Dale Scott,Dan Iassogna,CB Bucknor,Lance Barrett,Target Field,"58 degrees, overcast","7 mph, L to R",81
+17276,9,cha,5/26/2015,192,201500677,10,tor,7:08 PM,Jordan Baker,Jerry Meals,Andy Fletcher,Paul Emmel,Rogers Centre,"70 degrees, clear","12 mph, Out to CF",0
+22523,1,col,5/26/2015,159,201500678,2,cin,7:10 PM,Tim Welke,Mike Everitt,Tim Timmons,Todd Tichenor,Great American Ball Park,"72 degrees, cloudy","11 mph, R to L",0
+22758,1,det,5/26/2015,178,201500679,0,oak,7:07 PM,Alan Porter,Marcus Pattillo,Mark Ripperger,Jeff Kellogg,O.co Coliseum,"56 degrees, partly cloudy","12 mph, In from RF",0
+21541,4,hou,5/26/2015,170,201500680,1,bal,7:08 PM,Dan Bellino,Tom Hallion,Bruce Dreckman,Alfonso Marquez,Oriole Park at Camden Yards,"81 degrees, clear","5 mph, Out to LF",0
+33414,1,kca,5/26/2015,151,201500681,5,nya,7:09 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Yankee Stadium,"77 degrees, partly cloudy","18 mph, R to L",0
+20806,1,mia,5/26/2015,158,201500682,5,pit,7:07 PM,Rob Drake,Joe West,Gabe Morales,David Rackley,PNC Park,"80 degrees, partly cloudy","11 mph, R to L",0
+21064,4,phi,5/26/2015,197,201500683,5,nyn,7:10 PM,Vic Carapazza,Toby Basner,Larry Vanover,Ron Kulpa,Citi Field,"77 degrees, partly cloudy","18 mph, Out to LF",0
+32334,4,sdn,5/26/2015,204,201500684,0,ana,7:09 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,Angel Stadium of Anaheim,"67 degrees, partly cloudy","7 mph, Out to RF",0
+9628,7,sea,5/26/2015,232,201500685,6,tba,7:10 PM,Tripp Gibson III,Mark Carlson,Jerry Layne,Brian Gorman,Tropicana Field,"72 degrees, dome","0 mph, None",0
+35492,6,sfn,5/26/2015,187,201500686,3,mil,7:11 PM,Gerry Davis,Adam Hamari,Will Little,Phil Cuzzi,Miller Park,"74 degrees, partly cloudy","20 mph, R to L",0
+11352,4,tex,5/26/2015,186,201500687,3,cle,8:06 PM,Jeff Nelson,Laz Diaz,Cory Blaser,John Tumpane,Progressive Field,"82 degrees, overcast","17 mph, Out to RF",56
+30440,2,was,5/26/2015,153,201500688,3,chn,6:20 PM,Hunter Wendelstedt,Bob Davidson,Ryan Blakney,Mike DiMuro,Wrigley Field,"71 degrees, clear","17 mph, Out to CF",0
+43715,3,ari,5/27/2015,199,201500689,4,sln,7:16 PM,Chris Guccione,Lance Barksdale,Chris Segal,Eric Cooper,Busch Stadium,"82 degrees, clear","8 mph, Out to RF",0
+37837,3,atl,5/27/2015,178,201500690,2,lan,7:10 PM,Ed Hickox,Mike Estabrook,Dana DeMuth,Paul Nauert,Dodger Stadium,"67 degrees, clear","10 mph, Out to RF",0
+30027,4,bos,5/27/2015,149,201500691,6,min,12:10 PM,Dan Iassogna,CB Bucknor,Lance Barrett,Dale Scott,Target Field,"73 degrees, partly cloudy","12 mph, Out to LF",0
+15463,5,cha,5/27/2015,211,201500692,3,tor,12:37 PM,Jerry Meals,Andy Fletcher,Paul Emmel,Jordan Baker,Rogers Centre,"66 degrees, cloudy","14 mph, Out to RF",0
+23917,6,col,5/27/2015,166,201500693,4,cin,12:35 PM,Mike Everitt,Tim Timmons,Todd Tichenor,Tim Welke,Great American Ball Park,"78 degrees, cloudy","14 mph, R to L",0
+20387,3,det,5/27/2015,186,201500694,2,oak,12:37 PM,Marcus Pattillo,Mark Ripperger,Jeff Kellogg,Alan Porter,O.co Coliseum,"56 degrees, partly cloudy","11 mph, Out to RF",0
+16401,4,hou,5/27/2015,146,201500695,5,bal,5:46 PM,Tom Hallion,Bruce Dreckman,Alfonso Marquez,Dan Bellino,Oriole Park at Camden Yards,"74 degrees, cloudy","1 mph, In from RF",71
+32734,2,kca,5/27/2015,162,201500696,4,nya,1:09 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Yankee Stadium,"77 degrees, cloudy","13 mph, R to L",0
+33238,2,mia,5/27/2015,158,201500697,5,pit,12:37 PM,Joe West,Gabe Morales,David Rackley,Rob Drake,PNC Park,"73 degrees, cloudy","10 mph, Out to LF",0
+24406,0,phi,5/27/2015,161,201500698,7,nyn,1:09 PM,Toby Basner,Larry Vanover,Ron Kulpa,Vic Carapazza,Citi Field,"77 degrees, partly cloudy","14 mph, Out to LF",0
+36180,5,sdn,5/27/2015,171,201500699,4,ana,7:08 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,Angel Stadium of Anaheim,"70 degrees, partly cloudy","6 mph, Out to RF",0
+10365,3,sea,5/27/2015,133,201500700,0,tba,1:10 PM,Mark Carlson,Jerry Layne,Brian Gorman,Tripp Gibson III,Tropicana Field,"72 degrees, dome","0 mph, None",0
+35208,3,sfn,5/27/2015,180,201500701,1,mil,12:41 PM,Adam Hamari,Will Little,Phil Cuzzi,Gerry Davis,Miller Park,"72 degrees, roof closed","0 mph, None",0
+15956,3,tex,5/27/2015,167,201500702,12,cle,12:11 PM,Laz Diaz,Cory Blaser,John Tumpane,Jeff Nelson,Progressive Field,"79 degrees, partly cloudy","15 mph, Out to RF",0
+34215,3,was,5/27/2015,180,201500703,0,chn,7:07 PM,Bob Davidson,Ryan Blakney,Mike DiMuro,Hunter Wendelstedt,Wrigley Field,"70 degrees, clear","5 mph, In from LF",0
+41040,0,atl,5/28/2015,151,201500704,7,sfn,7:14 PM,CB Bucknor,Lance Barrett,Dale Scott,Dan Iassogna,AT&T Park,"59 degrees, cloudy","20 mph, Out to CF",0
+34085,5,bos,5/28/2015,169,201500705,1,tex,7:07 PM,Todd Tichenor,Chris Segal,Tim Welke,Mike Everitt,Globe Life Park in Arlington,"82 degrees, cloudy","10 mph, In from CF",0
+0,3,cha,5/28/2015,171,201500706,2,bal,1:08 PM,Larry Vanover,Ron Kulpa,Vic Carapazza,Toby Basner,Oriole Park at Camden Yards,"84 degrees, cloudy","4 mph, R to L",0
+18441,3,cha,5/28/2015,168,201500707,6,bal,4:42 PM,Ron Kulpa,Vic Carapazza,Larry Vanover,Clint Fagan,Oriole Park at Camden Yards,"83 degrees, overcast","4 mph, R to L",0
+19449,5,cle,5/28/2015,170,201500708,3,sea,7:10 PM,Pat Hoberg,Jeff Kellogg,Alan Porter,Mark Ripperger,Safeco Field,"80 degrees, partly cloudy","3 mph, L to R",0
+32261,2,det,5/28/2015,187,201500709,12,ana,7:07 PM,Will Little,Phil Cuzzi,Gerry Davis,Adam Hamari,Angel Stadium of Anaheim,"69 degrees, partly cloudy","5 mph, Out to RF",0
+21795,4,nya,5/28/2015,170,201500710,5,oak,7:07 PM,Mike Estabrook,Dana DeMuth,Paul Nauert,Ed Hickox,O.co Coliseum,"54 degrees, clear","11 mph, Out to RF",0
+23104,11,pit,5/28/2015,185,201500711,5,sdn,7:11 PM,Cory Blaser,John Tumpane,Jeff Nelson,Laz Diaz,Petco Park,"65 degrees, clear","6 mph, Out to RF",0
+34276,7,ari,5/29/2015,203,201500712,5,mil,7:11 PM,Ryan Blakney,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Miller Park,"74 degrees, partly cloudy","6 mph, R to L",0
+41311,2,atl,5/29/2015,156,201500713,4,sfn,7:15 PM,Lance Barrett,Dale Scott,Dan Iassogna,CB Bucknor,AT&T Park,"55 degrees, overcast","14 mph, Out to CF",0
+38176,4,bos,5/29/2015,179,201500714,7,tex,7:07 PM,Chris Segal,Tim Welke,Mike Everitt,Todd Tichenor,Globe Life Park in Arlington,"79 degrees, partly cloudy","6 mph, R to L",0
+25957,6,cha,5/29/2015,248,201500715,3,hou,7:12 PM,Gabe Morales,David Rackley,Rob Drake,Joe West,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+32454,1,cle,5/29/2015,144,201500716,2,sea,7:10 PM,Jeff Kellogg,Alan Porter,Mark Ripperger,Pat Hoberg,Safeco Field,"76 degrees, partly cloudy","2 mph, Out to RF",0
+22227,4,col,5/29/2015,152,201500717,1,phi,7:06 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,Citizens Bank Park,"86 degrees, partly cloudy","7 mph, Out to CF",0
+41901,0,det,5/29/2015,166,201500718,2,ana,7:07 PM,Phil Cuzzi,Gerry Davis,Adam Hamari,Will Little,Angel Stadium of Anaheim,"72 degrees, partly cloudy","9 mph, L to R",0
+34273,8,kca,5/29/2015,189,201500719,4,chn,3:06 PM,Bruce Dreckman,Alfonso Marquez,Dan Bellino,Tom Hallion,Wrigley Field,"77 degrees, cloudy","12 mph, R to L",0
+44223,0,lan,5/29/2015,178,201500720,3,sln,7:15 PM,Marcus Pattillo,Marty Foster,Mike Muchlinski,Mike Winters,Busch Stadium,"76 degrees, cloudy","6 mph, Out to LF",0
+33880,4,mia,5/29/2015,128,201500721,3,nyn,7:11 PM,Mike DiMuro,Clint Fagan,Tripp Gibson III,Mark Carlson,Citi Field,"72 degrees, partly cloudy","11 mph, Out to LF",0
+23540,2,nya,5/29/2015,169,201500722,6,oak,7:07 PM,Dana DeMuth,Paul Nauert,Ed Hickox,Mike Estabrook,O.co Coliseum,"54 degrees, partly cloudy","15 mph, Out to RF",0
+28317,2,pit,5/29/2015,196,201500723,6,sdn,7:11 PM,John Tumpane,Jeff Nelson,Laz Diaz,Cory Blaser,Petco Park,"65 degrees, partly cloudy","8 mph, L to R",0
+45505,1,tba,5/29/2015,163,201500724,2,bal,7:05 PM,Vic Carapazza,Larry Vanover,Toby Basner,Ron Kulpa,Oriole Park at Camden Yards,"79 degrees, partly cloudy","6 mph, Out to LF",0
+24509,6,tor,5/29/2015,135,201500725,4,min,8:11 PM,Lance Barksdale,Quinn Wolcott,Eric Cooper,Chris Guccione,Target Field,"58 degrees, overcast","15 mph, L to R",61
+28877,2,was,5/29/2015,182,201500726,5,cin,7:10 PM,Andy Fletcher,Paul Emmel,Jordan Baker,Jerry Meals,Great American Ball Park,"81 degrees, partly cloudy","11 mph, R to L",0
+39552,7,ari,5/30/2015,178,201500727,3,mil,3:10 PM,Ryan Blakney,Hunter Wendelstedt,Bob Davidson,Jerry Layne,Miller Park,"70 degrees, roof closed","0 mph, None",0
+42005,8,atl,5/30/2015,171,201500728,0,sfn,7:05 PM,Dale Scott,Dan Iassogna,CB Bucknor,Lance Barrett,AT&T Park,"58 degrees, cloudy","12 mph, Out to RF",0
+42831,0,bos,5/30/2015,169,201500729,8,tex,6:15 PM,Tim Welke,Mike Everitt,Todd Tichenor,Chris Segal,Globe Life Park in Arlington,"76 degrees, partly cloudy","10 mph, Out to RF",0
+29720,0,cha,5/30/2015,149,201500730,3,hou,3:11 PM,David Rackley,Rob Drake,Joe West,Gabe Morales,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+32287,4,cle,5/30/2015,184,201500731,3,sea,7:10 PM,Alan Porter,Mark Ripperger,Pat Hoberg,Jeff Kellogg,Safeco Field,"72 degrees, clear","2 mph, L to R",0
+23510,5,col,5/30/2015,203,201500732,2,phi,3:05 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,Citizens Bank Park,"86 degrees, partly cloudy","10 mph, L to R",0
+40369,6,det,5/30/2015,170,201500733,8,ana,7:07 PM,Gerry Davis,Adam Hamari,Will Little,Phil Cuzzi,Angel Stadium of Anaheim,"70 degrees, partly cloudy","6 mph, Out to RF",0
+44754,5,lan,5/30/2015,173,201500734,1,sln,8:35 PM,Marty Foster,Mike Muchlinski,Mike Winters,Marcus Pattillo,Busch Stadium,"70 degrees, overcast","17 mph, Out to RF",140
+39095,9,mia,5/30/2015,187,201500735,5,nyn,4:10 PM,Clint Fagan,Tripp Gibson III,Mark Carlson,Mike DiMuro,Citi Field,"82 degrees, sunny","22 mph, Out to LF",0
+25223,5,nya,5/30/2015,186,201500736,3,oak,7:08 PM,Paul Nauert,Ed Hickox,Mike Estabrook,Dana DeMuth,O.co Coliseum,"55 degrees, partly cloudy","16 mph, Out to RF",0
+43207,5,pit,5/30/2015,170,201500737,2,sdn,7:11 PM,Jeff Nelson,Laz Diaz,Cory Blaser,John Tumpane,Petco Park,"65 degrees, partly cloudy","10 mph, L to R",0
+38177,3,tba,5/30/2015,129,201500738,0,bal,4:06 PM,Larry Vanover,Toby Basner,Ron Kulpa,Vic Carapazza,Oriole Park at Camden Yards,"84 degrees, partly cloudy","8 mph, Out to LF",0
+32076,2,tor,5/30/2015,161,201500739,3,min,1:11 PM,Quinn Wolcott,Eric Cooper,Chris Guccione,Lance Barksdale,Target Field,"59 degrees, partly cloudy","13 mph, In from LF",0
+36294,5,was,5/30/2015,188,201500740,8,cin,4:11 PM,Paul Emmel,Jordan Baker,Jerry Meals,Andy Fletcher,Great American Ball Park,"84 degrees, cloudy","9 mph, R to L",0
+32460,6,ari,5/31/2015,349,201500741,7,mil,1:11 PM,Hunter Wendelstedt,Bob Davidson,Ben May,Ryan Blakney,Miller Park,"68 degrees, roof closed","0 mph, None",0
+41553,7,atl,5/31/2015,182,201500742,5,sfn,1:05 PM,Dan Iassogna,CB Bucknor,Lance Barrett,Dale Scott,AT&T Park,"64 degrees, cloudy","12 mph, Out to CF",0
+32848,3,bos,5/31/2015,196,201500743,4,tex,2:08 PM,Mike Everitt,Todd Tichenor,Chris Segal,Tim Welke,Globe Life Park in Arlington,"77 degrees, sunny","5 mph, L to R",0
+27423,6,cha,5/31/2015,157,201500744,0,hou,1:13 PM,Rob Drake,Joe West,Gabe Morales,David Rackley,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+32112,6,cle,5/31/2015,276,201500745,3,sea,1:10 PM,Mark Ripperger,Pat Hoberg,Jeff Kellogg,Alan Porter,Safeco Field,"63 degrees, overcast","5 mph, Out to RF",0
+22166,4,col,5/31/2015,176,201500746,1,phi,1:39 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,Citizens Bank Park,"86 degrees, partly cloudy","11 mph, L to R",0
+37143,2,det,5/31/2015,199,201500747,4,ana,5:08 PM,Adam Hamari,Will Little,Phil Cuzzi,Gerry Davis,Angel Stadium of Anaheim,"72 degrees, sunny","7 mph, Out to RF",0
+37766,1,kca,5/31/2015,219,201500748,2,chn,1:21 PM,Alfonso Marquez,Dan Bellino,Tom Hallion,Bruce Dreckman,Wrigley Field,"47 degrees, cloudy","21 mph, In from LF",0
+45285,1,lan,5/31/2015,153,201500749,3,sln,1:16 PM,Mike Muchlinski,Mike Winters,Marcus Pattillo,Marty Foster,Busch Stadium,"59 degrees, overcast","9 mph, In from LF",0
+28711,3,mia,5/31/2015,167,201500750,4,nyn,1:11 PM,Tripp Gibson III,Mark Carlson,Mike DiMuro,Clint Fagan,Citi Field,"83 degrees, partly cloudy","12 mph, Out to CF",0
+25457,0,nya,5/31/2015,141,201500751,3,oak,1:07 PM,Ed Hickox,Mike Estabrook,Dana DeMuth,Paul Nauert,O.co Coliseum,"62 degrees, partly cloudy","12 mph, Out to RF",0
+20556,1,pit,5/31/2015,166,201500752,7,sdn,6:11 PM,Laz Diaz,Cory Blaser,John Tumpane,Jeff Nelson,Petco Park,"68 degrees, partly cloudy","8 mph, Out to RF",0
+36945,9,tba,5/31/2015,204,201500753,5,bal,1:36 PM,Toby Basner,Ron Kulpa,Vic Carapazza,Larry Vanover,Oriole Park at Camden Yards,"86 degrees, partly cloudy","6 mph, Out to CF",0
+33829,5,tor,5/31/2015,188,201500754,6,min,1:14 PM,Eric Cooper,Chris Guccione,Lance Barksdale,Quinn Wolcott,Target Field,"58 degrees, cloudy","6 mph, In from LF",0
+31874,2,was,5/31/2015,165,201500755,8,cin,1:10 PM,Jordan Baker,Jerry Meals,Andy Fletcher,Paul Emmel,Great American Ball Park,"64 degrees, overcast","17 mph, L to R",0
+18258,8,atl,6/1/2015,165,201500756,1,ari,6:40 PM,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Chase Field,"99 degrees, partly cloudy","8 mph, L to R",0
+17259,2,bal,6/1/2015,165,201500757,5,hou,7:14 PM,Adam Hamari,Mark Carlson,Brian Gorman,Tripp Gibson III,Minute Maid Park,"86 degrees, partly cloudy","2 mph, In from LF",0
+20964,5,chn,6/1/2015,165,201500758,1,mia,7:13 PM,Sam Holbrook,James Hoye,John Hirschbeck,Bill Welke,Marlins Park,"76 degrees, roof closed","0 mph, None",0
+25564,11,lan,6/1/2015,188,201500759,4,col,6:41 PM,Cory Blaser,Chris Guccione,Jeff Nelson,Laz Diaz,Coors Field,"76 degrees, partly cloudy","7 mph, R to L",0
+40689,1,mil,6/1/2015,185,201500760,0,sln,7:11 PM,Joe West,Kerwin Danley,Gabe Morales,Rob Drake,Busch Stadium,"65 degrees, cloudy","5 mph, L to R",0
+26082,7,nya,6/1/2015,175,201500761,2,sea,7:10 PM,Mike DiMuro,Will Little,Phil Cuzzi,Tony Randazzo,Safeco Field,"61 degrees, cloudy","1 mph, None",0
+21893,7,nyn,6/1/2015,141,201500762,0,sdn,7:10 PM,CB Bucknor,Chris Segal,Dale Scott,Dan Iassogna,Petco Park,"67 degrees, clear","12 mph, Out to RF",0
+41546,4,pit,6/1/2015,158,201500763,3,sfn,7:16 PM,Bill Miller,Doug Eddings,Jim Wolf,Adrian Johnson,AT&T Park,"61 degrees, partly cloudy","12 mph, Out to CF",0
+27078,3,tba,6/1/2015,175,201500764,7,ana,7:08 PM,Pat Hoberg,Jeff Kellogg,Alan Porter,Mark Ripperger,Angel Stadium of Anaheim,"72 degrees, clear","7 mph, None",0
+17101,6,atl,6/2/2015,198,201500765,7,ari,6:40 PM,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Chase Field,"100 degrees, clear","8 mph, Out to RF",0
+18730,4,bal,6/2/2015,162,201500766,6,hou,7:11 PM,Mark Carlson,Brian Gorman,Tripp Gibson III,Adam Hamari,Minute Maid Park,"87 degrees, partly cloudy","6 mph, R to L",0
+27558,2,cha,6/2/2015,155,201500767,15,tex,7:08 PM,Mike Estabrook,Dana DeMuth,Paul Nauert,Ed Hickox,Globe Life Park in Arlington,"87 degrees, clear","10 mph, In from LF",0
+23789,2,chn,6/2/2015,153,201500768,5,mia,7:10 PM,James Hoye,John Hirschbeck,Bill Welke,Sam Holbrook,Marlins Park,"74 degrees, roof closed","0 mph, None",0
+20209,4,cin,6/2/2015,172,201500769,5,phi,7:08 PM,Dan Bellino,Tom Hallion,Bruce Dreckman,Alfonso Marquez,Citizens Bank Park,"57 degrees, rain","8 mph, R to L",0
+30361,2,cle,6/2/2015,196,201500770,1,kca,7:10 PM,Bob Davidson,David Rackley,Clint Fagan,Hunter Wendelstedt,Kauffman Stadium,"74 degrees, cloudy","8 mph, R to L",0
+28148,3,lan,6/2/2015,181,201500771,6,col,1:12 PM,John Tumpane,Jeff Nelson,Laz Diaz,Cory Blaser,Coors Field,"83 degrees, sunny","2 mph, R to L",0
+24972,9,lan,6/2/2015,204,201500772,8,col,6:41 PM,Jeff Nelson,Laz Diaz,John Tumpane,Chris Guccione,Coors Field,"82 degrees, clear","8 mph, L to R",0
+42835,0,mil,6/2/2015,147,201500773,1,sln,7:15 PM,Kerwin Danley,Gabe Morales,Rob Drake,Joe West,Busch Stadium,"70 degrees, clear","4 mph, R to L",0
+32622,0,min,6/2/2015,141,201500774,1,bos,7:11 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Fenway Park,"48 degrees, cloudy","12 mph, In from CF",0
+27442,5,nya,6/2/2015,235,201500775,3,sea,7:10 PM,Will Little,Phil Cuzzi,Tony Randazzo,Mike DiMuro,Safeco Field,"63 degrees, roof closed","1 mph, Varies",0
+22264,2,nyn,6/2/2015,180,201500776,7,sdn,7:10 PM,Lance Barrett,Dale Scott,Dan Iassogna,CB Bucknor,Petco Park,"65 degrees, clear","6 mph, L to R",0
+28362,5,oak,6/2/2015,170,201500777,3,det,7:08 PM,Marvin Hudson,Jim Joyce,Greg Gibson,Chad Fairchild,Comerica Park,"69 degrees, partly cloudy","9 mph, In from CF",0
+41913,7,pit,6/2/2015,194,201500778,4,sfn,7:15 PM,Doug Eddings,Jim Wolf,Adrian Johnson,Bill Miller,AT&T Park,"58 degrees, clear","18 mph, Out to CF",0
+28771,6,tba,6/2/2015,153,201500779,1,ana,7:09 PM,Jeff Kellogg,Alan Porter,Mark Ripperger,Pat Hoberg,Angel Stadium of Anaheim,"68 degrees, clear","6 mph, Out to RF",0
+23192,0,tor,6/2/2015,137,201500780,2,was,1:07 PM,Sean Barber,Vic Carapazza,Larry Vanover,Toby Basner,Nationals Park,"67 degrees, cloudy","9 mph, Out to LF",0
+25765,7,tor,6/2/2015,184,201500781,3,was,7:05 PM,Vic Carapazza,Larry Vanover,Sean Barber,Brian Knight,Nationals Park,"61 degrees, overcast","9 mph, In from RF",0
+17717,8,atl,6/3/2015,197,201500782,9,ari,12:40 PM,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,Chase Field,"77 degrees, roof closed","0 mph, None",0
+20305,1,bal,6/3/2015,134,201500783,3,hou,7:12 PM,Brian Gorman,Tripp Gibson III,Adam Hamari,Mark Carlson,Minute Maid Park,"84 degrees, cloudy","8 mph, Out to LF",0
+32598,9,cha,6/3/2015,186,201500784,2,tex,7:07 PM,Dana DeMuth,Paul Nauert,Ed Hickox,Mike Estabrook,Globe Life Park in Arlington,"86 degrees, clear","11 mph, R to L",0
+22962,3,chn,6/3/2015,176,201500785,7,mia,7:11 PM,John Hirschbeck,Bill Welke,Sam Holbrook,James Hoye,Marlins Park,"73 degrees, roof closed","0 mph, None",0
+21253,4,cin,6/3/2015,211,201500786,5,phi,7:06 PM,Tom Hallion,Bruce Dreckman,Alfonso Marquez,Dan Bellino,Citizens Bank Park,"66 degrees, cloudy","8 mph, R to L",0
+29899,2,cle,6/3/2015,153,201500787,4,kca,7:10 PM,David Rackley,Clint Fagan,Hunter Wendelstedt,Bob Davidson,Kauffman Stadium,"73 degrees, cloudy","4 mph, In from RF",0
+24575,6,lan,6/3/2015,224,201500788,7,col,8:20 PM,Laz Diaz,Cory Blaser,Chris Guccione,Jeff Nelson,Coors Field,"64 degrees, cloudy","7 mph, Out to RF",146
+41567,4,mil,6/3/2015,160,201500789,7,sln,12:46 PM,Gabe Morales,Rob Drake,Joe West,Kerwin Danley,Busch Stadium,"72 degrees, cloudy","11 mph, Out to CF",0
+31704,3,min,6/3/2015,153,201500790,6,bos,1:36 PM,Ben May,Marty Foster,Mike Muchlinski,Mike Winters,Fenway Park,"53 degrees, cloudy","11 mph, In from RF",0
+33291,2,min,6/3/2015,135,201500791,0,bos,7:11 PM,Marty Foster,Mike Muchlinski,Ben May,Mark Wegner,Fenway Park,"60 degrees, partly cloudy","10 mph, R to L",0
+32701,3,nya,6/3/2015,141,201500792,1,sea,12:40 PM,Phil Cuzzi,Tony Randazzo,Mike DiMuro,Will Little,Safeco Field,"59 degrees, partly cloudy","1 mph, L to R",0
+24398,3,nyn,6/3/2015,165,201500793,7,sdn,6:11 PM,Dale Scott,Dan Iassogna,CB Bucknor,Lance Barrett,Petco Park,"65 degrees, partly cloudy","9 mph, Out to RF",0
+30718,6,oak,6/3/2015,159,201500794,1,det,7:08 PM,Jim Joyce,Greg Gibson,Chad Fairchild,Marvin Hudson,Comerica Park,"70 degrees, clear","10 mph, R to L",0
+41495,5,pit,6/3/2015,179,201500795,2,sfn,12:45 PM,Jim Wolf,Adrian Johnson,Bill Miller,Doug Eddings,AT&T Park,"64 degrees, partly cloudy","15 mph, Out to CF",0
+28245,6,tba,6/3/2015,200,201500796,5,ana,7:06 PM,Alan Porter,Mark Ripperger,Pat Hoberg,Jeff Kellogg,Angel Stadium of Anaheim,"70 degrees, partly cloudy","6 mph, Out to RF",0
+33654,8,tor,6/3/2015,133,201500797,0,was,7:04 PM,Larry Vanover,Toby Basner,Brian Knight,Vic Carapazza,Nationals Park,"63 degrees, cloudy","8 mph, Out to RF",0
+20219,3,bal,6/4/2015,179,201500798,2,hou,1:11 PM,Tripp Gibson III,Adam Hamari,Mark Carlson,Brian Gorman,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+27616,1,cha,6/4/2015,235,201500799,2,tex,7:07 PM,Paul Nauert,Ed Hickox,Mike Estabrook,Dana DeMuth,Globe Life Park in Arlington,"88 degrees, clear","9 mph, R to L",0
+35465,2,chn,6/4/2015,196,201500800,1,was,8:56 PM,Rob Drake,Joe West,Kerwin Danley,Gabe Morales,Nationals Park,"64 degrees, rain","4 mph, In from LF",111
+21057,6,cin,6/4/2015,161,201500801,4,phi,7:06 PM,Bruce Dreckman,Alfonso Marquez,Dan Bellino,Tom Hallion,Citizens Bank Park,"65 degrees, cloudy","13 mph, R to L",0
+29552,6,cle,6/4/2015,158,201500802,2,kca,7:10 PM,Clint Fagan,Hunter Wendelstedt,Bob Davidson,David Rackley,Kauffman Stadium,"78 degrees, cloudy","5 mph, In from RF",44
+33615,8,min,6/4/2015,192,201500803,4,bos,4:06 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Fenway Park,"56 degrees, partly cloudy","15 mph, R to L",0
+18954,6,nyn,6/4/2015,202,201500804,2,ari,6:40 PM,Alan Porter,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Chase Field,"91 degrees, cloudy","13 mph, Varies",0
+37411,7,oak,6/4/2015,186,201500805,5,det,1:08 PM,Greg Gibson,Chad Fairchild,Marvin Hudson,Jim Joyce,Comerica Park,"73 degrees, partly cloudy","6 mph, In from CF",0
+45058,7,sln,6/4/2015,176,201500806,1,lan,7:11 PM,Dan Iassogna,CB Bucknor,Lance Barrett,Dale Scott,Dodger Stadium,"66 degrees, partly cloudy","6 mph, Out to RF",0
+16096,2,tba,6/4/2015,162,201500807,1,sea,7:10 PM,Adrian Johnson,John Tumpane,Doug Eddings,Jim Wolf,Safeco Field,"69 degrees, partly cloudy","5 mph, Out to CF",0
+40310,7,ana,6/5/2015,207,201500808,8,nya,7:10 PM,Alfonso Marquez,Dan Bellino,Tom Hallion,Bruce Dreckman,Yankee Stadium,"66 degrees, cloudy","8 mph, R to L",0
+26070,5,bal,6/5/2015,168,201500809,2,cle,7:10 PM,Chad Fairchild,Ben May,Marvin Hudson,Greg Gibson,Progressive Field,"76 degrees, partly cloudy","3 mph, In from LF",0
+36124,5,chn,6/5/2015,178,201500810,7,was,7:05 PM,Joe West,Kerwin Danley,Gabe Morales,Rob Drake,Nationals Park,"74 degrees, cloudy","2 mph, In from LF",0
+24761,3,det,6/5/2015,188,201500811,4,cha,7:11 PM,Cory Blaser,Chris Guccione,Jeff Nelson,Laz Diaz,U.S. Cellular Field,"55 degrees, partly cloudy","18 mph, L to R",0
+22971,2,hou,6/5/2015,155,201500812,6,tor,7:07 PM,Bill Welke,Sam Holbrook,James Hoye,John Hirschbeck,Rogers Centre,"70 degrees, cloudy","7 mph, In from CF",0
+32091,6,mia,6/5/2015,163,201500813,2,col,6:42 PM,Tony Randazzo,Mike DiMuro,Will Little,Phil Cuzzi,Coors Field,"67 degrees, partly cloudy","4 mph, Out to RF",115
+29398,10,mil,6/5/2015,168,201500814,5,min,7:10 PM,Toby Basner,Brian Knight,Vic Carapazza,Ron Kulpa,Target Field,"74 degrees, partly cloudy","11 mph, In from LF",0
+24332,2,nyn,6/5/2015,169,201500815,7,ari,6:40 PM,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Alan Porter,Chase Field,"74 degrees, roof closed","0 mph, None",0
+34910,2,oak,6/5/2015,151,201500816,4,bos,7:11 PM,Hunter Wendelstedt,Bob Davidson,David Rackley,Clint Fagan,Fenway Park,"56 degrees, cloudy","10 mph, In from RF",0
+27508,10,pit,6/5/2015,208,201500817,8,atl,7:35 PM,Adam Hamari,Mark Carlson,Brian Gorman,Tripp Gibson III,Turner Field,"83 degrees, partly cloudy","7 mph, L to R",0
+33381,6,sdn,6/5/2015,171,201500818,2,cin,7:10 PM,Ed Hickox,Mike Estabrook,Dana DeMuth,Paul Nauert,Great American Ball Park,"83 degrees, partly cloudy","6 mph, L to R",69
+20638,5,sfn,6/5/2015,178,201500819,4,phi,7:07 PM,Mike Winters,Mark Wegner,Marty Foster,Mike Muchlinski,Citizens Bank Park,"74 degrees, partly cloudy","2 mph, Out to RF",0
+44649,2,sln,6/5/2015,142,201500820,1,lan,7:10 PM,CB Bucknor,Lance Barrett,Dale Scott,Dan Iassogna,Dodger Stadium,"66 degrees, clear","9 mph, L to R",0
+20695,1,tba,6/5/2015,175,201500821,0,sea,7:10 PM,John Tumpane,Doug Eddings,Jim Wolf,Adrian Johnson,Safeco Field,"77 degrees, clear","3 mph, L to R",0
+38159,4,tex,6/5/2015,160,201500822,0,kca,7:12 PM,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Kauffman Stadium,"81 degrees, partly cloudy","1 mph, L to R",0
+40096,2,ana,6/6/2015,185,201500823,8,nya,7:16 PM,Dan Bellino,Tom Hallion,Bruce Dreckman,Alfonso Marquez,Yankee Stadium,"72 degrees, partly cloudy","7 mph, In from LF",0
+24939,1,bal,6/6/2015,164,201500824,2,cle,4:11 PM,Ben May,Marvin Hudson,Greg Gibson,Chad Fairchild,Progressive Field,"61 degrees, partly cloudy","19 mph, In from RF",0
+38214,4,chn,6/6/2015,172,201500825,2,was,12:06 PM,Kerwin Danley,Gabe Morales,Rob Drake,Joe West,Nationals Park,"76 degrees, cloudy","6 mph, In from CF",0
+28368,7,det,6/6/2015,174,201500826,1,cha,6:15 PM,Chris Guccione,Jeff Nelson,Laz Diaz,Cory Blaser,U.S. Cellular Field,"65 degrees, clear","9 mph, L to R",0
+31809,2,hou,6/6/2015,196,201500827,7,tor,1:07 PM,Sam Holbrook,James Hoye,John Hirschbeck,Bill Welke,Rogers Centre,"56 degrees, sunny","10 mph, Out to LF",0
+30373,5,mia,6/6/2015,179,201500828,10,col,3:21 PM,Mike DiMuro,Will Little,Phil Cuzzi,Tony Randazzo,Coors Field,"72 degrees, partly cloudy","7 mph, R to L",71
+38707,4,mil,6/6/2015,202,201500829,2,min,1:11 PM,Brian Knight,Vic Carapazza,Ron Kulpa,Toby Basner,Target Field,"73 degrees, cloudy","15 mph, In from RF",0
+30265,1,nyn,6/6/2015,160,201500830,2,ari,7:10 PM,Jeff Kellogg,Brian O'Nora,Alan Porter,Mark Ripperger,Chase Field,"97 degrees, partly cloudy","10 mph, Varies",0
+36713,2,oak,6/6/2015,190,201500831,4,bos,4:06 PM,Bob Davidson,David Rackley,Clint Fagan,Hunter Wendelstedt,Fenway Park,"62 degrees, cloudy","12 mph, In from CF",0
+33268,4,pit,6/6/2015,164,201500832,5,atl,7:15 PM,Mark Carlson,Brian Gorman,Tripp Gibson III,Adam Hamari,Turner Field,"88 degrees, partly cloudy","8 mph, R to L",0
+40946,9,sdn,6/6/2015,192,201500833,7,cin,4:10 PM,Mike Estabrook,Dana DeMuth,Paul Nauert,Ed Hickox,Great American Ball Park,"72 degrees, cloudy","6 mph, L to R",0
+29102,7,sfn,6/6/2015,173,201500834,5,phi,3:34 PM,Mark Wegner,Marty Foster,Sean Barber,Mike Winters,Citizens Bank Park,"77 degrees, cloudy","14 mph, R to L",29
+47655,0,sln,6/6/2015,142,201500835,2,lan,7:10 PM,Lance Barrett,Dale Scott,Dan Iassogna,CB Bucknor,Dodger Stadium,"67 degrees, partly cloudy","7 mph, Out to CF",0
+31106,1,tba,6/6/2015,165,201500836,2,sea,7:10 PM,Doug Eddings,Jim Wolf,Adrian Johnson,John Tumpane,Safeco Field,"82 degrees, clear","6 mph, Out to RF",0
+37924,4,tex,6/6/2015,170,201500837,2,kca,1:10 PM,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Kauffman Stadium,"78 degrees, partly cloudy","8 mph, R to L",0
+43178,2,ana,6/7/2015,140,201500838,6,nya,1:09 PM,Tom Hallion,Bruce Dreckman,Alfonso Marquez,Dan Bellino,Yankee Stadium,"74 degrees, sunny","10 mph, R to L",0
+18151,7,bal,6/7/2015,213,201500839,3,cle,1:11 PM,Jim Joyce,Greg Gibson,Chad Fairchild,Marvin Hudson,Progressive Field,"80 degrees, sunny","14 mph, Out to CF",0
+40939,6,chn,6/7/2015,192,201500840,3,was,4:05 PM,Gabe Morales,Rob Drake,Joe West,Kerwin Danley,Nationals Park,"79 degrees, overcast","4 mph, Out to LF",0
+29059,6,det,6/7/2015,158,201500841,4,cha,1:10 PM,Jeff Nelson,Laz Diaz,Cory Blaser,Chris Guccione,U.S. Cellular Field,"76 degrees, overcast","20 mph, In from RF",0
+35571,6,hou,6/7/2015,186,201500842,7,tor,1:08 PM,James Hoye,John Hirschbeck,Bill Welke,Sam Holbrook,Rogers Centre,"56 degrees, sunny","18 mph, R to L",0
+35139,3,mia,6/7/2015,185,201500843,2,col,2:13 PM,Will Little,Phil Cuzzi,Tony Randazzo,Mike DiMuro,Coors Field,"72 degrees, partly cloudy","11 mph, R to L",0
+31911,0,mil,6/7/2015,173,201500844,2,min,1:11 PM,Vic Carapazza,Ron Kulpa,Toby Basner,Brian Knight,Target Field,"78 degrees, partly cloudy","12 mph, Out to RF",0
+31575,6,nyn,6/7/2015,164,201500845,3,ari,1:10 PM,Brian O'Nora,Alan Porter,Mark Ripperger,Jeff Kellogg,Chase Field,"75 degrees, roof closed","0 mph, None",0
+36913,4,oak,6/7/2015,191,201500846,7,bos,1:35 PM,David Rackley,Clint Fagan,Hunter Wendelstedt,Bob Davidson,Fenway Park,"61 degrees, sunny","13 mph, R to L",0
+24146,3,pit,6/7/2015,170,201500847,0,atl,1:36 PM,Brian Gorman,Tripp Gibson III,Adam Hamari,Mark Carlson,Turner Field,"86 degrees, partly cloudy","7 mph, R to L",0
+27501,0,sdn,6/7/2015,142,201500848,4,cin,1:10 PM,Dana DeMuth,Paul Nauert,Ed Hickox,Mike Estabrook,Great American Ball Park,"83 degrees, partly cloudy","12 mph, R to L",0
+24799,4,sfn,6/7/2015,187,201500849,6,phi,1:39 PM,Marty Foster,Sean Barber,Mike Winters,Mark Wegner,Citizens Bank Park,"76 degrees, partly cloudy","6 mph, Out to CF",0
+41500,4,sln,6/7/2015,205,201500850,2,lan,5:08 PM,Dale Scott,Dan Iassogna,CB Bucknor,Lance Barrett,Dodger Stadium,"73 degrees, sunny","7 mph, L to R",0
+27906,3,tba,6/7/2015,166,201500851,1,sea,1:10 PM,Jim Wolf,Adrian Johnson,John Tumpane,Doug Eddings,Safeco Field,"72 degrees, sunny","4 mph, Out to RF",0
+38202,3,tex,6/7/2015,151,201500852,4,kca,1:12 PM,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Kauffman Stadium,"89 degrees, partly cloudy","15 mph, R to L",0
+42167,3,ari,6/8/2015,162,201500853,9,lan,7:09 PM,Phil Cuzzi,Gerry Davis,Tony Randazzo,Will Little,Dodger Stadium,"77 degrees, clear","6 mph, Out to RF",0
+17352,1,hou,6/8/2015,133,201500854,3,cha,7:35 PM,Larry Vanover,Toby Basner,Brian Knight,Vic Carapazza,U.S. Cellular Field,"71 degrees, rain","6 mph, Varies",63
+22796,3,kca,6/8/2015,156,201500855,1,min,7:11 PM,Alan Porter,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Target Field,"79 degrees, partly cloudy","12 mph, Out to RF",0
+17582,3,mia,6/8/2015,167,201500856,11,tor,7:08 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+18016,2,mil,6/8/2015,187,201500857,0,pit,7:08 PM,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,PNC Park,"74 degrees, overcast","5 mph, Out to LF",133
+30900,4,phi,6/8/2015,175,201500858,6,cin,7:10 PM,Adam Hamari,Mike DiMuro,Mark Carlson,Brian Gorman,Great American Ball Park,"75 degrees, overcast","8 mph, Varies",0
+21458,5,sdn,6/8/2015,227,201500859,3,atl,7:11 PM,Jerry Meals,Andy Fletcher,Jordan Baker,Paul Emmel,Turner Field,"86 degrees, partly cloudy","8 mph, L to R",0
+32043,3,sln,6/8/2015,159,201500860,11,col,6:42 PM,Tim Timmons,Todd Tichenor,Tim Welke,Mike Everitt,Coors Field,"78 degrees, clear","8 mph, R to L",0
+11617,8,ana,6/9/2015,172,201500861,2,tba,7:10 PM,Paul Nauert,Ed Hickox,Mike Estabrook,Dana DeMuth,Tropicana Field,"72 degrees, dome","0 mph, None",0
+37738,1,ari,6/9/2015,152,201500862,3,lan,7:10 PM,Gerry Davis,Tony Randazzo,Will Little,Phil Cuzzi,Dodger Stadium,"82 degrees, drizzle","7 mph, L to R",0
+28460,0,bos,6/9/2015,188,201500863,1,bal,7:06 PM,Cory Blaser,Laz Diaz,Chris Guccione,Jeff Nelson,Oriole Park at Camden Yards,"82 degrees, partly cloudy","4 mph, R to L",0
+33301,0,chn,6/9/2015,173,201500864,6,det,7:08 PM,Clint Fagan,Hunter Wendelstedt,Bob Davidson,David Rackley,Comerica Park,"77 degrees, partly cloudy","7 mph, R to L",0
+18439,2,hou,6/9/2015,187,201500865,4,cha,7:10 PM,Toby Basner,Brian Knight,Vic Carapazza,Larry Vanover,U.S. Cellular Field,"86 degrees, clear","16 mph, R to L",0
+22497,2,kca,6/9/2015,170,201500866,0,min,7:11 PM,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Alan Porter,Target Field,"92 degrees, partly cloudy","13 mph, Out to LF",0
+20558,3,mia,6/9/2015,136,201500867,4,tor,7:07 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,Rogers Centre,"62 degrees, cloudy","5 mph, Out to CF",0
+20672,4,mil,6/9/2015,145,201500868,1,pit,7:06 PM,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,Paul Schrieber,PNC Park,"74 degrees, cloudy","11 mph, R to L",0
+27993,2,phi,6/9/2015,170,201500869,11,cin,7:10 PM,Mike DiMuro,Mark Carlson,Brian Gorman,Adam Hamari,Great American Ball Park,"79 degrees, partly cloudy","6 mph, Out to LF",0
+24049,5,sdn,6/9/2015,195,201500870,6,atl,8:00 PM,Andy Fletcher,Jordan Baker,Paul Emmel,Jerry Meals,Turner Field,"72 degrees, drizzle","13 mph, Out to CF",50
+11425,3,sea,6/9/2015,183,201500871,2,cle,7:10 PM,Dan Iassogna,CB Bucknor,Gabe Morales,Dale Scott,Progressive Field,"72 degrees, clear","3 mph, L to R",0
+23155,5,sfn,6/9/2015,152,201500872,0,nyn,7:12 PM,Joe West,Chris Segal,Kerwin Danley,Rob Drake,Citi Field,"81 degrees, partly cloudy","13 mph, L to R",0
+33731,3,sln,6/9/2015,176,201500873,4,col,7:47 PM,Todd Tichenor,Tim Welke,Mike Everitt,Tim Timmons,Coors Field,"73 degrees, cloudy","10 mph, R to L",67
+14617,2,tex,6/9/2015,180,201500874,1,oak,7:07 PM,Adrian Johnson,Bill Miller,Doug Eddings,Jim Wolf,O.co Coliseum,"68 degrees, overcast","12 mph, Out to RF",0
+36613,1,was,6/9/2015,171,201500875,6,nya,7:09 PM,Eric Cooper,Lance Barksdale,Quinn Wolcott,Gary Cederstrom,Yankee Stadium,"83 degrees, partly cloudy","20 mph, Out to LF",0
+10088,2,ana,6/10/2015,159,201500876,4,tba,7:10 PM,Ed Hickox,Mike Estabrook,Dana DeMuth,Paul Nauert,Tropicana Field,"72 degrees, dome","0 mph, None",0
+47174,6,ari,6/10/2015,215,201500877,7,lan,7:10 PM,Tony Randazzo,Will Little,Phil Cuzzi,Gerry Davis,Dodger Stadium,"70 degrees, clear","8 mph, Out to RF",0
+22201,2,bos,6/10/2015,156,201500878,5,bal,7:09 PM,Laz Diaz,Chris Guccione,Jeff Nelson,Cory Blaser,Oriole Park at Camden Yards,"82 degrees, partly cloudy","5 mph, Out to RF",0
+33397,12,chn,6/10/2015,198,201500879,3,det,7:08 PM,Hunter Wendelstedt,Bob Davidson,David Rackley,Clint Fagan,Comerica Park,"87 degrees, partly cloudy","18 mph, Out to CF",0
+17455,1,hou,6/10/2015,192,201500880,4,cha,7:10 PM,Dan Bellino,Vic Carapazza,Larry Vanover,Toby Basner,U.S. Cellular Field,"68 degrees, partly cloudy","8 mph, Out to RF",0
+28434,7,kca,6/10/2015,176,201500881,2,min,7:10 PM,Jeff Kellogg,Brian O'Nora,Alan Porter,Mark Ripperger,Target Field,"78 degrees, partly cloudy","9 mph, L to R",0
+44106,2,mia,6/10/2015,128,201500882,7,tor,12:37 PM,Ted Barrett,Chris Conroy,Angel Hernandez,Scott Barry,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+26269,0,mil,6/10/2015,142,201500883,2,pit,7:06 PM,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,PNC Park,"83 degrees, partly cloudy","16 mph, R to L",0
+32994,2,phi,6/10/2015,168,201500884,5,cin,12:37 PM,Mark Carlson,Brian Gorman,Adam Hamari,Mike DiMuro,Great American Ball Park,"86 degrees, partly cloudy","7 mph, Varies",0
+21465,1,sdn,6/10/2015,159,201500885,4,atl,7:11 PM,Jordan Baker,Paul Emmel,Jerry Meals,Andy Fletcher,Turner Field,"81 degrees, partly cloudy","7 mph, R to L",0
+12305,9,sea,6/10/2015,184,201500886,3,cle,7:11 PM,CB Bucknor,Gabe Morales,Dale Scott,Dan Iassogna,Progressive Field,"88 degrees, partly cloudy","18 mph, Out to RF",0
+24436,8,sfn,6/10/2015,203,201500887,5,nyn,7:11 PM,Chris Segal,Kerwin Danley,Rob Drake,Joe West,Citi Field,"76 degrees, partly cloudy","6 mph, Out to LF",0
+30698,4,sln,6/10/2015,179,201500888,2,col,1:10 PM,Tim Welke,Mike Everitt,Tim Timmons,Todd Tichenor,Coors Field,"68 degrees, partly cloudy","11 mph, R to L",0
+14290,4,tex,6/10/2015,185,201500889,5,oak,7:07 PM,Bill Miller,Doug Eddings,Jim Wolf,Adrian Johnson,O.co Coliseum,"63 degrees, cloudy","13 mph, Out to RF",0
+39847,5,was,6/10/2015,216,201500890,4,nya,1:08 PM,Lance Barksdale,Quinn Wolcott,Gary Cederstrom,Eric Cooper,Yankee Stadium,"81 degrees, partly cloudy","10 mph, Out to CF",0
+10779,6,ana,6/11/2015,200,201500891,2,tba,7:10 PM,Mike Estabrook,Dana DeMuth,Paul Nauert,Ed Hickox,Tropicana Field,"72 degrees, dome","0 mph, None",0
+22840,5,bos,6/11/2015,159,201500892,6,bal,7:06 PM,Chris Guccione,Jeff Nelson,Cory Blaser,Laz Diaz,Oriole Park at Camden Yards,"90 degrees, clear","2 mph, L to R",0
+35031,3,cin,6/11/2015,178,201500893,6,chn,7:06 PM,Vic Carapazza,Dan Bellino,Toby Basner,Ron Kulpa,Wrigley Field,"61 degrees, cloudy","15 mph, In from RF",0
+18003,0,col,6/11/2015,161,201500894,6,mia,7:11 PM,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Marlins Park,"73 degrees, roof closed","0 mph, None",0
+25759,6,sdn,6/11/2015,222,201500895,4,atl,1:06 PM,Paul Emmel,Jerry Meals,Andy Fletcher,Jordan Baker,Turner Field,"74 degrees, partly cloudy","2 mph, L to R",56
+15316,0,sea,6/11/2015,160,201500896,6,cle,12:10 PM,Gabe Morales,Dale Scott,Dan Iassogna,CB Bucknor,Progressive Field,"72 degrees, cloudy","14 mph, In from CF",0
+25143,4,sfn,6/11/2015,183,201500897,5,nyn,7:11 PM,Kerwin Danley,Rob Drake,Joe West,Chris Segal,Citi Field,"91 degrees, partly cloudy","9 mph, Out to RF",0
+14489,0,tex,6/11/2015,155,201500898,7,oak,12:37 PM,Doug Eddings,Jim Wolf,Adrian Johnson,Bill Miller,O.co Coliseum,"68 degrees, sunny","3 mph, Out to LF",0
+26371,5,was,6/11/2015,174,201500899,6,mil,7:11 PM,Mike Everitt,Tim Timmons,Todd Tichenor,Tim Welke,Miller Park,"70 degrees, roof closed","0 mph, None",0
+41952,1,ari,6/12/2015,172,201500900,0,sfn,7:15 PM,Brian Gorman,Adam Hamari,Mike DiMuro,Mark Carlson,AT&T Park,"66 degrees, clear","12 mph, Out to CF",0
+32554,3,atl,6/12/2015,189,201500901,5,nyn,7:11 PM,Quinn Wolcott,Gary Cederstrom,Eric Cooper,Lance Barksdale,Citi Field,"81 degrees, cloudy","11 mph, Out to LF",0
+13448,5,cha,6/12/2015,187,201500902,7,tba,7:10 PM,Dale Scott,Dan Iassogna,CB Bucknor,Gabe Morales,Tropicana Field,"72 degrees, dome","0 mph, None",0
+40016,5,cin,6/12/2015,201,201500903,4,chn,3:05 PM,Dan Bellino,Toby Basner,Ron Kulpa,Vic Carapazza,Wrigley Field,"52 degrees, drizzle","7 mph, In from CF",0
+35379,0,cle,6/12/2015,145,201500904,4,det,7:08 PM,Rob Drake,Joe West,Chris Segal,Kerwin Danley,Comerica Park,"74 degrees, cloudy","11 mph, Out to CF",0
+20355,1,col,6/12/2015,165,201500905,5,mia,7:13 PM,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,Marlins Park,"76 degrees, roof closed","0 mph, None",0
+45909,0,kca,6/12/2015,158,201500906,4,sln,7:15 PM,Will Little,Phil Cuzzi,Gerry Davis,Tony Randazzo,Busch Stadium,"81 degrees, overcast","13 mph, Out to LF",0
+39037,4,lan,6/12/2015,208,201500907,3,sdn,7:12 PM,Jim Wolf,Adrian Johnson,Bill Miller,Doug Eddings,Petco Park,"65 degrees, cloudy","5 mph, L to R",0
+41765,2,min,6/12/2015,159,201500908,6,tex,7:06 PM,Bob Davidson,David Rackley,Clint Fagan,Hunter Wendelstedt,Globe Life Park in Arlington,"91 degrees, clear","15 mph, R to L",0
+33203,3,nya,6/12/2015,198,201500909,11,bal,7:06 PM,Jerry Meals,Andy Fletcher,Jordan Baker,Paul Emmel,Oriole Park at Camden Yards,"89 degrees, partly cloudy","4 mph, Out to RF",0
+42113,4,oak,6/12/2015,175,201500910,5,ana,7:07 PM,Chris Conroy,Angel Hernandez,Scott Barry,Ted Barrett,Angel Stadium of Anaheim,"70 degrees, partly cloudy","6 mph, R to L",0
+33749,0,phi,6/12/2015,274,201500911,1,pit,8:31 PM,Jeff Nelson,Cory Blaser,Laz Diaz,Chris Guccione,PNC Park,"71 degrees, partly cloudy","14 mph, Out to LF",86
+32173,0,sea,6/12/2015,165,201500912,10,hou,7:12 PM,Dana DeMuth,Paul Nauert,Ed Hickox,Mike Estabrook,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+37575,13,tor,6/12/2015,204,201500913,10,bos,7:12 PM,Brian O'Nora,Alan Porter,Mark Ripperger,Jeff Kellogg,Fenway Park,"66 degrees, partly cloudy","7 mph, R to L",0
+31815,4,was,6/12/2015,179,201500914,8,mil,7:10 PM,Tim Timmons,Todd Tichenor,Tim Welke,Mike Everitt,Miller Park,"69 degrees, roof closed","0 mph, None",0
+42006,4,ari,6/13/2015,170,201500915,2,sfn,4:15 PM,Adam Hamari,Mike DiMuro,Mark Carlson,Brian Gorman,AT&T Park,"65 degrees, partly cloudy","15 mph, Out to CF",0
+37734,5,atl,6/13/2015,219,201500916,3,nyn,4:11 PM,Gary Cederstrom,Eric Cooper,Lance Barksdale,Quinn Wolcott,Citi Field,"84 degrees, partly cloudy","6 mph, L to R",0
+20248,4,cha,6/13/2015,166,201500917,5,tba,4:10 PM,Dan Iassogna,CB Bucknor,Gabe Morales,Dale Scott,Tropicana Field,"72 degrees, dome","0 mph, None",0
+40693,3,cin,6/13/2015,159,201500918,4,chn,6:15 PM,Toby Basner,Ron Kulpa,Vic Carapazza,Dan Bellino,Wrigley Field,"59 degrees, cloudy","6 mph, In from LF",168
+41620,5,cle,6/13/2015,214,201500919,4,det,4:09 PM,Joe West,Chris Segal,Kerwin Danley,Rob Drake,Comerica Park,"65 degrees, cloudy","9 mph, In from CF",0
+26647,1,col,6/13/2015,163,201500920,4,mia,4:11 PM,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Marlins Park,"71 degrees, roof closed","0 mph, None",0
+45981,2,kca,6/13/2015,166,201500921,3,sln,3:12 PM,Phil Cuzzi,Gerry Davis,Tony Randazzo,Will Little,Busch Stadium,"87 degrees, partly cloudy","10 mph, R to L",24
+43525,1,lan,6/13/2015,150,201500922,2,sdn,7:11 PM,Adrian Johnson,Bill Miller,Doug Eddings,Jim Wolf,Petco Park,"66 degrees, cloudy","7 mph, Varies",0
+28661,7,min,6/13/2015,164,201500923,11,tex,3:08 PM,David Rackley,Clint Fagan,Hunter Wendelstedt,Bob Davidson,Globe Life Park in Arlington,"87 degrees, cloudy","9 mph, R to L",79
+38909,4,nya,6/13/2015,194,201500924,9,bal,7:17 PM,Andy Fletcher,Jordan Baker,Paul Emmel,Jerry Meals,Oriole Park at Camden Yards,"88 degrees, partly cloudy","2 mph, In from LF",0
+43548,0,oak,6/13/2015,147,201500925,1,ana,7:09 PM,Angel Hernandez,Scott Barry,Ted Barrett,Chris Conroy,Angel Stadium of Anaheim,"70 degrees, clear","6 mph, L to R",0
+37516,3,phi,6/13/2015,185,201500926,4,pit,4:07 PM,Cory Blaser,Laz Diaz,Chris Guccione,Jeff Nelson,PNC Park,"84 degrees, cloudy","4 mph, Out to LF",0
+36762,8,sea,6/13/2015,167,201500927,1,hou,3:12 PM,Paul Nauert,Ed Hickox,Mike Estabrook,Dana DeMuth,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+37158,5,tor,6/13/2015,206,201500928,4,bos,1:36 PM,Alan Porter,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Fenway Park,"68 degrees, cloudy","8 mph, Out to CF",0
+36800,7,was,6/13/2015,172,201500929,2,mil,3:10 PM,Todd Tichenor,Tim Welke,Mike Everitt,Tim Timmons,Miller Park,"67 degrees, roof closed","0 mph, None",0
+41310,4,ari,6/14/2015,171,201500930,0,sfn,1:05 PM,Mike DiMuro,Mark Carlson,Brian Gorman,Adam Hamari,AT&T Park,"63 degrees, partly cloudy","11 mph, Out to CF",0
+36340,8,atl,6/14/2015,179,201500931,10,nyn,1:12 PM,Eric Cooper,Lance Barksdale,Quinn Wolcott,Gary Cederstrom,Citi Field,"84 degrees, partly cloudy","11 mph, In from RF",0
+17962,1,cha,6/14/2015,162,201500932,2,tba,1:10 PM,CB Bucknor,Gabe Morales,Dale Scott,Dan Iassogna,Tropicana Field,"72 degrees, dome","0 mph, None",0
+33201,1,cin,6/14/2015,234,201500933,2,chn,7:09 PM,Ron Kulpa,Vic Carapazza,Dan Bellino,Toby Basner,Wrigley Field,"70 degrees, partly cloudy","6 mph, In from RF",0
+36994,1,cle,6/14/2015,166,201500934,8,det,1:08 PM,Chris Segal,Kerwin Danley,Rob Drake,Joe West,Comerica Park,"74 degrees, overcast","10 mph, R to L",111
+20879,4,col,6/14/2015,188,201500935,1,mia,1:11 PM,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Marlins Park,"74 degrees, roof closed","0 mph, None",0
+40056,4,lan,6/14/2015,256,201500936,2,sdn,1:11 PM,Bill Miller,Doug Eddings,Jim Wolf,Adrian Johnson,Petco Park,"68 degrees, overcast","7 mph, L to R",0
+33970,4,min,6/14/2015,169,201500937,3,tex,2:08 PM,Clint Fagan,Hunter Wendelstedt,Bob Davidson,David Rackley,Globe Life Park in Arlington,"86 degrees, partly cloudy","13 mph, In from LF",0
+36343,5,nya,6/14/2015,209,201500938,3,bal,1:38 PM,Jordan Baker,Paul Emmel,Jerry Meals,Andy Fletcher,Oriole Park at Camden Yards,"92 degrees, overcast","1 mph, Out to LF",0
+35143,8,oak,6/14/2015,196,201500939,1,ana,12:38 PM,Scott Barry,Ted Barrett,Chris Conroy,Angel Hernandez,Angel Stadium of Anaheim,"72 degrees, sunny","6 mph, Out to RF",0
+34518,0,phi,6/14/2015,184,201500940,1,pit,1:40 PM,Laz Diaz,Chris Guccione,Jeff Nelson,Cory Blaser,PNC Park,"75 degrees, cloudy","8 mph, Out to LF",0
+29153,0,sea,6/14/2015,206,201500941,13,hou,1:12 PM,Ed Hickox,Mike Estabrook,Dana DeMuth,Paul Nauert,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+36296,13,tor,6/14/2015,192,201500942,5,bos,1:37 PM,Mark Ripperger,Jeff Kellogg,Brian O'Nora,Alan Porter,Fenway Park,"72 degrees, partly cloudy","11 mph, In from RF",0
+34964,4,was,6/14/2015,179,201500943,0,mil,1:11 PM,Tim Welke,Mike Everitt,Tim Timmons,Todd Tichenor,Miller Park,"74 degrees, cloudy","3 mph, Out to CF",0
+35193,7,ari,6/15/2015,178,201500944,3,ana,7:08 PM,Doug Eddings,Jim Wolf,Adrian Johnson,Bill Miller,Angel Stadium of Anaheim,"75 degrees, clear","5 mph, R to L",0
+34439,4,atl,6/15/2015,174,201500945,2,bos,7:11 PM,Vic Carapazza,Brian Knight,Larry Vanover,Ron Kulpa,Fenway Park,"54 degrees, drizzle","11 mph, R to L",0
+24536,0,cha,6/15/2015,171,201500946,11,pit,7:09 PM,Bruce Dreckman,Alfonso Marquez,Dan Bellino,Tom Hallion,PNC Park,"82 degrees, cloudy","13 mph, R to L",0
+29884,0,cin,6/15/2015,157,201500947,6,det,7:08 PM,Mike Everitt,Tim Timmons,Todd Tichenor,Tim Welke,Comerica Park,"75 degrees, overcast","5 mph, R to L",0
+21820,3,col,6/15/2015,168,201500948,6,hou,7:12 PM,Hunter Wendelstedt,Bob Davidson,David Rackley,Jerry Layne,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+23007,8,kca,6/15/2015,199,201500949,5,mil,7:10 PM,Chris Guccione,Clint Fagan,Jeff Nelson,Laz Diaz,Miller Park,"75 degrees, roof closed","0 mph, None",0
+32248,1,lan,6/15/2015,164,201500950,4,tex,7:09 PM,Greg Gibson,Chad Fairchild,Marvin Hudson,Jim Joyce,Globe Life Park in Arlington,"86 degrees, clear","12 mph, L to R",0
+43174,2,min,6/15/2015,152,201500951,3,sln,7:35 PM,Mike Estabrook,Joe West,Paul Nauert,Ed Hickox,Busch Stadium,"78 degrees, cloudy","6 mph, Out to RF",20
+33961,1,nya,6/15/2015,161,201500952,2,mia,7:11 PM,Gabe Morales,Dale Scott,Lance Barrett,CB Bucknor,Marlins Park,"72 degrees, roof closed","0 mph, None",0
+30018,9,oak,6/15/2015,198,201500953,1,sdn,7:12 PM,Tripp Gibson III,Brian Gorman,Adam Hamari,Mike DiMuro,Petco Park,"67 degrees, partly cloudy","7 mph, L to R",0
+23730,0,phi,6/15/2015,129,201500954,4,bal,7:32 PM,Lance Barksdale,Quinn Wolcott,Gary Cederstrom,Eric Cooper,Oriole Park at Camden Yards,"79 degrees, partly cloudy","2 mph, Out to RF",27
+42099,5,sea,6/15/2015,172,201500955,1,sfn,7:15 PM,John Hirschbeck,Bill Welke,John Tumpane,James Hoye,AT&T Park,"58 degrees, overcast","17 mph, Out to CF",0
+22172,3,tor,6/15/2015,206,201500956,4,nyn,7:11 PM,Mike Muchlinski,Mike Winters,Mark Wegner,Marty Foster,Citi Field,"63 degrees, cloudy","24 mph, In from CF",0
+10216,1,was,6/15/2015,192,201500957,6,tba,7:10 PM,Manny Gonzalez,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Tropicana Field,"72 degrees, dome","0 mph, None",0
+40099,1,ari,6/16/2015,162,201500958,4,ana,7:07 PM,Jim Wolf,Adrian Johnson,Bill Miller,Doug Eddings,Angel Stadium of Anaheim,"70 degrees, clear","7 mph, Out to CF",0
+35662,4,atl,6/16/2015,158,201500959,9,bos,4:05 PM,Brian Knight,Larry Vanover,Ron Kulpa,Vic Carapazza,Fenway Park,"63 degrees, cloudy","6 mph, In from RF",0
+28413,0,cha,6/16/2015,164,201500960,3,pit,7:07 PM,Alfonso Marquez,Dan Bellino,Tom Hallion,Bruce Dreckman,PNC Park,"79 degrees, partly cloudy","11 mph, Out to RF",0
+33774,5,cin,6/16/2015,177,201500961,2,det,7:08 PM,Tim Timmons,Todd Tichenor,Tim Welke,Mike Everitt,Comerica Park,"82 degrees, partly cloudy","11 mph, L to R",0
+35914,6,cle,6/16/2015,188,201500962,0,chn,7:07 PM,Gerry Davis,Tony Randazzo,Will Little,Phil Cuzzi,Wrigley Field,"64 degrees, partly cloudy","8 mph, In from CF",0
+22245,5,col,6/16/2015,214,201500963,8,hou,1:13 PM,Bob Davidson,David Rackley,Jerry Layne,Hunter Wendelstedt,Minute Maid Park,"73 degrees, roof closed","0 mph, None",0
+27740,7,kca,6/16/2015,171,201500964,2,mil,7:11 PM,Clint Fagan,Jeff Nelson,Laz Diaz,Chris Guccione,Miller Park,"70 degrees, roof closed","0 mph, None",0
+31897,2,lan,6/16/2015,142,201500965,3,tex,7:09 PM,Chad Fairchild,Marvin Hudson,Jim Joyce,Greg Gibson,Globe Life Park in Arlington,"81 degrees, cloudy","10 mph, In from CF",0
+41203,2,min,6/16/2015,151,201500966,3,sln,12:46 PM,Joe West,Paul Nauert,Ed Hickox,Mike Estabrook,Busch Stadium,"80 degrees, overcast","2 mph, In from RF",92
+33083,2,nya,6/16/2015,189,201500967,12,mia,7:10 PM,Dale Scott,Lance Barrett,CB Bucknor,Gabe Morales,Marlins Park,"72 degrees, roof closed","0 mph, None",0
+28482,6,oak,6/16/2015,177,201500968,5,sdn,12:41 PM,Brian Gorman,Adam Hamari,Mike DiMuro,Tripp Gibson III,Petco Park,"67 degrees, overcast","5 mph, L to R",0
+26964,3,phi,6/16/2015,191,201500969,19,bal,7:06 PM,Quinn Wolcott,Gary Cederstrom,Eric Cooper,Lance Barksdale,Oriole Park at Camden Yards,"88 degrees, partly cloudy","3 mph, Out to RF",0
+41267,2,sea,6/16/2015,159,201500970,6,sfn,12:45 PM,Bill Welke,John Tumpane,James Hoye,John Hirschbeck,AT&T Park,"63 degrees, sunny","12 mph, R to L",0
+24522,2,tor,6/16/2015,155,201500971,3,nyn,7:12 PM,Sean Barber,Mark Wegner,Mike Winters,Mike Muchlinski,Citi Field,"74 degrees, overcast","10 mph, Out to LF",0
+11491,16,was,6/16/2015,188,201500972,4,tba,7:10 PM,Paul Schrieber,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,Tropicana Field,"72 degrees, dome","0 mph, None",0
+28481,2,ana,6/17/2015,180,201500973,3,ari,6:40 PM,Adrian Johnson,Bill Miller,Doug Eddings,Jim Wolf,Chase Field,"79 degrees, roof closed","0 mph, None",0
+26162,6,bal,6/17/2015,154,201500974,4,phi,7:07 PM,Gary Cederstrom,Eric Cooper,Lance Barksdale,Quinn Wolcott,Citizens Bank Park,"76 degrees, cloudy","11 mph, Out to LF",0
+28982,2,bos,6/17/2015,189,201500975,5,atl,7:10 PM,Larry Vanover,Ron Kulpa,Vic Carapazza,Brian Knight,Turner Field,"93 degrees, partly cloudy","9 mph, Out to CF",0
+15572,17,chn,6/17/2015,186,201500976,0,cle,7:10 PM,Tony Randazzo,Will Little,Phil Cuzzi,Gerry Davis,Progressive Field,"71 degrees, cloudy","7 mph, In from RF",0
+32546,4,det,6/17/2015,296,201500977,8,cin,7:10 PM,Todd Tichenor,Tim Welke,Mike Everitt,Tim Timmons,Great American Ball Park,"78 degrees, cloudy","7 mph, Varies",74
+33041,8,hou,6/17/2015,193,201500978,4,col,6:42 PM,David Rackley,Jerry Layne,Hunter Wendelstedt,Bob Davidson,Coors Field,"75 degrees, partly cloudy","9 mph, R to L",0
+43048,1,mia,6/17/2015,170,201500979,2,nya,7:08 PM,Lance Barrett,CB Bucknor,Gabe Morales,Dale Scott,Yankee Stadium,"70 degrees, cloudy","6 mph, R to L",0
+33420,2,mil,6/17/2015,185,201500980,10,kca,7:09 PM,Jeff Nelson,Laz Diaz,Chris Guccione,Clint Fagan,Kauffman Stadium,"83 degrees, cloudy","6 mph, R to L",0
+28906,0,nyn,6/17/2015,153,201500981,8,tor,7:07 PM,Mark Wegner,Mike Winters,Mike Muchlinski,Sean Barber,Rogers Centre,"63 degrees, partly cloudy","14 mph, In from RF",0
+19194,3,pit,6/17/2015,147,201500982,2,cha,7:11 PM,Dan Bellino,Tom Hallion,Bruce Dreckman,Alfonso Marquez,U.S. Cellular Field,"69 degrees, overcast","5 mph, L to R",0
+20625,2,sdn,6/17/2015,169,201500983,16,oak,7:07 PM,Adam Hamari,Mike DiMuro,Tripp Gibson III,Brian Gorman,O.co Coliseum,"60 degrees, clear","12 mph, Out to RF",0
+34844,0,sfn,6/17/2015,144,201500984,2,sea,7:10 PM,John Tumpane,James Hoye,John Hirschbeck,Bill Welke,Safeco Field,"72 degrees, clear","4 mph, In from CF",0
+34381,1,sln,6/17/2015,167,201500985,3,min,7:10 PM,Paul Nauert,Ed Hickox,Mike Estabrook,Joe West,Target Field,"69 degrees, cloudy","10 mph, Out to RF",0
+28929,5,tba,6/17/2015,155,201500986,0,was,7:08 PM,Fieldin Culbreth,Jim Reynolds,Manny Gonzalez,Paul Schrieber,Nationals Park,"77 degrees, cloudy","1 mph, Out to RF",27
+42906,5,tex,6/17/2015,198,201500987,3,lan,7:10 PM,Marvin Hudson,Jim Joyce,Greg Gibson,Chad Fairchild,Dodger Stadium,"72 degrees, clear","6 mph, Out to RF",0
+28942,7,ana,6/18/2015,156,201500988,1,ari,12:41 PM,Bill Miller,Doug Eddings,Jim Wolf,Adrian Johnson,Chase Field,"80 degrees, roof closed","0 mph, None",0
+26220,1,bal,6/18/2015,152,201500989,2,phi,1:07 PM,Eric Cooper,Lance Barksdale,Quinn Wolcott,Gary Cederstrom,Citizens Bank Park,"66 degrees, cloudy","7 mph, Out to LF",0
+31783,5,bos,6/18/2015,184,201500990,2,atl,7:55 PM,Ron Kulpa,Vic Carapazza,Brian Knight,Larry Vanover,Turner Field,"75 degrees, overcast","2 mph, Out to CF",45
+15891,3,chn,6/18/2015,181,201500991,4,cle,7:35 PM,Will Little,Phil Cuzzi,Gerry Davis,Tony Randazzo,Progressive Field,"75 degrees, overcast","2 mph, Out to CF",101
+30770,8,hou,6/18/2015,210,201500992,4,col,1:12 PM,Jerry Layne,Hunter Wendelstedt,Bob Davidson,David Rackley,Coors Field,"72 degrees, partly cloudy","8 mph, Varies",0
+38239,4,mia,6/18/2015,206,201500993,9,nya,7:09 PM,CB Bucknor,Gabe Morales,Dale Scott,Lance Barrett,Yankee Stadium,"67 degrees, overcast","6 mph, R to L",0
+36318,2,mil,6/18/2015,158,201500994,3,kca,7:11 PM,Laz Diaz,Chris Guccione,Clint Fagan,Jeff Nelson,Kauffman Stadium,"79 degrees, cloudy","9 mph, L to R",0
+27588,1,nyn,6/18/2015,154,201500995,7,tor,7:08 PM,Mike Winters,Mike Muchlinski,Sean Barber,Mark Wegner,Rogers Centre,"68 degrees, roof closed","0 mph, None",0
+21296,3,pit,6/18/2015,178,201500996,2,cha,7:10 PM,Tom Hallion,Bruce Dreckman,Alfonso Marquez,Dan Bellino,U.S. Cellular Field,"77 degrees, cloudy","12 mph, Out to CF",0
+16643,3,sdn,6/18/2015,159,201500997,1,oak,12:37 PM,Mike DiMuro,Tripp Gibson III,Brian Gorman,Adam Hamari,O.co Coliseum,"61 degrees, sunny","12 mph, Out to RF",0
+34354,7,sfn,6/18/2015,173,201500998,0,sea,7:10 PM,James Hoye,John Hirschbeck,Bill Welke,John Tumpane,Safeco Field,"68 degrees, partly cloudy","3 mph, L to R",0
+34648,1,sln,6/18/2015,158,201500999,2,min,12:11 PM,Ed Hickox,Mike Estabrook,Joe West,Paul Nauert,Target Field,"72 degrees, partly cloudy","6 mph, In from LF",0
