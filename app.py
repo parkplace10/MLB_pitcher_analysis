@@ -40,17 +40,17 @@ def home_page():
         
     else:
         # put the default data into our variables
-        pitcher = 'Adam Wainwright'
+        pitcher = '1'
         inning = '1'
         outs = '0'
         balls = '0'
         strikes = '0'
         pitch_num = '1'
-        stance = 'R'
-        previous_pitch_type = 'Four-Seamer'
-        previous_pitch_location = 'middle center'
-        predicted_pitch_type = 'Four-Seamer'
-        predicted_pitch_location = 'middle center'
+        stance = '1'
+        previous_pitch_type = '1'
+        previous_pitch_location = '1'
+        predicted_pitch_type = '1'
+        predicted_pitch_location = '1'
         
 
     input_data = { 'pitcher': pitcher, 'inning': inning, 'outs':outs, 'balls':balls, 'strikes':strikes, 'pitch_num':pitch_num, 'stance':stance, 
