@@ -29,7 +29,7 @@ def home_page():
         previous_pitch_type = request.form['previous_pitch_type']
         previous_pitch_location = request.form['previous_pitch_location']
 
-        new = np.array([pitcher, inning, pscore, bscore, outs, balls, strikes, pitch_num, stance, previous_pitch_type, previous_pitch_location])
+        new = np.array([[pitcher, inning, pscore, bscore, outs, balls, strikes, pitch_num, stance, previous_pitch_type, previous_pitch_location]])
 
         pitch_type_model = pickle.load(open('models/pitch_type_model.sav', 'rb'))
 
