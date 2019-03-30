@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Pitch Predictor</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="container text-center">
+    <h1 class="jumbotron">Pitch Predictor</h1>
+    <div>
+      <ul style="list-style: none;">
+
+        <!-- <li>Pitcher: {{ input_data['pitcher'] }}</li> -->
+        <li>Pitch Type: {{output_data['pitch_type']}}</li>
+        <li>Pitch Location: {{output_data['pitch_location']}}</li>
+          
+      </ul>
+      
+      <form method="POST">
+        Pitcher: <input type="text" name="pitcher" value="{{ input_data['pitcher'] }}"><br>
+        Inning:
+        <input type="text" name="inning" value="{{ input_data['inning'] }}"><br>
+        Pitcher Score:
+        <input type="text" name="pscore" value="{{ input_data['pscore'] }}"><br>
+        Batter Score:
+        <input type="text" name="bscore" value="{{ input_data['bscore'] }}"><br>
+        Pitch Number:<br>
+        <input type="text" name="pitchnum" value="{{ input_data['pitchnum'] }}"><br>
+        Outs:<br>
+        <input type="text" name="outs" value="{{ input_data['outs'] }}"><br>
+        Balls:<br>
+        <input type="text" name="balls" value="{{ input_data['balls'] }}"><br>
+        Strikes:<br>
+        <input type="text" name="strikes" value="{{ input_data['strikes'] }}"><br>
+        Batter Stance:<br>
+        <input type="text" name="stance" value="{{ input_data['stance'] }}"><br>
+        Type or Location:<br>
+        <input type="text" name="typeloc" value="{{ input_data['typeloc'] }}"><br>
+        Previous Pitch Type:<br>
+        <input type="text" name="previous_pitch_type" value="{{ output_data['previous_pitch_type'] }}"><br>
+        Previous Pitch Location:<br>
+        <input type="text" name="previous_pitch_location" value="{{ output_data['previous_pitch_location'] }}"><br>
+        
+        <input type="submit" value="Make Prediction">
+      </form>
+      
+    </div>
+  </div>
+</body>
+
+</html>
